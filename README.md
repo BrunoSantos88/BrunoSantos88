@@ -6,7 +6,7 @@ Devops Cloud<br>
 Ensino medio,
 Tecnico Informatica - SP. <br>
 -. <br>
-Experiencia com Redes, telecomunicações
+Experiencia com Redes, telecomunicações </p>
 Estudando ha 6 meses Devops e Cloud.<br>
  
 </p>
