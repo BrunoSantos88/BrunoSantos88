@@ -4,7 +4,7 @@
 <p align="left"> <br>
 Ensino medio.<br>
 Tecnico Informatica. <br>
--. <br>
+<br>
 Experiencia com Redes e Telecomunicações </p>
 Estudando devops,buscando se aprimorar e certificar.<br>
 </p>
