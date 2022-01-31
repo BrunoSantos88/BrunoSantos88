@@ -11,12 +11,12 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 
 <p align="left">
   🦄 Conhecimentos:  <strong> </p>
-         Cloud : AWS, GCP , ORACLE CLOUD</p>
-         Versionamento: GIT GITHUB</p>
+         Cloud (IAAS): AWS, GCP , ORACLE CLOUD </p>
+         Versionamento: GIT GITHUB </p>
 		 Provisionamento: Terraform </p>
 		 Virtualização: Docker e Kubernets </p>
 		 Oberservabildade: Prometheus , Grafana e Elastic-Search</p>
-		 Redes, Linux.</p>
+		 Redes, Linux ,Firewall,Protocolos.</p>
 		 
   Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate</p>
 		 
