@@ -17,8 +17,10 @@ Estudando ha 6 meses Devops e Cloud.<br>
          Versionamento: GIT GITHUB</p>
 		 Provisionamento: Terraform </p>
 		 Virtualização: Docker e Kubernets </p>
-		 Oberservabildade: Prometheus , Grafana e elastic-Search</p>
-		 Redes, LInux.</p>
+		 Oberservabildade: Prometheus , Grafana e Elastic-Search</p>
+		 Redes, Linux.</p>
+		 
+  Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate</p>
 		 
   💼 Ferramentas // tools: <strong>VSCode,Git and GitHub.</strong>
 </p>
