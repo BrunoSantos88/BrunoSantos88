@@ -16,7 +16,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		 Provisionamento: Terraform </p>
 		 Virtualização: Docker e Kubernets </p>
 		 Oberservabildade: Prometheus , Grafana e Elastic-Search</p>
-		 Redes, Linux ,Firewall,Protocolos.</p>
+		 Redes, Linux ,Firewall e Protocolos.</p>
 		 
   Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate</p>
 		 
