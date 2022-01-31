@@ -20,7 +20,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		 
   Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate</p>
 		 
-  💼 Ferramentas // tools: <strong>VSCode,Git and GitHub.</strong>
+  💼 Ferramentas // tools: <strong>VSCode.</strong>
 </p>
 
 <p align="left">
