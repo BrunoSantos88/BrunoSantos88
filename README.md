@@ -12,13 +12,12 @@ Estudando ha 6 meses Devops e Cloud.<br>
 </p>
 
 <p align="left">
-  🦄 Conhecimentos: <strong> 
-         Cloud :AWS, GCP , ORACLE CLOUD</p>
-         Versionamento: GIT GITHUB
-		 Provisionamento: Terraform
-		 Virtualização: Docker e Kubernets
-		 Oberservabildade: Prometheus , Grafana e elastic-Search 
-		 Redes, LInux.
+  🦄 Conhecimentos:  <strong> Cloud :AWS, GCP , ORACLE CLOUD</p>
+         Versionamento: GIT GITHUB</p>
+		 Provisionamento: Terraform </p>
+		 Virtualização: Docker e Kubernets </p>
+		 Oberservabildade: Prometheus , Grafana e elastic-Search</p>
+		 Redes, LInux.</p>
 		 
   💼 Ferramentas // tools: <strong>VSCode,Git and GitHub.</strong>
 </p>
