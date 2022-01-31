@@ -7,7 +7,7 @@ Ensino medio,.<br>
 Tecnico Informatica - SP. <br>
 -. <br>
 Experiencia com Redes e Telecomunicações </p>
-Estudando devops, busvcando se aprimorar e certificar.<br>
+Estudando devops,buscando se aprimorar e certificar.<br>
 </p>
 
 <p align="left">
