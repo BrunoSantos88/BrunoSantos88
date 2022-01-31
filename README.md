@@ -12,7 +12,8 @@ Estudando ha 6 meses Devops e Cloud.<br>
 </p>
 
 <p align="left">
-  🦄 Conhecimentos:  <strong> Cloud :AWS, GCP , ORACLE CLOUD</p>
+  🦄 Conhecimentos:  <strong> </p>
+         Cloud : AWS, GCP , ORACLE CLOUD</p>
          Versionamento: GIT GITHUB</p>
 		 Provisionamento: Terraform </p>
 		 Virtualização: Docker e Kubernets </p>
