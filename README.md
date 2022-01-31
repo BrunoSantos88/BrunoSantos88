@@ -3,12 +3,11 @@
 
 <p align="left"> 
 Devops Cloud<br>
-Ensino medio,
+Ensino medio,.<br>
 Tecnico Informatica - SP. <br>
 -. <br>
-Experiencia com Redes, telecomunicações </p>
-Estudando ha 6 meses Devops e Cloud.<br>
- 
+Experiencia com Redes e Telecomunicações </p>
+Estudando devops, busvcando se aprimorar e certificar.<br>
 </p>
 
 <p align="left">
