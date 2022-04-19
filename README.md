@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 <p align="left"> <br>
-Ensino medio.<br>
+Ensino Medio.<br>
 Tecnico Informatica. <br>
 <br>
 Experiencia com Redes e Telecomunicações. </p>
@@ -15,11 +15,11 @@ Estudando devops,buscando se aprimorar e certificar.<br>
          Versionamento: GIT GITHUB </p>
 		 Provisionamento: Terraform </p>
 		 Virtualização: Docker e Kubernets </p>
-		 Oberservabildade: Prometheus , Grafana e Elastic-Search</p>
-		 Redes, Linux ,Firewall e Protocolos.</p>
+		 Oberservabildade: Prometheus/Grafana/ElasticSearch</p>
+		 [Redes,Linux,Firewall,Protocolos]</p>
 		 
-  Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate 
-  Oracle Cloud Infrastructure 2021 Certified Architect Associate
+  Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate </p>
+  Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
   Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
 		 
   💼 Ferramentas // tools: <strong>VSCode.</strong>
