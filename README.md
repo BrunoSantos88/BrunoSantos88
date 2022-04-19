@@ -37,7 +37,6 @@ Estudando devops,buscando se aprimorar e certificar.<br>
   <a href="https://www.linkedin.com/in/bruno-santos-6789a2154/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 	
-	</div>
-
+</div>
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
