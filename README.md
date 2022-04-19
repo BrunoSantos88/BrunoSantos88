@@ -11,11 +11,11 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 
 <p align="left">
   🦄 Conhecimentos: <strong> </p>
-         Cloud(IAAS): AWS, GCP , ORACLE CLOUD </p>
+         Cloud Computing: AWS/GCP/OCI </p>
          Versionamento: GIT GITHUB </p>
 		 Provisionamento: Terraform </p>
-		 Virtualização: Docker/Kubernets </p>
-		 Oberservabildade: Prometheus/Grafana/ElasticSearch</p>
+		 Virtualização:Docker/Kubernets </p>
+		 Monitoramentos: Prometheus/Grafana/ElasticSearch</p>
 		 Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
 		 
   Certificação: </p> 
