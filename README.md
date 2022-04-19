@@ -12,7 +12,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 <p align="left">
   🦄 Conhecimentos: <strong> </p>
          Cloud Computing: AWS/GCP/OCI </p>
-         Versionamento: GIT GITHUB </p>
+        versionamento: GIT </p>
 		 IaaC:Terraform </p>
 		 Virtualização:Docker/Kubernets </p>
 		 Monitoramentos: Prometheus/Grafana/ElasticSearch</p>
