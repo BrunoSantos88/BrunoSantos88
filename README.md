@@ -11,12 +11,12 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 
 <p align="left">
   🦄 Conhecimentos: <strong> </p>
-         Cloud Computing: AWS/GCP/OCI </p>
+        Cloud Computing: AWS/GCP/OCI </p>
         versionamento: GIT </p>
-		 IaaC:Terraform </p>
-		 Virtualização:Docker/Kubernets </p>
-		 Monitoramentos: Prometheus/Grafana/ElasticSearch</p>
-		 Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
+		 - IaaC:Terraform </p>
+		 - Orquestração: Docker/Kubernets </p>
+		 - Monitoramento: Prometheus/Grafana/ElasticSearch</p>
+		 - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
 		 
   Certificação: </p> 
   Oracle Cloud Infrastructure Foundations 2021 Associate </p>
