@@ -10,7 +10,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 </p>
 
 <p align="left">
-  🦄 Conhecimentos:  <strong> </p>
+  🦄 Conhecimentos: <strong> </p>
          Cloud(IAAS): AWS, GCP , ORACLE CLOUD </p>
          Versionamento: GIT GITHUB </p>
 		 Provisionamento: Terraform </p>
@@ -18,7 +18,8 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		 Oberservabildade: Prometheus/Grafana/ElasticSearch</p>
 		 [Redes,Linux,Firewall,Protocolos]</p>
 		 
-  Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate </p>
+  Certificação: </p> 
+  Oracle Cloud Infrastructure Foundations 2021 Associate </p>
   Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
   Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
 		 
