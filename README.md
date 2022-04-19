@@ -19,7 +19,8 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		 - Orquestração: Docker/Kubernets </p>
 		 - Monitoramento: Prometheus/Grafana/ElasticSearch</p>
 		 - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
-		 
+<a href="https://instagram.com/fernandokelb582" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
   - Certificação: </p> 
   - Oracle Cloud Infrastructure Foundations 2021 Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
