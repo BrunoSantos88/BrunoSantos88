@@ -1,4 +1,4 @@
-# Olá! Eu sou o Bruno Santos Ferreira Da Silva
+# Olá! Eu sou Bruno Santos
 
 🔔 Fazendo 1 Bootcamp de 3 meses disponibilizado pela Campinho Digital e Amazon web service da AWS Cloud
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
