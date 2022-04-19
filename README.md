@@ -18,7 +18,9 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		 Oberservabildade: Prometheus , Grafana e Elastic-Search</p>
 		 Redes, Linux ,Firewall e Protocolos.</p>
 		 
-  Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate </p>
+  Certificação: Oracle Cloud Infrastructure Foundations 2021 Associate 
+  Oracle Cloud Infrastructure 2021 Certified Architect Associate
+  Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
 		 
   💼 Ferramentas // tools: <strong>VSCode.</strong>
 </p>
