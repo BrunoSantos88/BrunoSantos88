@@ -14,9 +14,9 @@ Estudando devops,buscando se aprimorar e certificar.<br>
          Cloud(IAAS): AWS, GCP , ORACLE CLOUD </p>
          Versionamento: GIT GITHUB </p>
 		 Provisionamento: Terraform </p>
-		 Virtualização: Docker e Kubernets </p>
+		 Virtualização: Docker/Kubernets </p>
 		 Oberservabildade: Prometheus/Grafana/ElasticSearch</p>
-		 [Redes,Linux,Firewall,Protocolos]</p>
+		 Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
 		 
   Certificação: </p> 
   Oracle Cloud Infrastructure Foundations 2021 Associate </p>
