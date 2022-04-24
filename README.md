@@ -3,10 +3,6 @@
 🔔 Fazendo 1 Bootcamp de 3 meses disponibilizado pela Campinho Digital e Amazon web service da AWS Cloud
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
-<p align="left"> <br>
-Ensino Medio.<br>
-Tecnico Informatica. <br>
-<br>
 Experiencia com Redes e Telecomunicações. </p>
 Estudando devops,buscando se aprimorar e certificar.<br>
 </p>
