@@ -12,7 +12,8 @@ Estudando devops,buscando se aprimorar e certificar.<br>
        - Cloud Computing: AWS/GCP/OCI </p>
        - Versionamento: GIT </p>
 		 - IaaC:Terraform </p>
-		 - Orquestração: Docker/Kubernets </p>
+		 - Conhecimentos Orquestração: Docker/Kubernets </p>
+		 - Conhecimento CI/CDI CODECOMMIT.CODEDEBUILD.CODEDEPLOY </p>
 		 - Monitoramento: Prometheus/Grafana/ElasticSearch</p>
 		 - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
 
