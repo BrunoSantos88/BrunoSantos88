@@ -13,7 +13,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
        - Versionamento: GIT </p>
 		 - IaaC:Terraform </p>
 		 - Conhecimentos Orquestração: Docker/Kubernets </p>
-		 - Conhecimento CI/CDI CODECOMMIT.CODEDEBUILD.CODEDEPLOY </p>
+		 - Conhecimento CI/CDI "CODECOMMIT.CODEDEBUILD.CODEDEPLOY"  </p>
 		 - Monitoramento: Prometheus/Grafana/ElasticSearch</p>
 		 - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
 
