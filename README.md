@@ -9,11 +9,11 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 
 <p align="left">
   🦄 Conhecimentos: <strong> </p>
-       - Cloud Computing: AWS/GCP/OCI </p>
+       - Cloud Computing (IAAS): AWS/GCP/OCI </p>
        - Versionamento: GIT </p>
-		 - IaaC:Terraform, Boto3 , cloud Formation </p>
-		 - Conhecimentos Orquestração: Docker/Kubernets </p>
-		 - Conhecimento CI/CD "CODECOMMIT.CODEDEBUILD.CODEDEPLOY"  </p>
+		 - IaaC: "Terraform, Boto3 , cloud Formation" </p>
+		 - Conhecimentos Orquestração: "Docker/Kubernets" </p>
+		 - Conhecimento CI/CD "CODECOMMIT,CODEDEBUILD,CODEDEPLOY,CODEPIPELINE,CODEARTIFECT" </p>
 		 - Monitoramento: Prometheus/Grafana/ElasticSearch </p>
 		 - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
 		 - Conhecimentos Linguagem "python, shellScript" .</p>
@@ -23,7 +23,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		  
 
   
-  - Certificação: </p> 
+  - Minhas Certificação: </p> 
   - AWS Cloud Partitone 2022 </p>
   - Oracle Cloud Infrastructure Foundations 2021 Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
