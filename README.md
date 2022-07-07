@@ -17,8 +17,8 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		 - Monitoramento: Prometheus/Grafana/ElasticSearch </p>
 		 - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
 		 - Conhecimentos Linguagem "python, shellScript" .</p>
-		 - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube"
-		 - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP"
+		 - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube" </p>
+		 - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
 		 - Conhecimentos SQL .</p>
 		  
 
