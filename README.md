@@ -47,7 +47,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<img align="center" alt="Rafa-Js" height="50" width="60" src="https://user-images.githubusercontent.com/91704169/181257745-0efc218e-d35c-4ac1-9db8-0c095e900350.png" />
+
   <img align="center" alt="Rafa-Js" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
