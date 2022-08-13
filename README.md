@@ -52,5 +52,5 @@ Estudando devops,buscando se aprimorar e certificar.<br>
   <img align="center" alt="Rafa-Js" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
-  <img align="center" alt="https://github.com/BrunoSantos88/BrunoSantos88/issues/2#issue-1338084541" />
+  <img align="center" alt="https://github.com/BrunoSantos88/BrunoSantos88/issues/2#issue-1338084541"/>
 
