@@ -10,7 +10,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 
 <p align="left">
   🦄 Conhecimentos: <strong> </p>
-       - Cloud Computing (IAAS): AWS/GCP/OCI </p>
+       - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE </p>
        - Versionamento: GIT </p>
 		 - IaaC: "Terraform, Boto3 , cloud Formation" </p>
 		 - Conhecimentos Orquestração: "Docker/Kubernets" </p>
@@ -21,6 +21,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		 - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube" </p>
 		 - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
 		 - Conhecimentos SQL .</p>
+		 - conhecimentos Banco de Dados: Relacional.
 		  
 
   
