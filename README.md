@@ -1,6 +1,7 @@
 # Olá! Eu sou Bruno Santos
 
-🔔 Fazendo 1 Bootcamp de 3 meses disponibilizado pela Campinho Digital e Amazon web service da AWS Cloud
+🔔 Cursando Fatec Curso de Ciencia de Dados.
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
@@ -23,7 +24,7 @@ Estudando devops,buscando se aprimorar e certificar.<br>
 		  
 
   
-Minhas Certificação: </p> 
+🔔 Minhas Certificação: </p> 
   - AWS Cloud Partitone 2022 </p>
   - AZ900 </p>
   - Oracle Cloud Infrastructure Foundations 2021 Associate </p>
