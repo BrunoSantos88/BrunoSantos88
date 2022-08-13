@@ -12,19 +12,17 @@ Estudando devops,buscando se aprimorar e certificar.<br>
   🦄 Conhecimentos: <strong> </p>
        - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE </p>
        - Versionamento: GIT </p>
-		 - IaaC: "Terraform, Boto3 , cloud Formation" </p>
-		 - Conhecimentos Orquestração: "Docker/Kubernets" </p>
-		 - Conhecimento CI/CD "CODECOMMIT,CODEDEBUILD,CODEDEPLOY,CODEPIPELINE,CODEARTIFECT" </p>
-		 - Monitoramento: Prometheus/Grafana/ElasticSearch </p>
-		 - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
-		 - Conhecimentos Linguagem "python, shellScript" .</p>
-		 - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube" </p>
-		 - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
-		 - Conhecimentos SQL .</p>
-		 - conhecimentos Banco de Dados: Relacional.
-		  
-
-  
+       - IaaC: "Terraform, Boto3 , cloud Formation" </p>
+       - Conhecimentos Orquestração: "Docker/Kubernets" </p>
+       - Conhecimento CI/CD "CODECOMMIT,CODEDEBUILD,CODEDEPLOY,CODEPIPELINE,CODEARTIFECT" </p>
+       - Monitoramento: Prometheus/Grafana/ElasticSearch </p>
+       - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
+       - Conhecimentos Linguagem "python, shellScript" .</p>
+       - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube" </p>
+       - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
+       - Conhecimentos SQL .</p>
+       - conhecimentos Banco de Dados: Relacional. </p>
+				  
 🔔 Minhas Certificação: </p> 
   - AWS Cloud Partitone 2022 </p>
   - AZ900 </p>
