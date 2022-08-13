@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
-Estudando devops,buscando se aprimorar e certificar.<br>
+Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br>
 </p>
 
 <p align="left">
