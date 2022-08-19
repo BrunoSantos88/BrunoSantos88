@@ -41,7 +41,7 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
   <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/bruno-santos-6789a2154/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 	
 </div>
