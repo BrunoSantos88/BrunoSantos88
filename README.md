@@ -52,4 +52,6 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
   <img align="center" alt="Rafa-Js" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+   <img align="center" alt="Rafa-Js" height="60" width="50" src="https://user-images.githubusercontent.com/91704169/185672398-22d20cdc-c0b4-4e07-b5f1-5c350bb5c34b.jpg" p/>
+ 
 
