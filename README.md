@@ -1,12 +1,12 @@
 # Olá! Eu sou Bruno Santos
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e FAT:DP900
-
+🔔 Proximas Certirficações SC-900, DP-900 e AZ-104
 ___________________________________________________________________________________________________________________________________________________
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
-Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br>
+Sempre estudando conteudo de SRE Devops, Devops e Cloud InfraEstrura.<br>
 </p>
 
 <p align="left">
