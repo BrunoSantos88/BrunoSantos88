@@ -36,7 +36,7 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> 
 
 🔔 BootCamps Realizados </p> 
-<img align="center" alt="Rafa-Js" height="80" width="120" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" />
+<img align="center" alt="Rafa-Js" height="80" width="120" src="" />
 		
 💼 Ferramentas </p>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
