@@ -32,7 +32,7 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
 
-🔔 BootCamps realizados
+🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" />
 
 
