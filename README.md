@@ -17,11 +17,10 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
-  <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" p/>
-  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://user-images.githubusercontent.com/91704169/185972144-6a5d0d3f-7a57-40a3-8a67-411f7fe7a5c1.png" p/>
-  <img align="center" alt="Rafa-Js" height="40" width="60"https://user-images.githubusercontent.com/91704169/189951907-45ea5d71-c996-4222-acf2-a08b98fe224f.png" 
-  p/> 
-       
+  <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://user-images.githubusercontent.com/91704169/185972144-6a5d0d3f-7a57-40a3-8a67-411f7fe7a5c1.png" />
+  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://user-images.githubusercontent.com/91704169/189951907-45ea5d71-c996-4222-acf2-a08b98fe224f.png" /> </p>
+ 
        💌 Conhecimentos:
        - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
        - Versionamento: GIT </p>
