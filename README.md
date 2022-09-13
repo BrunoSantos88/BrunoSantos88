@@ -1,5 +1,5 @@
 # Olá! Eu sou Bruno Santos
-🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e FAT:DP900
+🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e FAT:DP900 </p>
 🔔 Proximas Certirficações SC-900, DP-900 e AZ-104
 ___________________________________________________________________________________________________________________________________________________
 
