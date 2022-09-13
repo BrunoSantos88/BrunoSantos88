@@ -33,6 +33,9 @@ ________________________________________________________________________________
 🔔 Certificação </p> 
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" /> </p>
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> </P>
+
+<img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189936516-2c1f9f33-51c2-4ba5-8cb8-8b14b8db2368.png" />
+
 💌 Certificaçações Praticas </p> 
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" /> </p> 
 💼 Cursos e Bootcamps </p> 
