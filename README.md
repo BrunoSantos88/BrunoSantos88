@@ -30,12 +30,12 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
        - Conhecimentos Banco de Dados: Relacional. </p>  
 _________________________________________________________________________________________________________________________________________________
 				  
-🔔 Minhas Certificação Realizadas: </p> 
+🔔 Certificação </p> 
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" /> </p>
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> </P>
-💌 Certificaçações Praticas Realizadas: </p> 
+💌 Certificaçações Praticas </p> 
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" /> </p> 
-💼 BootCamps Realizados </p> 
+💼 BootCamps </p> 
 <img align="center" alt="Rafa-Js" height="80" width="120" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" />
 		
 💌 Ferramentas </p>
