@@ -29,6 +29,8 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
        - Conhecimentos SQL .</p>
        - Conhecimentos Banco de Dados: Relacional. </p>  
 
+___________________________________________________________________________________________________________________________________________________
+
 💌 Ferramentas </p>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
