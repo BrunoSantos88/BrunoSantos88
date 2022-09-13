@@ -1,5 +1,6 @@
 # Olá! Sou Bruno Santos
 💼OPN Oracle Cloud  </p>
+ <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189937763-f6e4f8ef-3a3e-4912-8f0c-1123d23c8a52.png" /> <p/>
 
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e Fundação Fatec:DP-900 </p>
 🔔 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution </p>
