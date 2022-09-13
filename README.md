@@ -23,7 +23,7 @@ ________________________________________________________________________________
        - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
        - Conhecimentos SQL .</p>
        - conhecimentos Banco de Dados: Relacional. </p>  
-_______________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________
 				  
 🔔 Minhas Certificação: </p> 
   - AWS Cloud Partitone 2022 </p>
@@ -32,7 +32,7 @@ ________________________________________________________________________________
   - Oracle Cloud Infrastructure Foundations 2022 Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
-________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________
 🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" />
 
@@ -55,8 +55,8 @@ ________________________________________________________________________________
   <img align="center" alt="Rafa-Js" height="40" width="60" src="https://user-images.githubusercontent.com/91704169/185972144-6a5d0d3f-7a57-40a3-8a67-411f7fe7a5c1.png"
   p/>
   
+  _________________________________________________________________________________________________________________________________________________________________
   </div>
-
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
        
