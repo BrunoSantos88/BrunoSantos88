@@ -35,16 +35,6 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________
 🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" />
-
-  💌 Entre em contato comigo :) // contact me ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 	
 ________________________________________________________________________________________________________________________________________________________________	
 💼 Ferramentas </p>
@@ -59,6 +49,17 @@ ________________________________________________________________________________
   </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+_________________________________________________________________________________________________________________________________________________________________
+💌 Entre em contato comigo :) // contact me ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
        
 
