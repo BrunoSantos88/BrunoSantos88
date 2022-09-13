@@ -16,7 +16,7 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
 🦄 Conhecimentos: <strong> </p>
        - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE </p>
        - Versionamento: GIT </p>
-       - Operacional Sistem : Linux e Windows
+       - Operacional Sistem : Linux e Windows </p>
        - IaaC: "Terraform, Boto3 , Cloud Formation" </p>
        - Conhecimentos Orquestração: "Docker/Kubernets" </p>
        - Conhecimento CI/CD </p>
