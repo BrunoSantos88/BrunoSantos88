@@ -29,6 +29,14 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
        - Conhecimentos SQL .</p>
        - Conhecimentos Banco de Dados: Relacional. </p>  
 
+💌 Ferramentas </p>
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+  <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" p/>
+  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://user-images.githubusercontent.com/91704169/185972144-6a5d0d3f-7a57-40a3-8a67-411f7fe7a5c1.png"
+  p/>
+  
 ___________________________________________________________________________________________________________________________________________________				  
 🔔 Certificações </p> 
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" /> </p>
@@ -42,16 +50,6 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________
 
-💌 Ferramentas </p>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
-  <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" p/>
-  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://user-images.githubusercontent.com/91704169/185972144-6a5d0d3f-7a57-40a3-8a67-411f7fe7a5c1.png"
-  p/>
-  
-  ___________________________________________________________________________________________________________________________________________________
-  
   </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
