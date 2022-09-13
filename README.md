@@ -18,24 +18,24 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud e com Infra is Code .
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
  
-       💌 Conhecimentos:
-       - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
-       - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL.
-       - Versionamento: GIT
-       - Repositorio: GITHUB.
-       - Operacional Sistem : Linux e Windows
-       - IaaC: "Terraform, Boto3 , Cloud Formation"
-       - Conhecimentos Orquestração: "Docker/Kubernets"
-       - Conhecimento CI/CD.
-       - Observabilidade: Prometheus/Grafana/ElasticSearch 
-       - Monitoramento: Zabbix e Nagios
-       - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.
-       - Conhecimentos Linguagem "python, nodeJS".
-       - Automação: ShellScript e Python.
-       - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube"
-       - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP"
-       - Conhecimentos SQL.
-       - Conhecimentos Banco de Dados: Relacional. 
+   💌 Conhecimentos:
+   - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
+   - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL.
+   - Versionamento: GIT
+   - Repositorio: GITHUB.
+   - Operacional Sistem : Linux e Windows
+   - IaaC: "Terraform, Boto3 , Cloud Formation"
+   - Conhecimentos Orquestração: "Docker/Kubernets"
+   - Conhecimento CI/CD.
+   - Observabilidade: Prometheus/Grafana/ElasticSearch 
+   - Monitoramento: Zabbix e Nagios
+   - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.
+   - Conhecimentos Linguagem "python, nodeJS".
+   - Automação: ShellScript e Python.
+   - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube"
+   - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP"
+   - Conhecimentos SQL.
+   - Conhecimentos Banco de Dados: Relacional. 
          
 ___________________________________________________________________________________________________________________________________________________				  
 🔔 Certificações </p> 
