@@ -32,11 +32,11 @@ AWS </p>
 AZURE </p>
 <img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> <p/>
 Oracle Cloud </p>
-<img align="rigth" alt="Rafa-Js" height="100" width="180" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" />
-<img align="rigth" alt="Rafa-Js" height="100" width="180" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" /> 
-<img align="rigth" alt="Rafa-Js" height="100" width="180" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" />
+<img align="rigth" alt="Rafa-Js" height="80" width="150" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" />
+<img align="rigth" alt="Rafa-Js" height="100" width="150" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" /> 
+<img align="rigth" alt="Rafa-Js" height="100" width="150" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" />
 
-<img align="rigth" alt="Rafa-Js" height="100" width="180" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" />
+<img align="rigth" alt="Rafa-Js" height="100" width="150" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" />
 
 🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="80" width="120" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" />
