@@ -35,12 +35,6 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
 🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" />
 
-
-		 
-  💼 Ferramentas // tools: <strong>VSCode.</strong>
-</p>
-
-<p align="left">
   💌 Entre em contato comigo :) // contact me ⤵️
 </p>
 
@@ -55,7 +49,7 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
+💼 Ferramentas 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
