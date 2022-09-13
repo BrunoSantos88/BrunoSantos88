@@ -1,5 +1,4 @@
 # Olá! Eu sou Bruno Santos
-
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e FAT:DP900
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
@@ -8,8 +7,10 @@ Experiencia com Redes e Telecomunicações. </p>
 Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br>
 </p>
 
+_______________________________________________________________________________________________________________________________________________________________________
+
 <p align="left">
-  🦄 Conhecimentos: <strong> </p>
+🦄 Conhecimentos: <strong> </p>
        - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE </p>
        - Versionamento: GIT </p>
        - IaaC: "Terraform, Boto3 , cloud Formation" </p>
@@ -21,8 +22,8 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
        - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube" </p>
        - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
        - Conhecimentos SQL .</p>
-       - conhecimentos Banco de Dados: Relacional. </p>
-
+       - conhecimentos Banco de Dados: Relacional. </p>  
+_______________________________________________________________________________________________________________________________________________________________________
 				  
 🔔 Minhas Certificação: </p> 
   - AWS Cloud Partitone 2022 </p>
@@ -31,7 +32,7 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
   - Oracle Cloud Infrastructure Foundations 2022 Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
-
+_______________________________________________________________________________________________________________________________________________________________________
 🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" />
 
@@ -44,6 +45,8 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
 
   <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+	
+_______________________________________________________________________________________________________________________________________________________________________
 	
 </div>
 
