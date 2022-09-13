@@ -1,4 +1,6 @@
-# Olá! Eu sou Bruno Santos
+# Olá! Sou Bruno Santos
+💼Partner Oracle Cloud
+
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e FAT:DP900 </p>
 🔔 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution   </p>
 ___________________________________________________________________________________________________________________________________________________
