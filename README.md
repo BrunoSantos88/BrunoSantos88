@@ -26,8 +26,10 @@ Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br
 🔔 Minhas Certificação: </p> 
   - AWS Cloud Partitone 2022 </p>
   - AZ900 </p>
-  - Oracle Cloud Infrastructure Foundations 2021 Associate </p>
+  - Oracle Cloud Infrastructure Foundations 2022 Associate </p>
+  - Oracle Cloud Data Management 2022 Foundations </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
+  - Oracle Cloud Data Management 2022 Foundations </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
 		 
   💼 Ferramentas // tools: <strong>VSCode.</strong>
