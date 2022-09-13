@@ -9,7 +9,7 @@ ________________________________________________________________________________
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
-Sempre estudando conteudo de SRE.Devops, Segurança e Cloud e Infra is Code .<br>
+Sempre estudando conteudo de SRE.Devops, Segurança, Cloud e com Infra is Code .<br>
 </p>
 
 <p align="left">
