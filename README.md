@@ -36,12 +36,12 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
          
 ___________________________________________________________________________________________________________________________________________________				  
 🔔 Certificações </p> 
-<img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" />
-<img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> </p>
+<img align="center" alt="Rafa-Js" height="90" width="110" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" />
+<img align="center" alt="Rafa-Js" height="90" width="110" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> </p>
 
 💌 Certificaçações Praticas </p> 
 
-<img align="left" alt="Rafa-Js" height="90" width="110" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" />  
+<img align="left" alt="Rafa-Js" height="80" width="110" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" />  
 <img align="center" alt="Rafa-Js" height="80" width="110" src="https://user-images.githubusercontent.com/91704169/189935290-afdb61b1-d80b-497f-8473-8e5ef2985bb6.png" />
 
 💼 Bootcamps </p> 
