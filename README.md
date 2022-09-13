@@ -3,7 +3,7 @@
 
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e Fundação Fatec:DP-900 </p>
 🔔 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution </p>
-🦄 Futuro mais breve Certirficações: AZ-400, AZ-500 , Oracle DataBase Professional e Oracle Exadata.
+🦄 Futuro mais breve Certirficações: AZ-400, AZ-500 , Oracle DataBase Professional e Oracle Exadata expecialista.
 ___________________________________________________________________________________________________________________________________________________
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
@@ -16,6 +16,7 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
 🦄 Conhecimentos: <strong> </p>
        - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE </p>
        - Versionamento: GIT </p>
+       - Operacional Sistem : Linux e Windows
        - IaaC: "Terraform, Boto3 , Cloud Formation" </p>
        - Conhecimentos Orquestração: "Docker/Kubernets" </p>
        - Conhecimento CI/CD </p>
