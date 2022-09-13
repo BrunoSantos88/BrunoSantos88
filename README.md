@@ -28,7 +28,7 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
        - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
        - Conhecimentos SQL .</p>
        - Conhecimentos Banco de Dados: Relacional. </p>  
-_________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
 				  
 🔔 Certificações </p> 
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" /> </p>
@@ -53,8 +53,8 @@ ________________________________________________________________________________
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-________________________________________________________________________________________________________________________________________________________
-💌 Entre em contato comigo :) // contact me ⤵️
+_____________________________________________________________________________________________________________________________________________________
+💌 Entre em contato comigo :) // contact me ⤵
 </p>
 
 <p align="left">
