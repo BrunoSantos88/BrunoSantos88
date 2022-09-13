@@ -50,6 +50,8 @@ ________________________________________________________________________________
   <img align="center" alt="Rafa-Js" height="40" width="60" src="https://user-images.githubusercontent.com/91704169/185972144-6a5d0d3f-7a57-40a3-8a67-411f7fe7a5c1.png"
   p/>
   
+  ___________________________________________________________________________________________________________________________________________________
+  
   </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
