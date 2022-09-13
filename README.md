@@ -26,7 +26,7 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
 ________________________________________________________________________________________________________________________________________________________
 				  
 🔔 Minhas Certificação: </p> 
-  - AWS Cloud Partitione
+  - AWS Cloud Partitione </p>
   - microsoft AZ-900 Fundamentos </p>
   - Oracle Cloud Data Management 2022 Foundations Associate </p>
   - Oracle Cloud Infrastructure Foundations 2022 Associate </p>
