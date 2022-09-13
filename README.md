@@ -22,20 +22,20 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
   p/> 
        
        💌 Conhecimentos:
-       - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE </p>
+       - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
        - Versionamento: GIT </p>
-       - Operacional Sistem : Linux e Windows </p>
-       - IaaC: "Terraform, Boto3 , Cloud Formation" </p>
-       - Conhecimentos Orquestração: "Docker/Kubernets" </p>
+       - Operacional Sistem : Linux e Windows
+       - IaaC: "Terraform, Boto3 , Cloud Formation"
+       - Conhecimentos Orquestração: "Docker/Kubernets"
        - Conhecimento CI/CD </p>
-       - Monitoramento: Prometheus/Grafana/ElasticSearch </p>
-       - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
+       - Monitoramento: Prometheus/Grafana/ElasticSearch 
+       - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.
        - Conhecimentos Linguagem "python, nodeJS" .</p>
-       - Automação: ShellScript e Python </p>
-       - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube" </p>
-       - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
-       - Conhecimentos SQL .</p>
-       - Conhecimentos Banco de Dados: Relacional. </p>  
+       - Automação: ShellScript e Python.
+       - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube"
+       - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP"
+       - Conhecimentos SQL.
+       - Conhecimentos Banco de Dados: Relacional. 
          
 ___________________________________________________________________________________________________________________________________________________				  
 🔔 Certificações </p> 
