@@ -34,7 +34,7 @@ ________________________________________________________________________________
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
 
 🔔 BootCamps Realizados </p> 
-<img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" /p>
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" />
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" /p>
 		
 💼 Ferramentas </p>
