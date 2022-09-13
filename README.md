@@ -29,7 +29,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud e com Infra is Code <
    - Conhecimento CI/CD.
    - Observabilidade: Prometheus/Grafana/ElasticSearch 
    - Monitoramento: Zabbix e Nagios
-   - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.
+   - Networking and Protocols: "TCP/IP","DNS","HTTP","HTTPS"
    - Conhecimentos Linguagem "python, nodeJS".
    - Automação: ShellScript e Python.
    - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube"
