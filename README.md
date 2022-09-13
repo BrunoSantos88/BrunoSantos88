@@ -45,7 +45,7 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="80" width="110" src="https://user-images.githubusercontent.com/91704169/189935290-afdb61b1-d80b-497f-8473-8e5ef2985bb6.png" />
 
 💼 Bootcamps </p> 
-<img align="center" alt="Rafa-Js" height="60" width="90" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" /> 
+<img align="center" alt="Rafa-Js" height="80" width="110" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" /> 
 </p>
 
 __________________________________________________________________________________________________________________________________________________
