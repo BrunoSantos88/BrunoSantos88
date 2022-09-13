@@ -2,7 +2,7 @@
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e FAT:DP900 </p>
 🔔 Proximas Certirficações SC-900, DP-900 e AZ-104  </p>
 
-<img align="center" alt="Rafa-Js" height="50" width="80" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" />
+<img align="center" alt="Rafa-Js" height="50" width="80" src="https://user-images.githubusercontent.com/91704169/189908754-6c0fab0f-e949-4fd6-ac5f-40dec82471c2.png" />
 ___________________________________________________________________________________________________________________________________________________
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
