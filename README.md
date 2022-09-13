@@ -6,7 +6,7 @@ ________________________________________________________________________________
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
-Sempre estudando conteudo de SRE Devops, Devops e Cloud e infraEstrututura.<br>
+Sempre estudando conteudo de SRE Devops, Devops e Cloud e InfraEstrututura.<br>
 </p>
 
 <p align="left">
