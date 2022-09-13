@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 💌 Certificaçações Desafios: </p> 
 
-<img align="center" alt="Rafa-Js" height="50" width="80" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" />
+<img align="center" alt="Rafa-Js" height="100" width="50" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" />
 
 🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="60" width="80" src="" />
