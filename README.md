@@ -1,13 +1,13 @@
 # Olá! Eu sou Bruno Santos
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e FAT:DP900
 
+___________________________________________________________________________________________________________________________________________________
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
 Sempre estudando devops,buscando se aprimorar e certificar mais e mais em TI.<br>
 </p>
-
-___________________________________________________________________________________________________________________________________________________
 
 <p align="left">
 🦄 Conhecimentos: <strong> </p>
@@ -32,11 +32,10 @@ ________________________________________________________________________________
   - Oracle Cloud Infrastructure Foundations 2022 Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
   - Oracle Cloud Infrastructure 2021 Certified Architect Associate </p>
-___________________________________________________________________________________________________________________________________________________________
+
 🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/189902239-cce90d2c-69d0-4267-85a4-879186a8b65d.png" />
-	
-________________________________________________________________________________________________________________________________________________________________	
+		
 💼 Ferramentas </p>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -45,7 +44,6 @@ ________________________________________________________________________________
   <img align="center" alt="Rafa-Js" height="40" width="60" src="https://user-images.githubusercontent.com/91704169/185972144-6a5d0d3f-7a57-40a3-8a67-411f7fe7a5c1.png"
   p/>
   
-  _____________________________________________________________________________________________________________________________________________________
   </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
