@@ -4,7 +4,7 @@
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e Fundação Fatec:DP-900 </p>
 🔔 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution </p>
 🦄 Futuro mais breve Certirficações: AZ-400, AZ-500 , Oracle DataBase Professional e Oracle Exadata Especialista.
-_______________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
@@ -40,7 +40,8 @@ ________________________________________________________________________________
 💼 Bootcamps </p> 
 <img align="center" alt="Rafa-Js" height="80" width="120" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" />
 
-____________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
+
 💌 Ferramentas </p>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -53,7 +54,7 @@ ________________________________________________________________________________
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-_____________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
 💌 Entre em contato comigo :) // contact me ⤵
 </p>
 
