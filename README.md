@@ -37,7 +37,7 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="90" width="100" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" /> </p> 
 💼 Cursos e Bootcamps </p> 
 <img align="center" alt="Rafa-Js" height="80" width="120" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" />
-<img align="center" alt="Rafa-Js" height="70" width="100" src="https://user-images.githubusercontent.com/91704169/189934308-299ec4d5-9056-416c-8403-6b3bcdae0c7b.png" />
+<img align="center" alt="Rafa-Js" height="70" width="100" src="https://user-images.githubusercontent.com/91704169/189935290-afdb61b1-d80b-497f-8473-8e5ef2985bb6.png" />
 		
 💌 Ferramentas </p>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
