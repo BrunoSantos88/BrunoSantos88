@@ -26,9 +26,12 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
 ________________________________________________________________________________________________________________________________________________________
 				  
 🔔 Minhas Certificação: </p> 
-  <img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" />
+AWS </p>
+<img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" />
 <img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" /> </p>
+AZURE </p>
 <img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> <p/>
+Oracle Cloud </p>
 <img align="center" alt="Rafa-Js" height="100" width="220" src="https://user-images.githubusercontent.com/91704169/189914771-7c1590b4-5c27-4ca4-aa2d-fb38c53ac9a7.png" /> </p>
   - Oracle Cloud Data Management 2022 Foundations Associate </p>
   - Oracle Cloud Infrastructure Foundations 2022 Associate </p>
