@@ -28,12 +28,16 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
        - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
        - Conhecimentos SQL .</p>
        - Conhecimentos Banco de Dados: Relacional. </p>  
-________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
 				  
 🔔 Minhas Certificação: </p> 
 <img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" /> </p>
 <img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> 
 <img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> 
+
+💌 Certificaçações Desafios: </p> 
+
+<img align="center" alt="Rafa-Js" height="100" width="120" src="https://user-images.githubusercontent.com/91704169/189913666-1a71eaad-3f0f-4b0c-a51a-99f0b8ceaf09.png" />
 
 🔔 BootCamps Realizados </p> 
 <img align="center" alt="Rafa-Js" height="80" width="120" src="" />
