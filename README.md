@@ -1,6 +1,6 @@
 # Olá! Eu sou Bruno Santos
 🔔 Cursando Bootcamp: Escola da Nuvem:AZ900 e FAT:DP900 </p>
-🔔 Proximas Certirficações SC-900, DP-900 e AZ-104  </p>
+🔔 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution   </p>
 ___________________________________________________________________________________________________________________________________________________
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
