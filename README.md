@@ -6,23 +6,23 @@ ________________________________________________________________________________
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
-Sempre estudando conteudo de SRE Devops, Devops e Cloud e InfraEstrututura.<br>
+Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
 </p>
 
 <p align="left">
 🦄 Conhecimentos: <strong> </p>
        - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE </p>
        - Versionamento: GIT </p>
-       - IaaC: "Terraform, Boto3 , cloud Formation" </p>
+       - IaaC: "Terraform, Boto3 , Cloud Formation" </p>
        - Conhecimentos Orquestração: "Docker/Kubernets" </p>
-       - Conhecimento CI/CD "CODECOMMIT,CODEDEBUILD,CODEDEPLOY,CODEPIPELINE,CODEARTIFECT" </p>
+       - Conhecimento CI/CD </p>
        - Monitoramento: Prometheus/Grafana/ElasticSearch </p>
        - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
        - Conhecimentos Linguagem "python, shellScript" .</p>
        - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube" </p>
        - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
        - Conhecimentos SQL .</p>
-       - conhecimentos Banco de Dados: Relacional. </p>  
+       - Conhecimentos Banco de Dados: Relacional. </p>  
 ________________________________________________________________________________________________________________________________________________________
 				  
 🔔 Minhas Certificação: </p> 
