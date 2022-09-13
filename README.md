@@ -20,8 +20,9 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud e com Infra is Code .
  
        💌 Conhecimentos:
        - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
-       - AWS: IAM,ORGANIZATION,CONFIG,CLOUDTRAIL.
+       - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL.
        - Versionamento: GIT
+       - Repositorio: GITHUB.
        - Operacional Sistem : Linux e Windows
        - IaaC: "Terraform, Boto3 , Cloud Formation"
        - Conhecimentos Orquestração: "Docker/Kubernets"
