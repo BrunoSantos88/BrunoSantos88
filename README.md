@@ -18,7 +18,8 @@ Sempre estudando conteudo de SRE Devops, Devops e Cloud e Infra is Code .<br>
        - Conhecimento CI/CD </p>
        - Monitoramento: Prometheus/Grafana/ElasticSearch </p>
        - Networking and Protocols: TCP/IP, DNS, HTTP, HTTPS,etc.</p>
-       - Conhecimentos Linguagem "python, shellScript" .</p>
+       - Conhecimentos Linguagem "python, nodeJS" .</p>
+       - Automação: ShellScript e Python </p>
        - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube" </p>
        - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP" </p>
        - Conhecimentos SQL .</p>
