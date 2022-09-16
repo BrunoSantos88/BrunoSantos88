@@ -3,7 +3,7 @@
 
 📚 Cursando Bootcamp: Escola da Nuvem:AZ900 e Fundação Fatec:DP-900 </p>
 📚 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution </p>
-📚 Futuro mais breve Certirficações: AZ-400, AZ-500 , Oracle DataBase Professional e Oracle Exadata Especialista.
+📚 Futuro mais breve Certirficações: AZ-400, AZ-500 e Oracle Exadata Especialista.
 ___________________________________________________________________________________________________________________________________________________
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
