@@ -74,7 +74,12 @@ ________________________________________________________________________________
 
   <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
+  
+  ___________________________________________________________________________________________________________________________________________________
 
+💼 Projetos
+
+https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2
        
 
 
