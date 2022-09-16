@@ -64,7 +64,7 @@ ________________________________________________________________________________
 💼 Projetos </p>
 Dio linux experience 
 <img align="left" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/190016140-c3673f38-dec8-4b83-a9be-5631e13b8cd0.png" />  </p>
-link: https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 />  </p>
+link: https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2   </p>
 
 ___________________________________________________________________________________________________________________________________________________
 
