@@ -64,8 +64,6 @@ Dio linux experience
 link:  https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2  </p>
 
 
-__________________________________________________________________________________________________________________________________________________
-
   </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
