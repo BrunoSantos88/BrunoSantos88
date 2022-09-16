@@ -17,7 +17,10 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud e com Infra is Code <
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
- 
+        <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" />
+       
+       
+  
    💌 Conhecimentos:
    - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
    - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL.
