@@ -18,7 +18,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud e com Infra is Code <
   <img align="center" alt="Rafa-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190547587-6546167a-7253-4147-9ddc-e52865fdf2aa.png" />
-  <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190546885-2e2c7449-5bed-428e-acc5-831aea258b51.jpg" /> 
+  <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190547587-6546167a-7253-4147-9ddc-e52865fdf2aa.png" /> 
        
 
        
