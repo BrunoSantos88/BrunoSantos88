@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 💼 Projetos </p>
 Dio linux experience "Docker Swarm e Cloud AWS" </p>
-link: https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
+💼 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
 ___________________________________________________________________________________________________________________________________________________
   </div>
   
