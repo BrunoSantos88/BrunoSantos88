@@ -58,10 +58,13 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" /> 
 </p>
 
+
+___________________________________________________________________________________________________________________________________________________
+
 💼 Projetos </p>
 Dio linux experience 
 <img align="left" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/190016140-c3673f38-dec8-4b83-a9be-5631e13b8cd0.png" />
-link:  https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 />  </p>
+link: <align="left" https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 />  </p>
 
 
 ___________________________________________________________________________________________________________________________________________________
