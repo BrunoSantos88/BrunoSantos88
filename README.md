@@ -41,7 +41,7 @@ ________________________________________________________________________________
 📚 Certificações </p> 
 <img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" />
 <img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> </p>
-<img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/190543230-25f81455-5472-4710-a3eb-ba098332613c.png" /> </p>
+<img align="center" alt="Rafa-Js" height="90" width="120" src="https://user-images.githubusercontent.com/91704169/190543230-25f81455-5472-4710-a3eb-ba098332613c.png" /> </p>
 
 💌 Certificaçações Praticas </p> 
 
