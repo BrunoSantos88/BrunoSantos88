@@ -58,6 +58,9 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" /> 
 </p>
 
+💼 Projetos
+https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2
+
 __________________________________________________________________________________________________________________________________________________
 
   </div>
@@ -74,12 +77,6 @@ ________________________________________________________________________________
 
   <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
-  
-  ___________________________________________________________________________________________________________________________________________________
-
-💼 Projetos
-
-https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2
        
 
 
