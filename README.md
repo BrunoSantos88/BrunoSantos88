@@ -8,7 +8,7 @@
 📚 Futuro mais breve Certirficações: AZ-400, AZ-500 , Oracle Professional (?) e Oracle Exadata Especialista.
 ___________________________________________________________________________________________________________________________________________________
 
-<img src="https://user-images.githubusercontent.com/91704169/190932839-a26b1e03-3e0d-4788-9d26-489a574f5785.png" min-width="600px" max-width="400px" width="500px" align="right" alt="Computador illustration">
+<img src="https://user-images.githubusercontent.com/91704169/190932839-a26b1e03-3e0d-4788-9d26-489a574f5785.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
 Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra is Code <br>
