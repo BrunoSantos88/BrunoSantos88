@@ -46,7 +46,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
    - Conhecimentos Banco de Dados: Relacional. 
          
 ___________________________________________________________________________________________________________________________________________________			
-<img src="https://user-images.githubusercontent.com/91704169/190933260-cfed8579-41ec-48ea-8952-e76ab11c66e1.png" min-width="600px" max-width="600px" width="600px" align="right" alt="Computador illustration">    
+<img src="https://user-images.githubusercontent.com/91704169/190933260-cfed8579-41ec-48ea-8952-e76ab11c66e1.png" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador illustration">    
        
 📚 Certificações </p> 
 <img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" />
