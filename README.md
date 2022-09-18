@@ -6,7 +6,7 @@
 📚 Futuro mais breve Certirficações: AZ-400, AZ-500 , Oracle Professional (?) e Oracle Exadata Especialista.
 ___________________________________________________________________________________________________________________________________________________
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
+<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 Experiencia com Redes e Telecomunicações. </p>
 Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra is Code <br>
