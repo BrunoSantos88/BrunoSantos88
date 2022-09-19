@@ -45,7 +45,6 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
          
 ___________________________________________________________________________________________________________________________________________________			
 <img src="https://user-images.githubusercontent.com/91704169/190933591-a528852c-966f-40e3-8a49-5fb869799d7f.png" min-width="70px" max-width="70px" width="70
-
 px" align="right" alt="Computador illustration">    
        
 📚 Certificações </p> 
