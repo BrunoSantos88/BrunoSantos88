@@ -63,6 +63,7 @@ ________________________________________________________________________________
 </p>
 
 ___________________________________________________________________________________________________________________________________________________
+<img src="https://user-images.githubusercontent.com/91704169/190933347-02dc6f83-473f-429d-bf6b-f2a12bd2f77b.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador illustration">
 
 💼 Projetos </p>
 Dio linux experience "Docker Swarm e Cloud AWS" </p>
