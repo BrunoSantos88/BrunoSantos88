@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/91704169/190933347-02dc6f83-473f-429d-bf6b-f2a12bd2f77b.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador illustration">
-
 # Olá! Sou Bruno Santos 
 <img align="center" alt="Rafa-Js" height="20" width="20" src="https://user-images.githubusercontent.com/91704169/189937763-f6e4f8ef-3a3e-4912-8f0c-1123d23c8a52.png" /> OPN Oracle Cloud <p/>
 
