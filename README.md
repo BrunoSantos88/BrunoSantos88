@@ -64,7 +64,7 @@ px" align="right" alt="Computador illustration">
 
 💼 Bootcamps </p> 
 <img align="center" alt="Rafa-Js" height="50" width="70" src="https://user-images.githubusercontent.com/91704169/189907356-675f7d77-7a5b-4acc-9459-a427642fcba2.png" />
-<img align="left" alt="Rafa-Js" height="70" width="100" src="https://user-images.githubusercontent.com/91704169/191858832-7f7a44fa-6f38-4ae9-871c-d9fccc8ab5f8.png" />
+<img align="right" alt="Rafa-Js" height="70" width="100" src="https://user-images.githubusercontent.com/91704169/191858832-7f7a44fa-6f38-4ae9-871c-d9fccc8ab5f8.png" />
 
 
 ___________________________________________________________________________________________________________________________________________________
