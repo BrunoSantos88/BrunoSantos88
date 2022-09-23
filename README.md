@@ -22,7 +22,9 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 <img align="center" alt="Rafa-Js" height="40" width="55" src="https://user-images.githubusercontent.com/91704169/190657733-67a03b5c-ad56-4b71-83ed-ec4a01cbb7fc.png"/>
 <img align="center" alt="Rafa-Js" height="50" width="60" src="https://user-images.githubusercontent.com/91704169/190658143-c3ea6b74-5909-4bc9-8cdc-5b34ee9f8819.png"/>
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
-<img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+   
        
        
   
