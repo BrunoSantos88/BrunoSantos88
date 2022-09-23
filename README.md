@@ -15,7 +15,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 <p align="left">
        
 <img align="center" alt="Rafa-Js" height="45" width="50" src="https://camo.githubusercontent.com/f91b95eb3d491ce5372409236b4332ef937a8898749f296cad370f17610ca1cf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f67726166616e612f67726166616e612d6f726967696e616c2d776f72646d61726b2e737667"/>       
-<img align="center" alt="Rafa-Js" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="Rafa-Js" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" />
