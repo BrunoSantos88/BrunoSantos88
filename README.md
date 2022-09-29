@@ -56,8 +56,8 @@ px" align="right" alt="Computador illustration">
 
 </p>
 
-
 ___________________________________________________________________________________________________________________________________________________
+
 💼 Projetos </p>
 Dio linux experience "Docker Swarm e Cloud AWS" </p>
 💼 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
