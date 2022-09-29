@@ -49,13 +49,6 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 <img src="https://user-images.githubusercontent.com/91704169/190933591-a528852c-966f-40e3-8a49-5fb869799d7f.png" min-width="70px" max-width="70px" width="70
 px" align="right" alt="Computador illustration">    
        
-📚 Certificações </p> 
-
-<img align="left" alt="Rafa-Js" height="50" width="70" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" /> 
-<img align="center" alt="Rafa-Js" height="50" width="70" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" />
-
-</p>
-
 ___________________________________________________________________________________________________________________________________________________
 
 💼 Projetos </p>
