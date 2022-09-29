@@ -26,10 +26,6 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
        
  </p>
 
-
-   
-       
-       
   
    💌 Conhecimentos:
    - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
@@ -58,8 +54,6 @@ px" align="right" alt="Computador illustration">
 
 <img align="left" alt="Rafa-Js" height="50" width="70" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" /> 
 <img align="center" alt="Rafa-Js" height="50" width="70" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> 
-
-align="right" alt="Computador illustration">
 
 💼 Projetos </p>
 Dio linux experience "Docker Swarm e Cloud AWS" </p>
