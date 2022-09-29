@@ -58,8 +58,8 @@ px" align="right" alt="Computador illustration">
 
 <img align="left" alt="Rafa-Js" height="50" width="70" src="https://user-images.githubusercontent.com/91704169/189911983-17815480-3ab8-4993-817c-bf43408dd099.png" /> 
 <img align="center" alt="Rafa-Js" height="50" width="70" src="https://user-images.githubusercontent.com/91704169/189913223-0b0ae6cc-a959-47f9-b62d-77f1971df100.png" /> 
-<img align="right" alt="Rafa-Js" height="50" width="70" src="https://user-images.githubusercontent.com/91704169/190545253-319ca8b2-3ea3-4a74-ab43-84b93d435a2e.png" /> 
-<img src="https://user-images.githubusercontent.com/91704169/190933703-20525a50-607c-49a9-8556-a7055df741bd.png" min-width="50px" max-width="50px" width="50px" align="right" alt="Computador illustration">
+
+align="right" alt="Computador illustration">
 
 💼 Projetos </p>
 Dio linux experience "Docker Swarm e Cloud AWS" </p>
