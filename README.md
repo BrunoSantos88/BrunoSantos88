@@ -35,7 +35,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
    - Operacional Sistem : Linux e Windows
    - IaaC: "Terraform, Boto3 , Cloud Formation"
    - Conhecimentos Orquestração: "Docker/Kubernets"
-   - Conhecimento CI/CD.
+   - Conhecimento CI/CD. "gitaction e aws codepipeline"
    - Observabilidade: Prometheus/Grafana/ElasticSearch 
    - Monitoramento: Zabbix e Nagios
    - Networking and Protocols: "TCP/IP","DNS","HTTP","HTTPS"
