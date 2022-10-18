@@ -4,6 +4,8 @@
 📚 Cursando Bootcamp: Escola da Nuvem:AZ900 e Fundação Fatec:DP-900 </p>
 📚 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution </p>
 📚 Futuro mais breve Certirficações: AZ-400, AZ-500 , Oracle Professional (?) e Oracle Exadata Especialista.
+
+Minhas Badges "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges"
 ___________________________________________________________________________________________________________________________________________________
 
 <img src="https://user-images.githubusercontent.com/91704169/190932839-a26b1e03-3e0d-4788-9d26-489a574f5785.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
