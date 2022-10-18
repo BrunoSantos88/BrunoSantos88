@@ -8,8 +8,6 @@
 📚 Minhas Certificações: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges"
 ___________________________________________________________________________________________________________________________________________________
 
-<img src="https://user-images.githubusercontent.com/91704169/190932839-a26b1e03-3e0d-4788-9d26-489a574f5785.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
-
 Experiencia com Redes e Telecomunicações. </p>
 Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra is Code <br>
 </p>
@@ -25,6 +23,12 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png" />
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/191962476-7c082743-5de4-4e82-9335-2b1ae1f3603d.png"/>
 <img align="center" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
+   
+   
+ </p>
+ 
+<img src="https://user-images.githubusercontent.com/91704169/190932839-a26b1e03-3e0d-4788-9d26-489a574f5785.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
+       
        
  </p>
 
