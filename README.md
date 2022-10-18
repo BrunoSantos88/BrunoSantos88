@@ -2,8 +2,8 @@
 <img align="center" alt="Rafa-Js" height="20" width="20" src="https://user-images.githubusercontent.com/91704169/189937763-f6e4f8ef-3a3e-4912-8f0c-1123d23c8a52.png" /> OPN Oracle Cloud <p/>
 
 📚 Cursando Bootcamp: Escola da Nuvem:AZ900 e Fundação Fatec:DP-900 </p>
-📚 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution </p>
-📚 Futuro mais breve Certirficações: Dp-900 , AZ-104, AZ-204 , AWS Arquiteto Solution , Gooogle Cloud Associate, Oracle nivel Professional.
+📚 Proximas Certirficações DP-900 , IA-900 , Gooogle cloud fundation </p>
+📚 Futuro mais breve Certirficações: AZ-104, AZ-204 , AWS Arquiteto Solution e Oracle nivel Professional.
 
 📚 Minhas Certificações: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges"
 ___________________________________________________________________________________________________________________________________________________
