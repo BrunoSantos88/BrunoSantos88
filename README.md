@@ -52,8 +52,14 @@ px" align="right" alt="Computador illustration">
 ___________________________________________________________________________________________________________________________________________________
 
 💼 Projetos </p>
-Dio linux experience "Docker Swarm e Cloud AWS" </p>
+Dio Linux experience "Docker Swarm e Cloud AWS" </p>
 💼 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
+
+Dio Devops carrefour  "Desafio provisionar infra is code usando o cloud build e Terraform".
+💼 https://github.com/BrunoSantos88/Desafio-Google-Cloud </p>
+
+Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE"
+💼 https://github.com/BrunoSantos88/Desafio-kuberntes
 
   </div>
   
