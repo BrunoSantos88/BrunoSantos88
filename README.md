@@ -3,7 +3,7 @@
 
 📚 Cursando Bootcamp: Escola da Nuvem:AZ900 e Fundação Fatec:DP-900 </p>
 📚 Proximas Certirficações SC-900, DP-900 , AZ-104 e AWS Arquiteto Solution </p>
-📚 Futuro mais breve Certirficações: Dp-900 , AZ-104, AZ-204 , aws arquiteto solution , gooogle cloud , Oracle Professional (?) e Oracle Exadata Especialista.
+📚 Futuro mais breve Certirficações: Dp-900 , AZ-104, AZ-204 , aws arquiteto solution , gooogle cloud , Oracle Professional.
 
 📚 Minhas Certificações: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges"
 ___________________________________________________________________________________________________________________________________________________
