@@ -5,7 +5,9 @@
 📚 Proximas Certirficações DP-900 , IA-900 , Gooogle Cloud Fundation </p>
 📚 Futuro mais breve Certirficações: AZ-104, AZ-204 , AWS Arquiteto Solution e Oracle nivel Professional.
 
-📚 Minhas Certificações: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges"
+📚 Minhas Certificações: 
+ 📚  Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges"
+  📚   Acredible: "https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq"
 
 ___________________________________________________________________________________________________________________________________________________
 
