@@ -6,6 +6,10 @@
 📚 Futuro mais breve Certirficações: AZ-104, AZ-204 , AWS Arquiteto Solution e Oracle nivel Professional.
 
 📚 Minhas Certificações: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges"
+
+<p align="left">
+  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ___________________________________________________________________________________________________________________________________________________
 
 Experiencia com Redes e Telecomunicações. </p>
