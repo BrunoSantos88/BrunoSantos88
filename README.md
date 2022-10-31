@@ -60,7 +60,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
    - Conhecimentos SQL.
    - Conhecimentos Banco de Dados: Relacional. 
          
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="70px" max-width="70px" width="70
+<img src="" min-width="70px" max-width="70px" width="70
 px" align="right" alt="Computador illustration">    
        
 ___________________________________________________________________________________________________________________________________________________
