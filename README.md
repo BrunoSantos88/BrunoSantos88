@@ -1,6 +1,6 @@
 # Olá! Sou Bruno Santos 
 
-📚 Cursando Bootcamp: Escola da Nuvem:AZ900 e Fundação Fatec:DP-900 </p>
+📚 Cursando Bootcamp: Fundação Fatec:SC-900 e Google cloud associate </p>
 📚 Proximas Certirficações Gooogle Cloud Fundation e Associate </p>
 📚 Futuro mais breve Certirficações: AZ-104, SC-300 , AWS Arquiteto Solution.
 
