@@ -1,6 +1,6 @@
 # Olá! Sou Bruno Santos 
 
-📚 Cursando Bootcamp: Fundação FAT cursos SC-900 e Google cloud Associate </p>
+📚 Cursando Bootcamp: Fundação FAT cursos SC-900 e Google cloud Associate, AWS Cloud Developer </p>
 📚 Proximas Certirficações Gooogle Cloud Fundation e Associate </p>
 📚 Futuro mais breve Certirficações: AZ-104, SC-300 , AWS Arquiteto Solution.
 
