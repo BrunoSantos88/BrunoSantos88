@@ -61,8 +61,8 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
          
 <img src="" min-width="70px" max-width="70px" width="70
 <div align>    
-<a href="https://github.com/mouraewerton">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouraewerton&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/BrunoSantos88">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
        
 ___________________________________________________________________________________________________________________________________________________
