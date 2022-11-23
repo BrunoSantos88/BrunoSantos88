@@ -59,7 +59,6 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
    - Conhecimentos SQL.
    - Conhecimentos Banco de Dados: Relacional. 
          
-<img src="" min-width="70px" max-width="70px" width="70"
 <div align>    
 <a href="https://github.com/BrunoSantos88">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
