@@ -57,13 +57,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
    - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube"
    - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP"
    - Conhecimentos SQL.
-   - Conhecimentos Banco de Dados: Relacional. 
-         
-<div align>    
-<a href="https://github.com/BrunoSantos88">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-
-       
+   - Conhecimentos Banco de Dados: Relacional.    
 ___________________________________________________________________________________________________________________________________________________
 
 💼 Projetos </p>
