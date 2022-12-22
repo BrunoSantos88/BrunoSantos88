@@ -72,11 +72,12 @@ Dio Devops carrefour  "Desafio provisionar infra is code, usando o cloud build e
 Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE" </p>
 💼 https://github.com/BrunoSantos88/Desafio-kuberntes </p>
 
+___________________________________________________________________________________________________________________________________________________
+
   </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-___________________________________________________________________________________________________________________________________________________
 💌 Entre em contato comigo :) // contact me ⤵
 </p>
 
