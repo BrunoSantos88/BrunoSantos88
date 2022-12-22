@@ -1,7 +1,7 @@
 # Olá! Sou Bruno Santos 
 
 📚 Cursando Bootcamp: AWS Cloud Developer </p>
-📚 Proximas Certificações: Gooogle Cloud associate , SC-300 e az-104  </p>
+📚 Proximas Certificações: Gooogle Cloud associate , microsoft Azure SC-300 e AZ-104  </p>
 📚 Futuro mais breve Certirficações: SC-200 , AZ-400 , AWS Arquiteto solution e AWS Developer Solution. </p>
 📚 Renovar: Arquiteto associate Oracle cloud.
 
