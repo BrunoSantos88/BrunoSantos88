@@ -1,9 +1,9 @@
 # Olá! Sou Bruno Santos 
 
 📚 Cursando Bootcamp: AWS Cloud Developer </p>
-📚 Proximas Certificações: Gooogle Cloud associate , microsoft Azure SC-300 e AZ-104  </p>
-📚 Futuro mais breve Certirficações: SC-200 , AZ-400 , AWS Arquiteto solution e AWS Developer Solution. </p>
-📚 Renovar: Arquiteto associate Oracle cloud.
+📚 Proximas Certificações: Gooogle Cloud associate (2023), microsoft Azure SC-300 e AZ-104 (2023) </p>
+📚 Futuro mais breve Certirficações: microsoft azure SC-200 e AZ-400 , AWS Arquiteto solution e AWS Developer Solution para 2023 </p>
+📚 Renovar: Arquiteto associate Oracle cloud para 2023
 
 📚 Minhas Certificações:  </p>
 📚 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
