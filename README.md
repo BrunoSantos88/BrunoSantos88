@@ -41,8 +41,8 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
        
  </p>
 
+  🤖 Skills
   
-   💌 Conhecimentos:
    - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
    - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL.
    - Versionamento: GIT
