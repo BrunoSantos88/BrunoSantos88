@@ -88,7 +88,7 @@ ________________________________________________________________________________
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="https://t.me/BrunoSantos88" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     target="_blank"></a>  </p>
        
-<a href="https://github.com/BrunoSantos88/AWS--Clouddeveloper">
+<a href="https://github.com/BrunoSantos88">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  </p>
 
  
