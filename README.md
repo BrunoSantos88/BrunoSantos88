@@ -6,7 +6,7 @@
 
 📚 Minhas Certificações:  </p>
 📚 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
-📚 Acredible: "https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq" </p
+📚 Acredible: "https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq" </p>
 📚 Qklabs Google Cloud: "https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9" </p>
 
 ___________________________________________________________________________________________________________________________________________________
