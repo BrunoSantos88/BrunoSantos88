@@ -78,6 +78,11 @@ ________________________________________________________________________________
  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
 </p>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=glaucia86&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=tokyonight">
+</p>
+
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
 
