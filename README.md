@@ -73,12 +73,8 @@ Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE" </p>
 💼 https://github.com/BrunoSantos88/Desafio-kuberntes </p>
 
 ___________________________________________________________________________________________________________________________________________________
-
-  </div>
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 ⭐ GitHub Stats   
+
 <a href="https://github.com/BrunoSantos88">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  </p>
 
