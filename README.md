@@ -1,15 +1,15 @@
 # Olá! Sou Bruno Santos 
 
 📚 Cursando Bootcamp: AWS Cloud Developer </p>
-📚 Proximas Certificações: Gooogle Cloud associate (2023), microsoft Azure SC-300 e AZ-104 (2023) </p>
-📚 Futuro mais breve Certirficações: microsoft azure SC-200 e AZ-400 , AWS Arquiteto solution e AWS Developer Solution </p>
-📚 Renovar: Arquiteto associate Oracle cloud
+🎯 Proximas Certificações: Gooogle Cloud associate (2023), microsoft Azure SC-300 e AZ-104 (2023) </p>
+🎯 Futuro mais breve Certirficações: microsoft azure SC-200 e AZ-400 , AWS Arquiteto solution e AWS Developer Solution </p>
+🚨 Renovar: Arquiteto associate Oracle cloud
 
-📚 Minhas Certificações:  </p>
-📚 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
-📚 Acredible: "https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq" </p>
-📚 Qklabs Google Cloud: "https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9" </p>
-📚 Microsoft: "https://learn.microsoft.com/en-us/users/brunosantosferreiradasilva-3137/transcript?source=docs"
+⭐ Minhas Certificações:  </p>
+📕 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
+📕 Acredible: "https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq" </p>
+📕 Qklabs Google Cloud: "https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9" </p>
+📕 Microsoft: "https://learn.microsoft.com/en-us/users/brunosantosferreiradasilva-3137/transcript?source=docs"
 
 ___________________________________________________________________________________________________________________________________________________
 
@@ -64,13 +64,13 @@ ________________________________________________________________________________
 
 💼 Projetos </p>
 Dio Linux experience "Docker Swarm e Cloud AWS" </p>
-💼 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
+🎯 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
 
 Dio Devops carrefour  "Desafio provisionar infra is code, usando o cloud build e Terraform". </p>
-💼 https://github.com/BrunoSantos88/Desafio-Google-Cloud </p>
+🎯 https://github.com/BrunoSantos88/Desafio-Google-Cloud </p>
 
 Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE" </p>
-💼 https://github.com/BrunoSantos88/Desafio-kuberntes </p>
+🎯 https://github.com/BrunoSantos88/Desafio-kuberntes </p>
 
 ___________________________________________________________________________________________________________________________________________________
 ⭐ GitHub Stats   
@@ -78,7 +78,7 @@ ________________________________________________________________________________
 <a href="https://github.com/BrunoSantos88">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  </p>
 
-💌 Entre em contato comigo :) // contact me ⤵
+🎯 Entre em contato comigo :) // contact me ⤵
 </p>
 
 <p align="left">
