@@ -78,8 +78,6 @@ ________________________________________________________________________________
  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
 </p>
 
-  <img src = "https://github.com/BrunoSantos88/-Autamacao-shellscript-">
-</p>
 
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
