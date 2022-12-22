@@ -75,9 +75,6 @@ Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE" </p>
 ___________________________________________________________________________________________________________________________________________________
 ⭐ GitHub Stats   
 
-<a href="https://github.com/BrunoSantos88">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  </p>
-
  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
 </p>
 
