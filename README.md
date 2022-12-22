@@ -3,7 +3,7 @@
 📚 Cursando Bootcamp: AWS Cloud Developer </p>
 📚 Proximas Certificações: Gooogle Cloud associate , SC-300 e az-104  </p>
 📚 Futuro mais breve Certirficações: SC-200 , AZ-400 , AWS Arquiteto solution e AWS Developer Solution. </p>
-📚 Renovar: Arquiteto Solution Orecle cloud.
+📚 Renovar: Arquiteto associate Oracle cloud.
 
 📚 Minhas Certificações:  </p>
 📚 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
