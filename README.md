@@ -78,13 +78,12 @@ ________________________________________________________________________________
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-💌 Entre em contato comigo :) // contact me ⤵
-</p>
-
 ⭐ GitHub Stats   
 <a href="https://github.com/BrunoSantos88">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  </p>
 
+💌 Entre em contato comigo :) // contact me ⤵
+</p>
 
 <p align="left">
   <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
