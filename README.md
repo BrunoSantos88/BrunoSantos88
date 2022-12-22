@@ -1,8 +1,9 @@
 # Olá! Sou Bruno Santos 
 
-📚 Cursando Bootcamp: Fundação FAT cursos SC-900 e Google cloud Associate, AWS Cloud Developer </p>
-📚 Proximas Certirficações: Gooogle Cloud Fundation e Associate  e SC-300 </p>
-📚 Futuro mais breve Certirficações: AZ-104 e AWS Arquiteto Solution.
+📚 Cursando Bootcamp: AWS Cloud Developer </p>
+📚 Proximas Certificações: Gooogle Cloud associate , SC-300 e az-104  </p>
+📚 Futuro mais breve Certirficações: SC-200 , AZ-400 , AWS Arquiteto solution e AWS Developer Solution.
+📚 Renovar: Arquiteto Solution Orecle cloud.
 
 📚 Minhas Certificações:  </p>
 📚 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
