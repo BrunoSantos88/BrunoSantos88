@@ -63,12 +63,21 @@ ________________________________________________________________________________
 
 💼 Projetos </p>
 
-Jenkins terraform
+🎯 jenkins Projeto raiz. </p>
 
-Jenkins frontend docker 
+ https://github.com/BrunoSantos88/-TechDay--Jenkins-Servidor-CI-CD </p>
 
-Jenkins- Backend docker
+🎯 Jenkins terraform -- AwS - network e EKS  </p>
 
+https://github.com/BrunoSantos88/Jenkins-Terraform-CI-CD--AWS   </p>
+
+🎯 Jenkins frontend docker hub </p>
+
+https://github.com/BrunoSantos88/Jenkins-frontend </p>
+
+🎯Jenkins- Backend docker hub </p>
+
+https://github.com/BrunoSantos88/Jenkins-backend </p>
 
 Dio Linux experience "Docker Swarm e Cloud AWS" </p>
 🎯 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
