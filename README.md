@@ -43,14 +43,14 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
   🤖 Skills
   
    - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
-   - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL.
+   - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL. Config.
    - Versionamento: GIT
-   - Repositorio: GITHUB.
+   - Repositorio: GITHUB , Git LAb, AWS code commit entre outros reposiorios git.
    - Operacional Sistem : Linux e Windows
    - IaaC: "Terraform, Boto3 , Cloud Formation"
    - Conhecimentos Orquestração: "Docker/Kubernets"
-   - Conhecimento CI/CD. "gitaction e aws codepipeline"
-   - Observabilidade: Prometheus/Grafana/ElasticSearch 
+   - Conhecimento CI/CD. "git action e aws codepipeline" code deploy, jennkins e Cloud build.
+   - Observabilidade: Prometheus/Grafana/ElasticSearch/datadog
    - Monitoramento: Zabbix e Nagios
    - Networking and Protocols: "TCP/IP","DNS","HTTP","HTTPS"
    - Conhecimentos Linguagem "python, nodeJS".
@@ -59,6 +59,9 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
    - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP"
    - Conhecimentos SQL.
    - Conhecimentos Banco de Dados: Relacional.    
+   - conhecimento repositorios docker: Gcp , aws e auzure e dockerhub
+   - Conhecimento com Cluster: EKS , AKS e GKES.
+   - Conhecimentos com Fargate AWS.
 ___________________________________________________________________________________________________________________________________________________
 
 💼 Projetos </p>
