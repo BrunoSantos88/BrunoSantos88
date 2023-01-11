@@ -43,7 +43,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
   🤖 Skills
   
    - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
-   - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL. Config, ec2 , ECS e EKS e RDS entre outros,
+   - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL. Config, Ec2 , ECS e EKS e RDS entre outros,
    - GCP: Cloud Compute, Cloud build , Cloud repositorio , Cloud Build entre outros,
    - Versionamento: GIT
    - Repositorio: GITHUB , Git LAb, AWS code commit entre outros reposiorios git.
@@ -82,14 +82,18 @@ https://github.com/BrunoSantos88/Jenkins-frontend </p>
 
 https://github.com/BrunoSantos88/Jenkins-backend </p>
 
-Dio Linux experience "Docker Swarm e Cloud AWS" </p>
-🎯 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
+🎯 Dio Linux experience "Docker Swarm e Cloud AWS" </p>
 
-Dio Devops carrefour  "Desafio provisionar infra is code, usando o cloud build e Terraform". </p>
-🎯 https://github.com/BrunoSantos88/Desafio-Google-Cloud </p>
+ https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
 
-Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE" </p>
-🎯 https://github.com/BrunoSantos88/Desafio-kuberntes </p>
+🎯Dio Devops carrefour  "Desafio provisionar infra is code, usando o cloud build e Terraform". </p>
+ https://github.com/BrunoSantos88/Desafio-Google-Cloud </p>
+
+🎯 Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE" </p>
+https://github.com/BrunoSantos88/Desafio-kuberntes </p>
+
+🎯 DIO DEVOPS GIT ACTION e dockerhub e cluster GKE. </p>
+https://github.com/BrunoSantos88/Desafio-kuberntes </p>
 
 ___________________________________________________________________________________________________________________________________________________
 ⭐ GitHub Stats   
