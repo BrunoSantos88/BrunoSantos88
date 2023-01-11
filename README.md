@@ -62,6 +62,14 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 ___________________________________________________________________________________________________________________________________________________
 
 💼 Projetos </p>
+
+Jenkins terraform
+
+Jenkins frontend docker 
+
+Jenkins- Backend docker
+
+
 Dio Linux experience "Docker Swarm e Cloud AWS" </p>
 🎯 https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
 
