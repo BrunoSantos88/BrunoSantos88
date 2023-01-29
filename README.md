@@ -1,6 +1,6 @@
 # Olá! Sou Bruno Santos 
 
-🎯 Proximas Certificações: Gooogle Cloud associate, microsoft Azure AZ-104 e az-400 </p>
+🎯 Proximas Certificações: SC-300, DP-900 ,Gooogle Cloud associate, microsoft Azure AZ-104</p>
 🎯 Futuro mais breve Certirficações: microsoft azure az-400 , AWS Arquiteto solution e AWS Developer Solution </p>
 🚨 Renovar: Arquiteto associate Oracle cloud
 
