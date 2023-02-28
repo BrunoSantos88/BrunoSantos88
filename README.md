@@ -1,8 +1,8 @@
 # Olá! Sou Bruno Santos 
 
-🎯 Proximas Certificações: SC-300, DP-900 ,Gooogle Cloud associate, microsoft Azure AZ-104</p>
-🎯 Futuro mais breve Certirficações: microsoft azure az-400 , AWS Arquiteto solution e AWS Developer Solution </p>
-🚨 Renovar: Arquiteto associate Oracle cloud
+🎯 Proximas Certificações: MS-900, DP-900 ,Gooogle Cloud associate, microsoft Azure AZ-104 e SC-300 </p>
+🎯 Futuro mais breve Certirficações: AWS Arquiteto solution e AWS Developer Solution </p>
+🎯 FOCO SC-100 e AZ-400
 
 ⭐ Minhas Certificações:  </p>
 📕 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
