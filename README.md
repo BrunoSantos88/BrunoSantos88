@@ -2,7 +2,7 @@
 
 🎯 Proximas Certificações Microsoft:  Fundamentos MS-900, DP-900 e IA-900. ASSOCIATES: SC-300, AZ-104 e SC-200. </p>
 🎯 Proximo bootcamps: Gooogle Cloud associate e SOC. </p>
-🎯 Proximas Certirficações AWS: AWS Arquiteto solution e AWS Developer Solution </p>
+🎯 Proximas Certirficações AWS: Arquiteto solution e Developer Solution </p>
 
 ⭐ Minhas Certificações:  </p>
 📕 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
