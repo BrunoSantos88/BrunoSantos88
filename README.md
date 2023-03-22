@@ -1,9 +1,9 @@
 # Olá! Sou Bruno Santos 
 
-🎯 Proximas Certificações Microsoft:  Fundamentos MS-900, DP-900 e IA-900. ASSOCIATES: SC-300, AZ-104 e SC-200.
-🎯 Proximo bootcamps: Gooogle Cloud associate e SOC.
+🎯 Proximas Certificações Microsoft:  Fundamentos MS-900, DP-900 e IA-900. ASSOCIATES: SC-300, AZ-104 e SC-200. </p>
+🎯 Proximo bootcamps: Gooogle Cloud associate e SOC. </p>
 🎯 Proximas Certirficações AWS: AWS Arquiteto solution e AWS Developer Solution </p>
-🎯 FOCO NAS Certificaçoes Especialista Microsoft: SC-100 e AZ-400
+🎯 FOCO NAS Certificaçoes Especialista Microsoft: SC-100 e AZ-400 </p>
 
 ⭐ Minhas Certificações:  </p>
 📕 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
