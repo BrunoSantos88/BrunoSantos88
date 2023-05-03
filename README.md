@@ -1,6 +1,6 @@
 # Olá! Sou Bruno Santos 
 
-🎯 Proximas Certificações Microsoft:  Fundamentos MS-900 e PL-900. ASSOCIATES: SC-300, SC-400, AZ-104, AZ-500 e SC-200. </p>
+🎯 Proximas Certificações Microsoft: SC-300, SC-400, AZ-104, AZ-500 e SC-200. </p>
 📕 Estudando MS-900 e DP-900 </p>
 🎯 Proximas Certirficações AWS: Arquiteto solution e Developer Solution </p>
 🎯 Proxima Certificaçação Google cloud: Google Cloud Enginer Associate.
