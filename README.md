@@ -1,9 +1,6 @@
 # Olá! Sou Bruno Santos 
 
-🎯 Proximas Certificações Microsoft: SC-300, SC-400, AZ-104, AZ-500 e SC-200. </p>
 📕 Estudando MS-900 e DP-900 </p>
-🎯 Proximas Certirficações AWS: Arquiteto solution e Developer Solution </p>
-🎯 Proxima Certificaçação Google cloud: Google Cloud Enginer Associate.
 
 ⭐ Minhas Certificações:  </p>
 📕 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
