@@ -1,6 +1,6 @@
 # Olá! Sou Bruno Santos 
 
-📕 Estudando MS-900 e DP-900 </p>
+📕 Estudando MS-900 e SC-300 E MD-102 </p>
 
 ⭐ Minhas Certificações:  </p>
 📕 Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
