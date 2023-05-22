@@ -1,6 +1,8 @@
 # Olá! Sou Bruno Santos Ferrreira Da Silva
 Curriculo: https://drive.google.com/file/d/1LigvJEgLrTaqnTp5mA8B_LLH0YNofOZr/view?usp=share_link
 
+______________________________________________________________________________________________________
+
 📕 Estudando MS-900, SC-300 </p>
 
 ⭐ Minhas Certificações:  </p>
