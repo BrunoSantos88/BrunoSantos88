@@ -1,4 +1,5 @@
 # Olá! Sou Bruno Santos 
+Curriculo: https://drive.google.com/file/d/1LigvJEgLrTaqnTp5mA8B_LLH0YNofOZr/view?usp=share_link
 
 📕 Estudando MS-900, SC-300 E MD-102(beta) </p>
 
