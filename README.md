@@ -67,6 +67,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
    - Conhecimentos Banco de Dados: Relacional.    
    - conhecimento repositorios docker: Gcp , Aws e Azure e Dockerhub
    - Conhecimento com Cluster kubenetes: EKS , AKS e GKE.
+   - Entendimento Práticas:  SAST / DAST / IAST
 ___________________________________________________________________________________________________________________________________________________
 
 💼 Projetos </p>
