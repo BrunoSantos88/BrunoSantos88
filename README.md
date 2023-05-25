@@ -1,5 +1,5 @@
 # Olá! Sou Bruno Santos Ferrreira Da Silva
-Curriculo: https://drive.google.com/file/d/1LigvJEgLrTaqnTp5mA8B_LLH0YNofOZr/view?usp=share_link
+Curriculo: https://drive.google.com/file/d/12d0SeFzeyMQSEH4gf2mVSmNiUDJ4cYKT/view?usp=share_link
 
 ______________________________________________________________________________________________________
 
