@@ -67,14 +67,14 @@ Facilidade para criar ambiente de monitoramento e observabilidade no Azure.
 
 🤖 Conhecimento com as Ferramentas
 
-Systema Operacional: - Linux - Windows
-Sofware Linguagem: Terraform - SQL-
-Python - NodeJS - ShellScript
-Container: Docker - Kubenetes.
-Observability: Grafana - Prometheus -
-ElasticSearch - Datadog.
-Security em Devops: SAST - DAST - IAST
-
+Systema Operacional: - Linux - Windows </p>
+Sofware Linguagem: Terraform - SQL- </p>
+Python - NodeJS - ShellScript </p>
+Container: Docker - Kubenetes. </p>
+Observability: Grafana - Prometheus - </p>
+ElasticSearch - Datadog. </p>
+Security em Devops: SAST - DAST - IAST </p>
+ 
 
 Curriculo: </p>
 Link: https://drive.google.com/file/d/12d0SeFzeyMQSEH4gf2mVSmNiUDJ4cYKT/view?usp=share_link
