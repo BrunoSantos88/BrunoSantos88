@@ -66,6 +66,8 @@ Banco de Dados, Cluster AKS ,Container register , Contaniner Services.
 Facilidade para criar ambiente de monitoramento e observabilidade no Azure.
 Sergurança nivel de VM, Network e aplicação.
 
+- Conhecimento com produtos microsoft: office,365 e licenças.
+
 🤖 Conhecimento com as Ferramentas
 
 - Systema Operacional: - Linux - Windows </p>
