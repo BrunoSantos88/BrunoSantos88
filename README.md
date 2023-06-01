@@ -1,5 +1,4 @@
 # Olá! Sou Bruno Santos Ferrreira Da Silva
-Curriculo: https://drive.google.com/file/d/12d0SeFzeyMQSEH4gf2mVSmNiUDJ4cYKT/view?usp=share_link
 ______________________________________________________________________________________________________
 
 ⭐ Minhas Certificações:  </p>
@@ -42,27 +41,41 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
        
  </p>
 
-  🤖 Skills
+🤖 Conhecimento Tecnicos
   
-Conhecimentos AWS: Criar, administrar e monitorar contas do  </P>
-provedor , usando logs ,métricas, usar politicas de segurança </P>
-de MFA e menor privilegio da propria AWS para administrar </P>
-ambiente. Facilidade para criação de scripts usando processo v
-de pipelines em Ci/CD na automação dos serviços com as </P>
-ferramentas de automação com o Terraform ou Cloud </P>
-Formation para criar EC2,RDS, Cluster EKS , Fargate, ECS e </P> 
-VPC. Conhecimento para aplicar nivel de Segurança de </P> 
-network, aplicação,instancia,banco de dados e Esteira de CI/CD. </P>
-Conhecimentos com serviços de DevOps da AWS , como os de </P>
-intergração continua usando serviços de repositorios git, </P>
-configuração de linguagem em processos de build de aplicação </P>
-ou scripts de automatização, aplicando procedimento de </P>
-deploy com os serviços da AWS. </P>
-Conhecimentos com Azure ,Google Cloud e Oracle cloud. </P>
-Nivel Fundamentals, porém consigo gerenciar contas e </P>
-automatizar os serviços sem problemas. Criar usuarios, </P>
-recursos com segurança,conectivade de rede e acesso. </P>
+Conhecimentos AWS: Criar, administrar e monitorar contas do
+provedor , usando logs ,métricas, usar politicas de segurança
+de MFA e menor privilegio da propria AWS para administrar
+ambiente. Facilidade para criação de scripts usando processo
+de pipelines em Ci/CD na automação dos serviços com as
+ferramentas de automação com o Terraform ou Cloud
+Formation para criar EC2,RDS, Cluster EKS , Fargate, ECS e
+VPC. Conhecimento para aplicar nivel de Segurança de
+network, aplicação,instancia,banco de dados e Esteira de CI/CD.
+Conhecimentos com serviços de DevOps da AWS , como os de
+intergração continua usando serviços de repositorios git,
+configuração de linguagem em processos de build de aplicação
+ou scripts de automatização, aplicando procedimento de
+deploy com os serviços da AWS.
 
+Conhecimentos com Azure ,Google Cloud e Oracle cloud.
+Nivel Fundamentals, porém consigo gerenciar contas e
+automatizar os serviços sem problemas. Criar usuarios,
+recursos com segurança,conectivade de rede e acesso.
+
+🤖 Conhecimento com as Ferramentas
+
+Systema Operacional: - Linux - Windows
+Sofware Linguagem: Terraform - SQL-
+Python - NodeJS - ShellScript
+Container: Docker - Kubenetes.
+Observability: Grafana - Prometheus -
+ElasticSearch - Datadog.
+Security em Devops: SAST - DAST - IAST
+
+
+Curriculo: </p>
+Link: https://drive.google.com/file/d/12d0SeFzeyMQSEH4gf2mVSmNiUDJ4cYKT/view?usp=share_link
 ___________________________________________________________________________________________________________________________________________________
 
 ⭐ GitHub Stats   
