@@ -50,7 +50,9 @@ ambiente. Facilidade para criação de scripts usando processo
 de pipelines em Ci/CD na automação dos serviços com as
 ferramentas de automação com o Terraform ou Cloud
 Formation para criar EC2,RDS, Cluster EKS , Fargate, ECS e
-VPC. Conhecimento para aplicar nivel de Segurança de
+VPC. 
+
+Conhecimento para aplicar nivel de Segurança de
 network, aplicação,instancia,banco de dados e Esteira de CI/CD.
 Conhecimentos com serviços de DevOps da AWS , como os de
 intergração continua usando serviços de repositorios git,
@@ -58,10 +60,10 @@ configuração de linguagem em processos de build de aplicação
 ou scripts de automatização, aplicando procedimento de
 deploy com os serviços da AWS.
 
-Conhecimentos com Azure ,Google Cloud e Oracle cloud.
-Nivel Fundamentals, porém consigo gerenciar contas e
-automatizar os serviços sem problemas. Criar usuarios,
-recursos com segurança,conectivade de rede e acesso.
+Conhecimentos Azure:  Criar e administrar conta, active directory
+politicas, rbac e serviços designados aos usuario, criação de VM,
+Banco de Dados, Cluster AKS ,Container register , Contaniner Services.
+Facilidade para criar ambiente de monitoramento e observabilidade no Azure.
 
 🤖 Conhecimento com as Ferramentas
 
