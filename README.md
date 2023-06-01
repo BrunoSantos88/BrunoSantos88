@@ -44,27 +44,25 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 
   🤖 Skills
   
-   - Cloud: (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
-   - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL. Config, Ec2 , ECS e EKS e RDS entre outros,
-   - GCP: Cloud Compute, Cloud build , Cloud repositorio , Cloud Build entre outros,
-   - Versionamento: GIT
-   - Repositorio: GITHUB , Git LAb, AWS code commit entre outros reposiorios git.
-   - Operacional Sistem : Linux e Windows
-   - IaaC: "Terraform, Boto3 , Cloud Formation"
-   - Conhecimentos Orquestração: "Docker/Kubernets"
-   - Conhecimento CI/CD. "git action e aws codepipeline" code deploy, jenkins e Cloud build.
-   - Observabilidade: Prometheus/Grafana/ElasticSearch/datadog
-   - Monitoramento: Zabbix e Nagios
-   - Networking and Protocols: "TCP/IP","DNS","HTTP","HTTPS"
-   - Conhecimentos Linguagem "python, nodeJS".
-   - Automação: ShellScript e Python.
-   - Conhcimentos Qualidade Codigo "SonarCloud e SonarQube"
-   - Conhecimento Segurança Codigo " Snyk e OSWASP ZAP"
-   - Conhecimentos SQL.
-   - Conhecimentos Banco de Dados: Relacional.    
-   - conhecimento repositorios docker: Gcp , Aws e Azure e Dockerhub
-   - Conhecimento com Cluster kubenetes: EKS , AKS e GKE.
-   - Entendimento Práticas:  SAST / DAST / IAST
+Conhecimentos AWS: Criar, administrar e monitorar contas do  </P>
+provedor , usando logs ,métricas, usar politicas de segurança </P>
+de MFA e menor privilegio da propria AWS para administrar </P>
+ambiente. Facilidade para criação de scripts usando processo v
+de pipelines em Ci/CD na automação dos serviços com as </P>
+ferramentas de automação com o Terraform ou Cloud </P>
+Formation para criar EC2,RDS, Cluster EKS , Fargate, ECS e </P> 
+VPC. Conhecimento para aplicar nivel de Segurança de </P> 
+network, aplicação,instancia,banco de dados e Esteira de CI/CD. </P>
+Conhecimentos com serviços de DevOps da AWS , como os de </P>
+intergração continua usando serviços de repositorios git, </P>
+configuração de linguagem em processos de build de aplicação </P>
+ou scripts de automatização, aplicando procedimento de </P>
+deploy com os serviços da AWS. </P>
+Conhecimentos com Azure ,Google Cloud e Oracle cloud. </P>
+Nivel Fundamentals, porém consigo gerenciar contas e </P>
+automatizar os serviços sem problemas. Criar usuarios, </P>
+recursos com segurança,conectivade de rede e acesso. </P>
+
 ___________________________________________________________________________________________________________________________________________________
 
 ⭐ GitHub Stats   
