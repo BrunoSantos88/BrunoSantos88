@@ -44,7 +44,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 
   🤖 Skills
   
-   - Cloud Computing (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
+   - Cloud: (IAAS,PAAS E SAAS) AWS/GCP/OCI/AZURE
    - AWS:IAM,ORGANIZATION,CONFIG,CLOUDTRAIL. Config, Ec2 , ECS e EKS e RDS entre outros,
    - GCP: Cloud Compute, Cloud build , Cloud repositorio , Cloud Build entre outros,
    - Versionamento: GIT
