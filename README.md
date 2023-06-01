@@ -43,7 +43,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 
 🤖 Conhecimento Tecnicos
   
-Conhecimentos AWS: Criar, administrar e monitorar contas do
+- Conhecimentos AWS: Criar, administrar e monitorar contas do
 provedor , usando logs ,métricas, usar politicas de segurança
 de MFA e menor privilegio da propria AWS para administrar
 ambiente. Facilidade para criação de scripts usando processo
@@ -52,7 +52,7 @@ ferramentas de automação com o Terraform ou Cloud
 Formation para criar EC2,RDS, Cluster EKS , Fargate, ECS e
 VPC. 
 
-Conhecimento para aplicar nivel de Segurança de
+- Conhecimento para aplicar nivel de Segurança de
 network, aplicação,instancia,banco de dados e Esteira de CI/CD.
 Conhecimentos com serviços de DevOps da AWS , como os de
 intergração continua usando serviços de repositorios git,
@@ -60,20 +60,21 @@ configuração de linguagem em processos de build de aplicação
 ou scripts de automatização, aplicando procedimento de
 deploy com os serviços da AWS.
 
-Conhecimentos Azure:  Criar e administrar conta, active directory
+- Conhecimentos Azure: Criar e administrar conta, active directory
 politicas, rbac e serviços designados aos usuario, criação de VM,
 Banco de Dados, Cluster AKS ,Container register , Contaniner Services.
 Facilidade para criar ambiente de monitoramento e observabilidade no Azure.
+Sergurança nivel de VM, Network e aplicação.
 
 🤖 Conhecimento com as Ferramentas
 
-Systema Operacional: - Linux - Windows </p>
-Sofware Linguagem: Terraform - SQL- </p>
-Python - NodeJS - ShellScript </p>
-Container: Docker - Kubenetes. </p>
-Observability: Grafana - Prometheus - </p>
-ElasticSearch - Datadog. </p>
-Security em Devops: SAST - DAST - IAST </p>
+- Systema Operacional: - Linux - Windows </p>
+- Sofware Linguagem: Terraform - SQL- </p>
+- Python - NodeJS - ShellScript </p>
+- Container: Docker - Kubenetes. </p>
+- Observability: Grafana - Prometheus - </p>
+- ElasticSearch - Datadog. </p>
+- Security em Devops: SAST - DAST - IAST </p>
  
 
 Curriculo: </p>
