@@ -70,38 +70,6 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
    - Entendimento Práticas:  SAST / DAST / IAST
 ___________________________________________________________________________________________________________________________________________________
 
-💼 Projetos </p>
-
-🎯 jenkins Projeto raiz. </p>
-
- https://github.com/BrunoSantos88/-TechDay--Jenkins-Servidor-CI-CD </p>
-
-🎯 Jenkins terraform -- AwS - network e EKS  </p>
-
-https://github.com/BrunoSantos88/Jenkins-Terraform-CI-CD--AWS   </p>
-
-🎯 Jenkins frontend docker hub </p>
-
-https://github.com/BrunoSantos88/Jenkins-frontend </p>
-
-🎯Jenkins- Backend docker hub </p>
-
-https://github.com/BrunoSantos88/Jenkins-backend </p>
-
-🎯 Dio Linux experience "Docker Swarm e Cloud AWS" </p>
-
- https://github.com/BrunoSantos88/bootcamp-linux-dio/issues/2 </p>
-
-🎯Dio Devops carrefour  "Desafio provisionar infra is code, usando o cloud build e Terraform". </p>
- https://github.com/BrunoSantos88/Desafio-Google-Cloud </p>
-
-🎯 Dio Devops carrefour "Desafio Otimizar processo de Ci/Cd no GKE" </p>
-https://github.com/BrunoSantos88/Desafio-kuberntes </p>
-
-🎯 DIO DEVOPS GIT ACTION e dockerhub e cluster GKE. </p>
-https://github.com/BrunoSantos88/Desafio-kuberntes </p>
-
-___________________________________________________________________________________________________________________________________________________
 ⭐ GitHub Stats   
 
  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
