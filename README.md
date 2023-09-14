@@ -1,4 +1,4 @@
-# Olá! Sou Bruno Santos Ferrreira Da Silva
+# Olá! Sou Bruno Santos .
 Linkdin: https://www.linkedin.com/in/brunosantosfsilva/ </P>
 Curriculo: https://drive.google.com/file/d/1ub1IZspdhoc1JReuvRV_uK0pDoodyVkW/view?usp=sharing
 ______________________________________________________________________________________________________
