@@ -1,4 +1,5 @@
 # Olá! Sou Bruno Santos Ferrreira Da Silva
+Linkdin: https://www.linkedin.com/in/brunosantosfsilva/
 ______________________________________________________________________________________________________
 
 ⭐ Minhas Certificações:  </p>
