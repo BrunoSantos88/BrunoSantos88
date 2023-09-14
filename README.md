@@ -79,9 +79,6 @@ Sergurança nivel de VM, Network e aplicação.
 - Observability: Grafana - Prometheus - </p>
 - ElasticSearch - Datadog. </p>
 - Security em Devops: SAST - DAST - IAST </p>
- 
-
-Curriculo: https://drive.google.com/file/d/12d0SeFzeyMQSEH4gf2mVSmNiUDJ4cYKT/view?usp=share_link
 ___________________________________________________________________________________________________________________________________________________
 
 ⭐ GitHub Stats   
