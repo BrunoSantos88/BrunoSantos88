@@ -1,5 +1,5 @@
 # Olá! Sou Bruno Santos .
-Linkdin: https://www.linkedin.com/in/brunosantosfsilva/ </P>
+Linkdin: https://www.linkedin.com/in/brunosantos88/ </P>
 Curriculo: https://drive.google.com/file/d/1ub1IZspdhoc1JReuvRV_uK0pDoodyVkW/view?usp=sharing
 ______________________________________________________________________________________________________
 
