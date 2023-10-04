@@ -1,5 +1,4 @@
 # Olá! Sou Bruno Santos .
-Curriculo: https://drive.google.com/file/d/1ub1IZspdhoc1JReuvRV_uK0pDoodyVkW/view?usp=sharing
 ______________________________________________________________________________________________________
 
 ⭐ Minhas Certificações:  </p>
