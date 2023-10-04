@@ -34,7 +34,7 @@ ________________________________________________________________________________
    
  </p>
  
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador illustration">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
 
 ⭐ GitHub Stats   
 
