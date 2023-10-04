@@ -97,6 +97,14 @@ ________________________________________________________________________________
    <a href="https://t.me/BrunoSantos88" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     target="_blank"></a>  </p>
 
  </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunosantos88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  </p>
+
+<p align="left">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoSantos88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  </p>
+
+</p>
+<p right="">
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoSantos88&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+</p>
  
 
