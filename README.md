@@ -1,4 +1,6 @@
 # Olá! Sou Bruno Santos .
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunosantos88&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ______________________________________________________________________________________________________
 
 ⭐ Minhas Certificações:  </p>
@@ -97,9 +99,5 @@ ________________________________________________________________________________
 
 </p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunosantos88&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-</p>
-<p align="center">
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosantos88&repo=Mentoria-CanalCloud3.0&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunosantos88/Mentoria-CanalCloud3.0)
 </p>
