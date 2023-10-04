@@ -8,8 +8,7 @@ ________________________________________________________________________________
 📕 Microsoft-TypeScript:"https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5" </p>
 ___________________________________________________________________________________________________________________________________________________
 
-Experiencia com Redes e Telecomunicações. </p>
-Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra is Code <br>
+
 </p>
 
 <p align="left">
@@ -36,47 +35,6 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
  </p>
  
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
-       
-       
- </p>
-
-🤖 Conhecimento Tecnicos
-  
-- Conhecimentos AWS: Criar, administrar e monitorar contas do
-provedor , usando logs ,métricas, usar politicas de segurança
-de MFA e menor privilegio da propria AWS para administrar
-ambiente. Facilidade para criação de scripts usando processo
-de pipelines em Ci/CD na automação dos serviços com as
-ferramentas de automação com o Terraform ou Cloud
-Formation para criar EC2,RDS, Cluster EKS , Fargate, ECS e
-VPC. 
-
-- Conhecimento para aplicar nivel de Segurança de
-network, aplicação,instancia,banco de dados e Esteira de CI/CD.
-Conhecimentos com serviços de DevOps da AWS , como os de
-intergração continua usando serviços de repositorios git,
-configuração de linguagem em processos de build de aplicação
-ou scripts de automatização, aplicando procedimento de
-deploy com os serviços da AWS.
-
-- Conhecimentos Azure: Criar e administrar conta, active directory
-politicas, rbac e serviços designados aos usuario, criação de VM,
-Banco de Dados, Cluster AKS ,Container register , Contaniner Services.
-Facilidade para criar ambiente de monitoramento e observabilidade no Azure.
-Sergurança nivel de VM, Network e aplicação.
-
-- Conhecimento com produtos microsoft: office,365 e licenças.
-
-🤖 Conhecimento com as Ferramentas
-
-- Systema Operacional: - Linux - Windows </p>
-- Sofware Linguagem: Terraform - SQL- </p>
-- Python - NodeJS - ShellScript </p>
-- Container: Docker - Kubenetes. </p>
-- Observability: Grafana - Prometheus - </p>
-- ElasticSearch - Datadog. </p>
-- Security em Devops: SAST - DAST - IAST </p>
-________________________________________________________________________________________________________________________________________
 
 ⭐ GitHub Stats   
 
