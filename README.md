@@ -76,13 +76,14 @@ Sergurança nivel de VM, Network e aplicação.
 - Observability: Grafana - Prometheus - </p>
 - ElasticSearch - Datadog. </p>
 - Security em Devops: SAST - DAST - IAST </p>
-___________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 ⭐ GitHub Stats   
 
  <img src = "https://github-readme-stats.vercel.app/api?username=BrunoSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
-</p>
 
+ [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosantos88&repo=Mentoria-CanalCloud3.0&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunosantos88/Mentoria-CanalCloud3.0)
+</p>
 
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
@@ -94,13 +95,4 @@ ________________________________________________________________________________
    <a href="https://wa.me/+5513991353329" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="https://t.me/BrunoSantos88" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     target="_blank"></a>  </p>
-
-</p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosantos88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosantos88&repo=Mentoria-CanalCloud3.0&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunosantos88/Mentoria-CanalCloud3.0)
-</p>
-
 
