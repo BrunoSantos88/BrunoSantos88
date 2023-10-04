@@ -13,8 +13,7 @@ Sempre estudando conteudo de SRE.Devops, Segurança, Cloud Computing e com Infra
 </p>
 
 <p align="left">
-       
-    
+ 
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" />
@@ -102,9 +101,10 @@ ________________________________________________________________________________
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoSantos88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  </p>
 
 </p>
-<p right="">
+<p align="rigth">
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoSantos88&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 </p>
  
 
