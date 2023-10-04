@@ -6,7 +6,7 @@ ________________________________________________________________________________
 📕 Acredible: "https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq" </p>
 📕 Qklabs Google Cloud: "https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9" </p>
 📕 Microsoft-TypeScript:"https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5" </p>
-___________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________
 
 
 </p>
@@ -34,14 +34,11 @@ ________________________________________________________________________________
    
  </p>
  
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador illustration">
 
 ⭐ GitHub Stats   
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosantos88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosantos88&repo=Mentoria-CanalCloud3.0&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunosantos88/Mentoria-CanalCloud3.0)
-
 
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
