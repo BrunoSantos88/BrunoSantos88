@@ -84,7 +84,7 @@ ________________________________________________________________________________
 
  
 
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSantos&repo=Mentoria-CanalCloud3.00&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/BrunoSantos/Mentoria-CanalCloud3.0)
+ [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunosantos88&repo=Mentoria-CanalCloud3.00&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunosantos88/Mentoria-CanalCloud3.0)
 
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
