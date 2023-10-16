@@ -33,6 +33,10 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" /> 
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 
+</p>
+
+<p align="rigth">
+
 ⭐ GitHub Stats   
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosantos88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
