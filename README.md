@@ -34,7 +34,7 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 
 </p>
-<img align="right" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/275651006-5c9c43dc-3a27-44e7-b404-c15a12cf723b.gif"/>
+<img align="right" alt="Rafa-Js" height="500" width="500" src="https://user-images.githubusercontent.com/91704169/275651006-5c9c43dc-3a27-44e7-b404-c15a12cf723b.gif"/>
 
 <p align="left">
 
