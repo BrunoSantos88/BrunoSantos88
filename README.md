@@ -37,7 +37,6 @@ ________________________________________________________________________________
 
 
 <p align="right">
-https://user-images.githubusercontent.com/91704169/275651006-5c9c43dc-3a27-44e7-b404-c15a12cf723b.gif
 <img align="right" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/275651006-5c9c43dc-3a27-44e7-b404-c15a12cf723b.gif"/>
 
 <p align="rigth">
