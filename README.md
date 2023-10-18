@@ -42,7 +42,7 @@ ________________________________________________________________________________
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosantos88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
- <img align="center" alt="Rafa-Js" height="1000" width="1000" src="https://user-images.githubusercontent.com/91704169/275652592-386b557b-4606-4bbd-84dc-75353cca6eb1.gif"/>
+ <img align="center" alt="Rafa-Js" height="900" width="900" src="https://user-images.githubusercontent.com/91704169/275652592-386b557b-4606-4bbd-84dc-75353cca6eb1.gif"/>
    
 
 🎯 Entre em contato comigo :) // contact me ⤵
