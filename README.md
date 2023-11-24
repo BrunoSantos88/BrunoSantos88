@@ -9,15 +9,6 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________
 
-</p>
-
-<p align="left">
-
-⭐ GitHub Stats   
-
- <img align="center" alt="Rafa-Js" height="900" width="900" src="https://user-images.githubusercontent.com/91704169/275652592-386b557b-4606-4bbd-84dc-75353cca6eb1.gif"/>
-   
-
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
 
