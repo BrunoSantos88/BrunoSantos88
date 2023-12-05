@@ -76,6 +76,6 @@ ________________________________________________________________________________
    <a href="https://wa.me/+5513991353329" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="https://t.me/BrunoSantos88" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     target="_blank"></a> 
-<img src="https://learn.microsoft.com/pt-br/users/brunosantos88/transcript?tab=credentials-tab=microsoft-azure&logoColor=white&style=for-the-badge" height="28"/>
+<img src="https://camo.githubusercontent.com/b7044ca56c6301b33ed3ec406b70c15dd3a06442fe4f1dba0e8abaf98386a0f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3030383944363f6c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765-tab=microsoft-azure&logoColor=white&style=for-the-badge" height="28"/>
 </p>
 
