@@ -11,8 +11,8 @@ ________________________________________________________________________________
 
  ⭐ Minhas Projetos
 
- 📕 Desafio O2B "https://github.com/BrunoSantos88/Desafio_o2b-Observability"
-
+ 📕 Desafio O2B "https://github.com/BrunoSantos88/Desafio_o2b-Observability" </p>
+ 📕 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
  ______________________________________________________________________________________________________
  
  
