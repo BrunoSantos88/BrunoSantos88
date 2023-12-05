@@ -1,4 +1,33 @@
 # Olá! Sou Bruno Santos .
+
+Atualmente estou ;
+- Cursando ADS - Faculdade Vincit (ead) - Previsao para 2026.
+- Programa CyberSecurity - Cisco Academy - CCNA1 e CyberOps - Previsao para 2024.
+
+
+SoftSkill
+Proatividade, capacidade analítica e senso crítico para oferecer soluções de forma assertiva.
+Boa comunicação: escrita e falada, Resiliente, dinâmico e capaz de trabalhar sob pressão.
+
+HardSkill
+Solidos conhecimentos com Redes e Monitoramento. Atendimentos ao Cliente, Suporte Tecnico para ambiente criticos, Trabalho em equipe e Facil adaptação ao ambiente de trabalho.
+
+Cloud Computing:
+Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio,Arquitetura de Ambiente com Escalabilidade e Resiliente.
+
+- Liguagens: (Python,ShellScrip,Sql, NodeJs, Maven)
+- Versionamento Git 
+- Operacional: (Linux e Windows)
+- Container: (Docker e Kubernetes)
+- Terraform com as Cloud (AWS,GCP.AZURE)
+- CI com (Jenkins e GitAction) e outros serviços em PAAS.
+- CD com ArgoCD.
+- Teste unitarios em pipeline: SAST , DAST e IAST,
+- Conhecimentos basicos com OWASP.
+
+
+- Monitoramento e Observabilidade:
+Possuo conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permite monitorar e analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 ______________________________________________________________________________________________________
 
 ⭐ Minhas Certificações:  </p>
