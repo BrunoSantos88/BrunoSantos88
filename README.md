@@ -4,7 +4,7 @@
 
 Atualmente estou ;  </p>
 📕 Cursando ADS - Faculdade Vincit (ead) - Previsao para 2026. </p>
-🚀 Programa MAratona Cisco CyberSecurity - Cisco Academy - CCNA1 e CyberOps - Previsao para 2024.  </p>
+🚀 Programa Maratona Cisco CyberSecurity - Cisco Academy - CCNA1 e CyberOps - Previsao para 2024.  </p>
 
 
 SoftSkill
