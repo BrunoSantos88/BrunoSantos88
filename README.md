@@ -22,7 +22,7 @@ Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Comput
 - Terraform com as Cloud (AWS,GCP.AZURE)
 - CI com (Jenkins e GitAction) e outros serviços em PAAS.
 - Teste unitarios em CI: SAST , DAST e IAST,
-- Deployment: ArgoCD
+- Conhecimentos com Argocd
 - Conhecimentos basicos com OWASP.
 
 
