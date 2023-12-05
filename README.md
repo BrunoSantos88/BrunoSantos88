@@ -15,6 +15,11 @@ Solidos conhecimentos com Redes e Monitoramento. Atendimentos ao Cliente, Suport
 Cloud Computing:
 Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio,Arquitetura de Ambiente com Escalabilidade e Resiliente.
 
+Monitoramento e Observabilidade:
+Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permite monitorar e analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
+
+💻 Technologies & Tools
+
 - Liguagens: (Python,ShellScrip,Sql, NodeJs, Maven)
 - Versionamento Git 
 - Operacional: (Linux e Windows)
@@ -24,10 +29,8 @@ Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Comput
 - Teste unitarios em CI: SAST , DAST e IAST,
 - Conhecimentos com Argocd
 - Conhecimentos basicos com OWASP.
-
-
-- Monitoramento e Observabilidade:
-Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permite monitorar e analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
+- Monitoramento: Zabbix
+- Observability: Prometheus,Grafana e Alertmanager
 ______________________________________________________________________________________________________
 
 ⭐ Minhas Certificações:  </p>
