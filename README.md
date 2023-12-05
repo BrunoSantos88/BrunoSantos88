@@ -8,7 +8,15 @@ ________________________________________________________________________________
 📕 Microsoft-TypeScript:"https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5" </p>
 
 ______________________________________________________________________________________________________
-<p align="left">
+
+ ⭐ Meus Projetos
+
+ 📕 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" </p>
+ 📕 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
+ 📕 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
+ ______________________________________________________________________________________________________
+
+ <p align="left">
          
 <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
@@ -21,13 +29,6 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="60" width="70" src="https://user-images.githubusercontent.com/91704169/211868831-c7a5f64d-04d9-461f-b7c0-d665f9d67eed.png"/>
 <img align="center" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 <img align="center" alt="Rafa-Js" height="90" width="90" src="https://user-images.githubusercontent.com/91704169/267420917-3e875b49-4219-491d-b48e-b72fc94fa2e4.png" />  
-
- ⭐ Meus Projetos
-
- 📕 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" </p>
- 📕 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
- 📕 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
- ______________________________________________________________________________________________________
  
  
  
