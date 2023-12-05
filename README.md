@@ -51,15 +51,6 @@ ________________________________________________________________________________
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
  ______________________________________________________________________________________________________
 
- <p align="left">
-         
-<img align="center" alt="Rafa-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="center" alt="Rafa-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
-<img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" />
-<img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png" />
-<img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/191962476-7c082743-5de4-4e82-9335-2b1ae1f3603d.png"/>
-<img align="center" alt="Rafa-Js" height="65" width="60" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
-
 ## ⭐ GitHub Stats
  
 🎯 Entre em contato comigo :) // contact me ⤵
