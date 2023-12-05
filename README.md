@@ -29,7 +29,7 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
 - Terraform com as Cloud (AWS,GCP.AZURE)
 - CI com (Jenkins e GitAction) e outros serviços em PAAS.
 - Teste unitarios em CI: SAST , DAST e IAST,
-- CI: SonarQube , Snky e OWASP
+- CI: SonarQube , SNYK e OWASP
 - CD: Deployment com ArgoCD
 - Monitoramento: Zabbix e Nagios.
 - Observability: Prometheus,Grafana e Alertmanager
