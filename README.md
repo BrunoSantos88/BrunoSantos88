@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/BrunoSantos8886?style=social)
+
 # Olá! Sou Bruno Santos .
 
 Atualmente estou ;  </p>
