@@ -18,7 +18,7 @@ Cloud Computing:
 Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio,Arquitetura de Ambiente com Escalabilidade e Resiliente.
 
 Monitoramento e Observabilidade:
-Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permite monitorar e analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
+Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permitindo monitorar,analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 
 💻 Technologies & Tools
 
