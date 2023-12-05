@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________
 
- ⭐ Meus Projetos
+❗️ Meus Projetos
 
 🎯 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" </p>
 🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
