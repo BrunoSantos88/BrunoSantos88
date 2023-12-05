@@ -27,7 +27,7 @@ Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Comput
 
 
 - Monitoramento e Observabilidade:
-Possuo conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permite monitorar e analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
+Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permite monitorar e analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 ______________________________________________________________________________________________________
 
 ⭐ Minhas Certificações:  </p>
