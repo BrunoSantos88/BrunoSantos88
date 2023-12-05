@@ -1,4 +1,3 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=BrunoSantos88%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=BrunoSantos88%2Fgithub-visitors-badge)
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social)
 
 # Olá! Sou Bruno Santos .
