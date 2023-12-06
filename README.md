@@ -61,7 +61,7 @@ ________________________________________________________________________________
 🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
 
-![glaucia86's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSantos88&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![BrunoSantos88's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSantos88&theme=radical&show_icons=true&hide_border=true&layout=compact)
  ______________________________________________________________________________________________________
 
 ## ⭐ Contatos
