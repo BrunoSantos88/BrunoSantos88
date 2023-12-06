@@ -50,7 +50,7 @@ ________________________________________________________________________________
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
  ______________________________________________________________________________________________________
 
-## ⭐ GitHub Stats
+## ⭐ Contatos
  
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
