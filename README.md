@@ -1,6 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social)
 
-# Olá! Sou Bruno Santos .
+⭐ Olá! Sou Bruno Santos .
 
 Atualmente estou ;  </p>
 📕 Cursando ADS - Faculdade Vincit (ead) - Previsao para 2026. </p>
