@@ -42,9 +42,6 @@ ________________________________________________________________________________
 ✅ Microsoft-TypeScript:"https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5" </p>
 
 ______________________________________________________________________________________________________
-
-
-❗️ Meus Projetos
 <p align="left">
        
 <img align="center" alt="Rafa-Js" height="45" width="50" src="https://camo.githubusercontent.com/f91b95eb3d491ce5372409236b4332ef937a8898749f296cad370f17610ca1cf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f67726166616e612f67726166616e612d6f726967696e616c2d776f72646d61726b2e737667"/>       
@@ -55,6 +52,9 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="45" width="50" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"/>
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667"/>
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png" />
+
+❗️ Meus Projetos
+
 🎯 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" </p>
 🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
