@@ -42,10 +42,9 @@ ________________________________________________________________________________
 - Operacional: (Linux e Windows)
 - Container: (Docker e Kubernetes)
 - Terraform com as Cloud (AWS,GCP.AZURE)
-- CI com (Jenkins e GitAction) e outros serviços em PAAS.
-- Teste unitarios em CI: SAST , DAST e IAST,
-- CI: SonarQube , SNYK e OWASP
+- CI: Jenkins e GitAction e outros serviços em PAAS.
 - CD: Deployment com ArgoCD
+- Teste unitarios em CI: SAST , DAST e IAST.
 - Monitoramento: Zabbix e Nagios.
 - Observability: Prometheus,Grafana e Alertmanager
 ______________________________________________________________________________________________________
