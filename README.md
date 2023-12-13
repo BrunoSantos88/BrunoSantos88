@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 💻 Technologies & Tools
 
-- Liguagens: (Python,ShellScrip,Sql, NodeJs, Maven)
+- Liguagens: Python,ShellScrip,Sql, NodeJs e Maven
 - Versionamento Git 
 - Operacional: (Linux e Windows)
 - Container: (Docker e Kubernetes)
