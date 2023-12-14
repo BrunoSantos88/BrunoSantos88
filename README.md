@@ -42,18 +42,18 @@ Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP
     <td style="border: 0";>
     💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
-      <h3> ❗️Entre em contato comigo❗️ </h3>
-       </p>
-      <ul>
-        <li>
+            <h3> ❗️Entre em contato comigo❗️ </h3>
+            </p>
+            <ul>
+            <li>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
-        </li>
-        <li>
-          📬 <a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
-        </li>
-        <li>
+            </li>
+            <li>
+            📬 <a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
+           </li>
+           <li>
           📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
-        </li>
+          </li>
          </p>
           <h3> ❗️Minhas Certificações❗️ </h3>
          </p>
