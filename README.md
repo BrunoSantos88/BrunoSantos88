@@ -61,7 +61,7 @@ Monitoramento em ambientes criticos link's RF e FTTH.
          </p>
       <ul>
           <li>
-       ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>
+     ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>
         </li>
          <li>
      ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>
@@ -70,16 +70,16 @@ Monitoramento em ambientes criticos link's RF e FTTH.
      ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> My Certification Microsoft </a>
         </li>
            <li>
-     -     ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>
+     ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>
         </li>
          </p>
     <h3> ❗️Atualmente estou Cursandno❗️ </h3>
          </p>
         <li>
-   -       📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
+     📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
         </li>
         <li>
-     -     📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBERSECURITY </a>
+     📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBERSECURITY </a>
       </p>
         </li>
       </ul>
