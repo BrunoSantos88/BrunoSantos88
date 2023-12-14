@@ -26,7 +26,7 @@
       <p>
         💻 Projetos focados em Cloud computing , Devops, automoção Infra is Code e DevSecOps <a/>.
       </p>
-      <h3>Onde me achar</h3>
+      <h3> Onde me achar e minhas Conquistas </h3>
       <ul>
         <li>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
