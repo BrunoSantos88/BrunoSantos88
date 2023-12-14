@@ -37,6 +37,9 @@
         <li>
           📬 <a href=mailto:https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
         </li>
+          <li>
+          📬 <a href=mailto:https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/>Contact-me on Certiicação </a>
+        </li>
       </ul>
     </td>
   </tr>
