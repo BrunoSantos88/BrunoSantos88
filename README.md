@@ -52,7 +52,7 @@ Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP
           📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
            </li>
            <li>
-           <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
+           📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
           </li>
           <h3> ❗️Minhas Certificações❗️ </h3>
          </p>
