@@ -59,10 +59,10 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
          <h3> Minhas Conquistas </h3>
       <ul>
           <li>
-         ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>
+          ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>
         </li>
          <li>
-     ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>
+          ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>
         </li>
            <li>
           ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> My Certification Microsoft-TypeScript </a>
