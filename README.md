@@ -1,6 +1,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social) 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%23555555&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 
 ⭐Olá! Sou Bruno Santos
 
