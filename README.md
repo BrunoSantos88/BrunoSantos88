@@ -40,6 +40,9 @@
           <li>
           ⭐ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification </a>
         </li>
+         <li>
+          ⭐ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.25j21e/> My Certification AWS EXPERT LINUXTIPS</a>
+        </li>
       </ul>
     </td>
   </tr>
