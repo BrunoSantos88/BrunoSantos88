@@ -6,7 +6,7 @@
 
 Sólida experiência área de Redes e Monitoramento de ambiente de NOC (Network Operations Center). Estou motivado pela minha paixão em evoluir em direção às áreas de Cloud Computing , CyberSecurity e DevOps.
 Venho estudando mais de 2 anos, adquirindo pratica, certificaçãoes e noçoes de ambiente real, praticando laboratorias nas Plataformas AWS,AZURE E GOOGLE GOOGLE CLOUD.
-Tenho muita vontade de apreeder, sou autodidatico em conheicimento com tecnologia. Participei de varios bootcamps e cursos como AWS/ReStart ,Escola Da Nuvem e Senai para Microsoft e FATEC em Google Cloud.
+Tenho muita vontade de apreeder, sou autodidatico em conheicimento com tecnologia. Participei alguns bootcamps e cursos como AWS/ReStart, FATEC , SENAI E 4LINUX.
 
 SoftSkill
 Proatividade, capacidade analítica e senso crítico para oferecer soluções de forma assertiva.
