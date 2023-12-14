@@ -26,10 +26,7 @@
       <p>
         💻 Projetos focados em Cloud computing , Devops, automoção Infra is Code e DevSecOps |  <a href="https://www.linkedin.com/in/brunosantos88/"> Linkdin <a/>.
       </p>
-      <p>
-        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
-      </p>
-      <h3>Other places you can find me</h3>
+      <h3>Onde me achar</h3>
       <ul>
         <li>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
