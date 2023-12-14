@@ -49,13 +49,11 @@ Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
             </li>
             <li>
-           <a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
+          📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
            </li>
            <li>
-            </p>
            <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
           </li>
-            </p>
           <h3> ❗️Minhas Certificações❗️ </h3>
          </p>
       <ul>
@@ -71,7 +69,6 @@ Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP
            <li>
      ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>
         </li>
-         </p>
         <h3> ❗️Atualmente estou Cursando❗️ </h3>
           </p>
           <li>
