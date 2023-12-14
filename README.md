@@ -31,8 +31,7 @@ Cloud Computing: Conhecimento com as Cloud (AWS, AZURE e GCP), com serviços de 
 
 Monitoramento e Observabilidade: Ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permitindo monitorar,analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 
-Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP, PROTOCOLOS SIP, VPN L2TP, EOIP ,IPIP e PPTP. Conhecimentos com Procolos de Redes, Segmentanção e Escalonamento, DNS e Servidores web,email. e ftp.
-Monitoramento em ambientes criticos,alarmes e metricas.
+Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP, PROTOCOLOS SIP, VPN L2TP, EOIP ,IPIP e PPTP. Conhecimentos com Procolos de Redes, Segmentanção e Escalonamento e DNS .
 
 
 <table border="0" cellspacing="0" cellpadding="0">
