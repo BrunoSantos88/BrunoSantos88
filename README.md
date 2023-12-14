@@ -72,12 +72,12 @@ Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP
         </li>
          </p>
     <h3> ❗️Atualmente estou Cursando❗️ </h3>
-         </p>
-        <li>
-     📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
-        </li>
-        <li>
-     📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBERSECURITY </a>
+          </p>
+          <li>
+             📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
+          </li>
+          <li>
+                📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBERSECURITY </a>
       </p>
         </li>
       </ul>
