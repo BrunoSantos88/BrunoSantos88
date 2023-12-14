@@ -58,10 +58,7 @@
   </tr>
 </table>
 
-
-⭐Olá! Sou Bruno Santos
-
-Atualmente estou ;  </p>
+Atualmente ;  </p>
 📕 Cursando ADS VINCIT  - Faculdade Vincit (ead) - Previsao para 2026. </p>
 🚀 Cursando Maratona Cisco  - CyberSecurity - CCNA1 e CyberOps - Previsao para 2024.  </p>
 
@@ -95,7 +92,12 @@ ________________________________________________________________________________
 
 💻 Technologies & Tools
 
-- Liguagens: Python,ShellScript,Sql, NodeJs e Maven
+- Liguagens:
+- Python,
+- ShellScript,
+- SQL
+- NodeJs
+- Maven
 - Versionamento Git 
 - Operacional: (Linux e Windows)
 - Container: (Docker e Kubernetes)
