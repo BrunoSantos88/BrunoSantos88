@@ -3,9 +3,23 @@
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 
 # Olà, Sou Bruno Santos. </p>
-Tenho conhecimentos em: Cloud Computing com AWS, google cloud e Azure, Serverless, Python, SQL, MySQL, Git, Docker, Linux, MacOS, Windows, Kubernetes, Ansible e Redes.
-Venho estudando Devops conteudo de CI/CD adquirindo conhecimentos com Build com Jenkins, gitAction e outras ferramentas Cloud compunting. Tenho Conhecimento com ArgoCd para gerenciamento Deploy.
-Tenhos noçoes com DevSecOps, automatizar teste com SonarQube , Snyk e Owasp. Estou adiquirindo mais e mais conhecimentos nessa areas.Recentemente efetuei cursos de observabilidde com Prometheus, grafana e alertmanager para ter um conhecimento na parte de monitoramento de aplicação.
+
+Sólida experiência área de Redes e Monitoramento de ambiente de NOC (Network Operations Center). Estou motivado pela minha paixão em evoluir em direção às áreas de Cloud Computing , CyberSecurity e DevOps.
+Venho estudando mais de 2 anos, adquirindo pratica, certificaçãoes e noçoes de ambiente real, praticando laboratorias nas Plataformas AWS,AZURE E GOOGLE GOOGLE CLOUD.
+Tenho muita vontade de apreeder, sou autodidatico em conheicimento com tecnologia. Participei de varios bootcamps e cursos como AWS/ReStart ,Escola Da Nuvem e Senai para Microsoft e FATEC em Google Cloud.
+
+SoftSkill
+Proatividade, capacidade analítica e senso crítico para oferecer soluções de forma assertiva.
+Boa comunicação: escrita e falada, Resiliente, dinâmico e capaz de trabalhar sob pressão.
+
+HardSkill
+Solidos conhecimentos com Redes e Monitoramento. Atendimentos ao Cliente, Suporte Tecnico para ambiente criticos, Trabalho em equipe e Facil adaptação ao ambiente de trabalho.
+
+Cloud Computing:
+Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio,Arquitetura de Ambiente com Escalabilidade e Resiliente.
+
+Monitoramento e Observabilidade:
+Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permitindo monitorar,analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 
 📕 Atualmente , Estou Cursando ADS VINCIT  - Faculdade Vincit (ead) - Previsao para 2026. </p>
 🚀 Cursando Maratona Cisco  - CyberSecurity - CCNA1 e CyberOps - Previsao para 2024.  </p>
@@ -63,19 +77,6 @@ Tenhos noçoes com DevSecOps, automatizar teste com SonarQube , Snyk e Owasp. Es
     </td>
   </tr>
 </table>
-
-SoftSkill
-Proatividade, capacidade analítica e senso crítico para oferecer soluções de forma assertiva.
-Boa comunicação: escrita e falada, Resiliente, dinâmico e capaz de trabalhar sob pressão.
-
-HardSkill
-Solidos conhecimentos com Redes e Monitoramento. Atendimentos ao Cliente, Suporte Tecnico para ambiente criticos, Trabalho em equipe e Facil adaptação ao ambiente de trabalho.
-
-Cloud Computing:
-Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio,Arquitetura de Ambiente com Escalabilidade e Resiliente.
-
-Monitoramento e Observabilidade:
-Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permitindo monitorar,analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 ______________________________________________________________________________________________________
 <p align="left">
 <img align="center" alt="Rafa-Js" height="70" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
