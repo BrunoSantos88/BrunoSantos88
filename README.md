@@ -53,10 +53,10 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
         </li>
         <li>
-          📬 <a href=mailto:https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
+          📬 <a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
         </li>
         <li>
-          📬 <a href=mailto:https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
+          📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
         </li>
           <p>
          <h3> Minhas Conquistas </h3>
