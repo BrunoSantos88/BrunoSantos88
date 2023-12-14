@@ -38,7 +38,7 @@
           📬 <a href=mailto:https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
         </li>
           <li>
-          📬 <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification </a>
+          ⭐ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification </a>
         </li>
       </ul>
     </td>
