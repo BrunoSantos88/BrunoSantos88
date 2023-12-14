@@ -34,6 +34,9 @@
         <li>
           📬 <a href=mailto:https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
         </li>
+        <li>
+          📬 <a href=mailto:https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
+        </li>
       </ul>
     </td>
   </tr>
