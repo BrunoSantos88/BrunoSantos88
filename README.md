@@ -44,6 +44,7 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
     💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
       <h3> ❗️ Entre em contato comigo </h3>
+       </p>
       <ul>
         <li>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
@@ -54,7 +55,9 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
         <li>
           📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
         </li>
-   <h3> Minhas Conquistas </h3>
+         </p>
+          <h3> Minhas Conquistas </h3>
+         </p>
       <ul>
           <li>
           ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>
@@ -68,7 +71,9 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
            <li>
           ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>
         </li>
+         </p>
     <h3> Atualmente Cursando </h3>
+         </p>
         <li>
           📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
         </li>
