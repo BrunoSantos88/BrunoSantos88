@@ -54,8 +54,8 @@ ________________________________________________________________________________
 - Monitoramento Redes: Zabbix e Nagios.
 - Observability: Prometheus,Grafana,Alertmanager, Elastik Search , Kibana , Logstash.
 - Criação agents: Syslogs, node_exported e metricsbeats.
-- Redes: TCIP, IPV4, IPV6, NAT, Criação Redes escalonavel,segmentada. usando subnets,pering, network trafic, Aplication Loadbalacer,
-- Acesso remotos, VPN, DNS e Protocolos.
+- Redes: TCIP, IPV4, IPV6, NAT, rede escalonavel,rede segmentada,subnets,pering, endpoint, aplication loadbalacer, network loadbalacer, autoscaling e DNS.
+- Acesso remotos, VPN e bastionhost.
 - Security: Network ACL , Security Groups, Liberação de Portas.
  _____________________________________________________________________________________________________
 
