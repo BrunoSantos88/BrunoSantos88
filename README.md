@@ -24,7 +24,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Projetos focados em Cloud computing , Devops, automoção Infra is Code e DevSecOps |  <a href="https://www.linkedin.com/in/brunosantos88/"> Linkdin <a/>.
+        💻 Projetos focados em Cloud computing , Devops, automoção Infra is Code e DevSecOps | <a/>.
       </p>
       <h3>Onde me achar</h3>
       <ul>
