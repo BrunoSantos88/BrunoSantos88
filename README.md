@@ -74,6 +74,7 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
         </li>
         <li>
           📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBER SECURITY </a>
+      </p>
         </li>
       </ul>
     </td>
