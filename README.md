@@ -24,7 +24,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.linkedin.com/in/brunosantos88/">Linkdin<a/>.
+        💻 Projetos focados em Cloud computing , Devops, automoção Infra is Code e DevSecOps |  <a href="https://www.instagram.com/guiadevbrasil/"> Linkdin <a/>.
       </p>
       <p>
         🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
