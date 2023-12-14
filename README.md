@@ -40,7 +40,6 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-      <p>
         ⭐Olá! Sou Bruno Santos </p>
         💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
