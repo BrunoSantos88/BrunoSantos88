@@ -1,6 +1,18 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social) 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
+<p align="left">
+  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunosantos88" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://wa.me/+5513991353329" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href="https://t.me/BrunoSantos88" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     target="_blank"></a> 
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="28"/>
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="28"/>
+</p>
+</p>
+
 
 # ❗️Olà, Sou Bruno Santos❗️ </p>
 
@@ -21,18 +33,6 @@ Monitoramento e Observabilidade: Ferramentas de observabilidade, incluindo Prome
 
 Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP, PROTOCOLOS SIP, VPN L2TP, EOIP ,IPIP e PPTP. Conhecimentos com Procolos de Redes, Segmentanção e Escalonamento, DNS e Servidores WEB, EMAIL.
 Monitoramento em ambientes criticos link's RF e FTTH.
-
-<p align="left">
-  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunosantos88" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://wa.me/+5513991353329" target="_blank">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-   <a href="https://t.me/BrunoSantos88" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     target="_blank"></a> 
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="28"/>
- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="28"/>
-</p>
-</p>
 
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -86,7 +86,7 @@ Monitoramento em ambientes criticos link's RF e FTTH.
     </td>
   </tr>
 </table>
-______________________________________________________________________________________________________
+
 <p align="left">
 <img align="center" alt="Rafa-Js" height="70" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
