@@ -34,6 +34,9 @@
         <li>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
         </li>
+        <li>
+          📬 <a href=mailto:https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
+        </li>
       </ul>
     </td>
   </tr>
