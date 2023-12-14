@@ -37,6 +37,7 @@
         <li>
           📬 <a href=mailto:https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
         </li>
+          <p>
          <h3> Minhas Conquistas </h3>
       <ul>
           <li>
