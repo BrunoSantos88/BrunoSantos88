@@ -22,7 +22,7 @@ Monitoramento e Observabilidade:
 Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permitindo monitorar,analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 
 Redes: Conhecimentos ambientes telecom com TCIP IPV4, Rotiamento static , VoipIP, PROTOCOLOS SIP, VPN L2TP, EOIP ,IPIP e PPTP. Conhecimentos com Procolos de Redes, Segmentanção e Escalonamento, DNS e Servidores WEB, EMAIL.
-Monitoramento em ambientes criticos link's RF e FTTH. Suporte Tecnico a clientes empresarial. 
+Monitoramento em ambientes criticos link's RF e FTTH.
 
 <p align="left">
   <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
