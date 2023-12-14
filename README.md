@@ -47,7 +47,7 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
         ⭐Olá! Sou Bruno Santos </p>
         💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
-      <h3> Entre em contato comigo </h3>
+      <h3> ❗️ Entre em contato comigo </h3>
       <ul>
         <li>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
@@ -72,6 +72,14 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
         </li>
            <li>
           ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Qklabs-Google Cloud </a>
+        </li>
+         <p>
+         <h3> Atualmente Estou Cursando </h3>
+        <li>
+          ✅ <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Cursando ADS </a>
+        </li>
+        <li>
+          ✅ <a href=hhttps://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBER SECURITY </a>
         </li>
       </ul>
     </td>
