@@ -25,7 +25,7 @@
     <td style="border: 0";>
       <p>
         ⭐Olá! Sou Bruno Santos </p>
-        💻 Projetos focados em Cloud computing , Devops, automoção Infra is Code e DevSecOps <a/>.
+        💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
       <h3> Entre em contato comigo </h3>
       <ul>
