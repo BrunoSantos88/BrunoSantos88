@@ -86,10 +86,7 @@ ________________________________________________________________________________
  ______________________________________________________________________________________________________
 
 ## ⭐ GitHub Stats
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSantos88&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoSantos88&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunosantos88&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunosantos88&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brunosantos88&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brunosantos88&theme=github&utcOffset=8)
