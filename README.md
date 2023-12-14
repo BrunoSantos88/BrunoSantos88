@@ -71,7 +71,7 @@ Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP
      ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>
         </li>
          </p>
-    <h3> ❗️Atualmente estou Cursando❗️ </h3>
+        <h3> ❗️Atualmente estou Cursando❗️ </h3>
           </p>
           <li>
              📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
