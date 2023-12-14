@@ -21,9 +21,6 @@ Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Comput
 Monitoramento e Observabilidade:
 Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permitindo monitorar,analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 
-📕 Atualmente , Estou Cursando ADS VINCIT  - Faculdade Vincit (ead) - Previsao para 2026. </p>
-🚀 Cursando Maratona Cisco  - CyberSecurity - CCNA1 e CyberOps - Previsao para 2024.  </p>
-
 <p align="left">
   <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -76,10 +73,10 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
          <p>
          <h3> Atualmente Estou Cursando </h3>
         <li>
-          ✅ <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Cursando ADS </a>
+          📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Cursando ADS </a>
         </li>
         <li>
-          ✅ <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBER SECURITY </a>
+          📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBER SECURITY </a>
         </li>
       </ul>
     </td>
