@@ -4,9 +4,9 @@
 
 # Olà, Sou Bruno Santos. </p>
 
-Estou motivado pela minha paixão em evoluir em direção às áreas de Cloud Computing , CyberSecurity e DevOps.
-Venho estudando mais de 2 anos, adquirindo pratica, certificaçãoes e noções de ambiente real, praticando laboratorias nas Plataformas AWS,AZURE E GOOGLE CLOUD.
-Tenho muita vontade de apreeder, sou autodidatico em conheicimento com tecnologia. Participei alguns bootcamps e cursos como AWS/ReStart, LinunxTips ,Escola da Nuvem e 4Linux. 
+Estou motivado pela minha paixão em evoluir em direção às áreas de Cloud Computing , CyberSecurity e DevOps. </p>
+Venho estudando mais de 2 anos, adquirindo pratica, certificaçãoes e noções de ambiente real, praticando laboratorias nas Plataformas AWS,AZURE E GOOGLE CLOUD.</p>
+Tenho muita vontade de apreeder, sou autodidatico em conheicimento com tecnologia. Participei alguns bootcamps e cursos como AWS/ReStart, LinunxTips ,Escola da Nuvem e 4Linux.  </p>
 
 SoftSkill
 Proatividade, capacidade analítica e senso crítico para oferecer soluções de forma assertiva.
