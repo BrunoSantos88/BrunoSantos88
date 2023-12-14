@@ -1,9 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social) 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 <p/>
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=BrunoSantos88%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=BrunoSantos88%2Fgithub-visitors-badge)
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a)
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 
 ⭐Olá! Sou Bruno Santos
 
