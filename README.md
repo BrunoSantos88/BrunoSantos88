@@ -12,16 +12,17 @@ SoftSkill
 Proatividade, capacidade analítica e senso crítico para oferecer soluções de forma assertiva.
 Boa comunicação: escrita e falada, Resiliente, dinâmico e capaz de trabalhar sob pressão.
 
-HardSkill
+HardSkill </p>
 Solidos conhecimentos com Redes e Monitoramento. Atendimentos ao Cliente, Suporte Tecnico para ambiente criticos, Trabalho em equipe e Facil adaptação ao ambiente de trabalho.
 
-Cloud Computing:
+Cloud Computing: </p>
 Computação em Nuvem: (AWS, AZURE e GCP). Conhecimentos com serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio,Arquitetura de Ambiente com Escalabilidade e Resiliente.
 
-Monitoramento e Observabilidade:
+Monitoramento e Observabilidade: </p>
 Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permitindo monitorar,analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
 
-Redes: Conhecimentos ambientes telecom com TCIP IPV4, Rotiamento static , VoipIP, PROTOCOLOS SIP, VPN L2TP, EOIP ,IPIP e PPTP. Conhecimentos com Procolos de Redes, Segmentanção e Escalonamento, DNS e Servidores WEB, EMAIL.
+Redes: </p>
+Conhecimentos ambientes telecom com TCIP IPV4, Rotiamento static , VoipIP, PROTOCOLOS SIP, VPN L2TP, EOIP ,IPIP e PPTP. Conhecimentos com Procolos de Redes, Segmentanção e Escalonamento, DNS e Servidores WEB, EMAIL.
 Monitoramento em ambientes criticos link's RF e FTTH.
 
 <p align="left">
