@@ -68,12 +68,12 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
            <li>
           ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Qklabs-Google Cloud </a>
         </li>
-    <h3> Atualmente Estou Cursando </h3>
+    <h3> Atualmente Cursando </h3>
         <li>
-          📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Cursando ADS </a>
+          📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
         </li>
         <li>
-          📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBER SECURITY </a>
+          📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBERSECURITY </a>
       </p>
         </li>
       </ul>
