@@ -79,7 +79,7 @@ Conhecimento em ferramentas de observabilidade, incluindo Prometheus, Grafana, D
           ✅ <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Cursando ADS </a>
         </li>
         <li>
-          ✅ <a href=hhttps://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBER SECURITY </a>
+          ✅ <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBER SECURITY </a>
         </li>
       </ul>
     </td>
