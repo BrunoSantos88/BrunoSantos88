@@ -92,3 +92,4 @@ ________________________________________________________________________________
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunosantos88&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brunosantos88&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brunosantos88&theme=github_dark&utcOffset=8)
+| :-: | :-: | :-: |
