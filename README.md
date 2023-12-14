@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social) 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 
-# Olà, Sou Bruno Santos. </p>
+# ❗️Olà, Sou Bruno Santos❗️ </p>
 
 Estou motivado pela minha paixão em evoluir em direção às áreas de Cloud Computing , CyberSecurity e DevOps. </p>
 Venho estudando mais de 2 anos, adquirindo pratica, certificaçãoes e noções de ambiente real, praticando laboratorias nas Plataformas AWS,AZURE E GOOGLE CLOUD.</p>
@@ -73,7 +73,7 @@ Monitoramento em ambientes criticos link's RF e FTTH.
      ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>
         </li>
          </p>
-    <h3> ❗️Atualmente estou Cursandno❗️ </h3>
+    <h3> ❗️Atualmente estou Cursando❗️ </h3>
          </p>
         <li>
      📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
@@ -101,7 +101,7 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/211873981-07625883-ca60-4d6d-9a1b-4c9a4d97059c.png"/>
 
 
-💻 Technologies & Tools
+💻 ❗️Technologies & Tools❗️
 
 - Liguagens:
 - Python,
@@ -123,14 +123,14 @@ ________________________________________________________________________________
 - Security: Network ACL , Security Groups, Aplication firewall.
 
 ______________________________________________________________________________________________________
-❗️ Meus Projetos
+❗️ Meus Projetos ❗️
 
 🎯 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" </p>
 🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
  ______________________________________________________________________________________________________
 
-## ⭐ Git Status
+## ⭐❗️Git Status❗️
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoSantos88&theme=blueberry) |
 | :-: | :-: | :-: |
 
