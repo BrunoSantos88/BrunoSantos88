@@ -86,7 +86,7 @@ ________________________________________________________________________________
 - Versionamento Git 
 - Operacional: (Linux e Windows)
 - Container: (Docker e Kubernetes)
-- Infraestrura como codigo (iAC): Criação de Codigos com Terraform,boto3 com as Cloud (AWS,GCP.AZURE)
+- Infraestrura como codigo (IAC): Criação de Codigos com Terraform,boto3 com as Cloud (AWS,GCP.AZURE)
 - Cloud Formation (aws) e Criação de Playbook com Ansible para SSM.
 - CI: Jenkins e GitAction e outros serviços em PAAS.
 - CD: Deployment com ArgoCD
