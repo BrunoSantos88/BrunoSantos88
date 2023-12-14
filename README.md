@@ -101,17 +101,15 @@ ________________________________________________________________________________
 - Versionamento Git 
 - Operacional: (Linux e Windows)
 - Container: (Docker e Kubernetes)
-- Infraestrura como codigo (IAC): Criação de Codigos com Terraform,boto3 com as Cloud (AWS,GCP.AZURE)
-- Cloud Formation (aws) e Criação de Playbook com Ansible para SSM.
+- Infraestrura como codigo (IAC):
+- Ansible para SSM.
 - CI: Jenkins e GitAction e outros serviços em PAAS.
 - CD: Deployment com ArgoCD
 - Teste unitarios em CI: SAST , DAST e IAST.
 - Monitoramento Redes: Zabbix e Nagios.
 - Observability: Prometheus,Grafana,Alertmanager, Elastik Search , Kibana , Logstash.
-- Criação agents: Syslogs, node_exported e metricsbeats.
-- Redes: TCIP, IPV4, IPV6, NAT, rede escalonavel,rede segmentada,subnets,pering, endpoint, aplication loadbalacer, network loadbalacer, autoscaling e DNS.
-- Acesso remotos, VPN e bastionhost.
-- Security: Network ACL , Security Groups, Liberação de Portas.
+- Redes: TCIP, IPV4, IPV6, NAT, Subnets , Endpoints , DHCP , DNS , VPN e Voip.
+- Security: Network ACL , Security Groups, security nivel camadas OSI.
 
 ______________________________________________________________________________________________________
 ❗️ Meus Projetos
