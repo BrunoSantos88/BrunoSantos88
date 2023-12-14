@@ -119,7 +119,7 @@ ________________________________________________________________________________
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
  ______________________________________________________________________________________________________
 
-## ⭐ GitHub Stats
+## ⭐ Github Status
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoSantos88&theme=blueberry) |
 | :-: | :-: | :-: |
 
