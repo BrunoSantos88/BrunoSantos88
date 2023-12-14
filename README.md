@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social) 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 
-OLà Sou Bruno Santos.
+OLà, Sou Bruno Santos.
 Tenho conhecimentos em: Cloud Computing com AWS, google cloud e Azure, Serverless, Python, SQL, MySQL, Git, Docker, Linux, MacOS, Windows, Kubernetes, Ansible e Redes.
 Venho estudando Devops conteudo de CI/CD adquirindo conhecimentos com Build com Jenkins, gitAction e outras ferramentas Cloud compunting. Tenho Conhecimento com ArgoCd para gerenciamento Deploy.
 Tenhos noçoes com DevSecOps, automatizar teste com SonarQube , Snyk e Owasp. Estou adiquirindo mais e mais conhecimentos nessa areas.Recentemente efetuei cursos de observabilidde com Prometheus, grafana e alertmanager para ter um conhecimento na parte de monitoramento de aplicação.
