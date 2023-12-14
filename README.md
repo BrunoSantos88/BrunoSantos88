@@ -16,23 +16,10 @@
 
 # ❗️Olà, Sou Bruno Santos❗️ </p>
 
-Estou motivado pela minha paixão em evoluir em direção às áreas de Cloud Computing , CyberSecurity e DevOps. </p>
-Venho estudando mais de 2 anos, adquirindo pratica, certificaçãoes e noções de ambiente real, praticando laboratorias nas Plataformas AWS,AZURE E GOOGLE CLOUD.</p>
-Tenho muita vontade de apreeder, sou autodidatico em conheicimento com tecnologia. Participei alguns bootcamps e cursos como AWS/ReStart, LinunxTips ,Escola da Nuvem e 4Linux.  </p>
-
-SoftSkill
-Proatividade, capacidade analítica e senso crítico para oferecer soluções de forma assertiva.
-Boa comunicação: escrita e falada, Resiliente, dinâmico e capaz de trabalhar sob pressão.
-
-HardSkill
-Solidos conhecimentos com Redes e Monitoramento. Atendimentos ao Cliente, Suporte Tecnico para ambiente criticos, Trabalho em equipe e Facil adaptação ao ambiente de trabalho.
-
-Cloud Computing: Conhecimento com as Cloud (AWS, AZURE e GCP), com serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio,Arquitetura de Ambiente com Escalabilidade e Resiliente.
-
-Monitoramento e Observabilidade: Ferramentas de observabilidade, incluindo Prometheus, Grafana, Datadog e Elasticsearch. Isso me permitindo monitorar,analisar o desempenho de sistemas e aplicativos, garantindo uma operação confiável e eficiente.
-
-Redes: Conhecimentos ambientes telecom com TCIP IPV4, Roteamento estático, VoiP, PROTOCOLOS SIP, VPN L2TP, EOIP ,IPIP e PPTP. Conhecimentos com Procolos de Redes, Segmentanção e Escalonamento e DNS .
-
+Possuo sólidos conhecimentos em Redes e Monitoramento, incluindo atendimento ao cliente, suporte técnico para ambientes críticos, trabalho em equipe e facilidade de adaptação ao ambiente de trabalho.
+Em Cloud Computing, tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência.
+No campo de Monitoramento e Observabilidade, utilizo ferramentas como Prometheus, Grafana, Datadog e Elasticsearch para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes.
+Em Redes, tenho conhecimento em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
