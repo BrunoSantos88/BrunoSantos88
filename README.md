@@ -44,7 +44,7 @@ Monitoramento em ambientes criticos link's RF e FTTH.
    ⭐Olá! Sou Bruno Santos </p>
     💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
-      <h3> ❗️ Entre em contato comigo </h3>
+      <h3> ❗️Entre em contato comigo❗️ </h3>
        </p>
       <ul>
         <li>
@@ -57,23 +57,23 @@ Monitoramento em ambientes criticos link's RF e FTTH.
           📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
         </li>
          </p>
-          <h3> Minhas Conquistas </h3>
+          <h3> ❗️Minhas Certificações❗️ </h3>
          </p>
       <ul>
           <li>
-        -  ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>
+       ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>
         </li>
          <li>
-   -       ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>
+     ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>
         </li>
            <li>
-       -   ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> My Certification Microsoft </a>
+     ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> My Certification Microsoft </a>
         </li>
            <li>
      -     ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>
         </li>
          </p>
-    <h3> Atualmente Cursando </h3>
+    <h3> ❗️Atualmente estou Cursandno❗️ </h3>
          </p>
         <li>
    -       📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
