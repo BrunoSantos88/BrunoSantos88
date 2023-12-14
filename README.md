@@ -41,7 +41,6 @@ Monitoramento em ambientes criticos link's RF e FTTH.
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-   ⭐Olá! Sou Bruno Santos </p>
     💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
       <h3> ❗️Entre em contato comigo❗️ </h3>
