@@ -109,7 +109,7 @@ ________________________________________________________________________________
 - Monitoramento Redes: Zabbix e Nagios.
 - Observability: Prometheus,Grafana,Alertmanager, Elastik Search , Kibana , Logstash.
 - Redes: TCIP, IPV4, IPV6, NAT, Subnets , Endpoints , DHCP , DNS , VPN e Voip.
-- Security: Network ACL , Security Groups, security nivel camadas OSI.
+- Security: Network ACL , Security Groups, Aplication firewall.
 
 ______________________________________________________________________________________________________
 ❗️ Meus Projetos
