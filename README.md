@@ -41,13 +41,16 @@ ________________________________________________________________________________
 - Versionamento Git 
 - Operacional: (Linux e Windows)
 - Container: (Docker e Kubernetes)
-- Terraform com as Cloud (AWS,GCP.AZURE)
+- Infraestrura como codigo (iAC): Criação de Codigos com Terraform,boto3 com as Cloud (AWS,GCP.AZURE)
+- Cloud Formation (aws) e Criação de Playbook com Ansible para SSM.
 - CI: Jenkins e GitAction e outros serviços em PAAS.
 - CD: Deployment com ArgoCD
 - Teste unitarios em CI: SAST , DAST e IAST.
-- Monitoramento: Zabbix e Nagios.
-- Observability: Prometheus,Grafana e Alertmanager
-______________________________________________________________________________________________________
+- Monitoramento Redes: Zabbix e Nagios.
+- Observability: Prometheus,Grafana,Alertmanager, Elastik Search , Kibana , Logstash.
+- Criação agents: Syslogs, Promethues e metricsbeats.
+- Redes: TCIP, IPV4, IPV6, NAT, Criação Redes escalonavel,segmentada. usando subnets,pering , network loadbalacer, Aplication Loadbalacer, acesso remotos, VPN e Protocolos.
+ _____________________________________________________________________________________________________
 
 ⭐ Minhas Certificações:  </p>
 ✅ Credly: "https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" </p>
