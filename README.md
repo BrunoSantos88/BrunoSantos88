@@ -85,7 +85,6 @@ ________________________________________________________________________________
 
 ## ⭐ GitHub Stats
 
-![BrunoSantos88's Stats](https://github-readme-stats.vercel.app/api?username=BrunoSantos88&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ______________________________________________________________________________________________________
 
 ## ⭐ Contatos
@@ -104,6 +103,9 @@ ________________________________________________________________________________
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="28"/>
 </p>
 
+
+
+## ⭐ GitHub Stats
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
 | :-: | :-: | :-: |
