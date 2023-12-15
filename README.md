@@ -29,7 +29,7 @@
     <td style="border: 0";>
     💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
-            <h3> ❗️Entre em contato comigo❗️ </h3>
+            <h3> ❗️Contatos❗️ </h3>
             <ul>
             <li>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
@@ -40,7 +40,7 @@
            <li>
            📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
           </li>
-          <h3> ❗️Minhas Certificações❗️ </h3>
+          <h3> ❗️Certificações❗️ </h3>
          </p>
       <ul>
           <li>
@@ -55,7 +55,7 @@
            <li>
      ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>
         </li>
-        <h3> ❗️Atualmente estou Cursando❗️ </h3>
+        <h3> ❗️Cursando❗️ </h3>
           </p>
           <li>
              📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
@@ -83,7 +83,7 @@
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/211873981-07625883-ca60-4d6d-9a1b-4c9a4d97059c.png"/>
 
 
-💻 ❗️Technologies & Tools❗️
+💻 ❗️Technologies & Tools
 
 - Liguagens:
 - Python,
@@ -105,7 +105,7 @@
 - Security: Network ACL , Security Groups, Aplication firewall.
 
 ______________________________________________________________________________________________________
-❗️ Meus Projetos ❗️
+❗ Meus Projetos 
 
 🎯 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" </p>
 🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
