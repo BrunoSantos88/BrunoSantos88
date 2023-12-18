@@ -13,11 +13,11 @@
 </p>
 
 
+# Olà, Sou Bruno Santos </p>
+
  <p align="right">
   <td style="border: 0";>
   <img width="800" src="https://i.imgur.com/bXxIgrd.png" />
-
-# Olà, Sou Bruno Santos </p>
 
 - ✅ Possuo sólidos conhecimentos em Redes e Monitoramento, incluindo atendimento ao cliente, suporte técnico para ambientes críticos, trabalho em equipe e facilidade de adaptação ao ambiente de trabalho.
 - ✅ Cloud Computing, tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência.
