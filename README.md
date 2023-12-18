@@ -47,7 +47,7 @@
 
   <p align="right">
   <td style="border: 0";>
-  <img width="300" src="https://i.imgur.com/bXxIgrd.png" />
+  <img width="200" src="https://i.imgur.com/bXxIgrd.png" />
 
 
   
