@@ -21,10 +21,6 @@
 - ✅ Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS.
 - ✅ Devops,habilidade de criar steps, pepelines  com as linguagens Maven,Python,Nodejs e Mysql, usando servicços CI com Jenkins, GitAtion ou serviços de cloud AWS ou Google cloud. Gerencimento Deploy com ArgoCd.
 
-  <p align="right">
-  <td style="border: 0";>
-  <img width="300" src="https://i.imgur.com/bXxIgrd.png" />
-
 
  <p align="left">
 💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.  </p>
@@ -48,6 +44,10 @@
     </td>
   </tr>
 </table> 
+
+  <p align="right">
+  <td style="border: 0";>
+  <img width="300" src="https://i.imgur.com/bXxIgrd.png" />
 
 
   
