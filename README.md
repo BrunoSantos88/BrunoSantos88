@@ -24,7 +24,6 @@
   <p align="right">
   <td style="border: 0";>
   <img width="300" src="https://i.imgur.com/bXxIgrd.png" />
-  </p>
   
 💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.  </p>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a> </p>
