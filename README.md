@@ -23,7 +23,7 @@
   </p>
   
     <td style="border: 0";>
-      <img width="500" src="https://i.imgur.com/bXxIgrd.png" />
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
       
