@@ -22,7 +22,7 @@
 - ✅ Devops,habilidade de criar steps, pepelines  com as linguagens Maven,Python,Nodejs e Mysql, usando servicços CI com Jenkins, GitAtion ou serviços de cloud AWS ou Google cloud. Gerencimento Deploy com ArgoCd.
   
   <td style="border: 0";>
-  <img width="300" src="https://i.imgur.com/bXxIgrd.png" />
+  <img width="1000" src="https://i.imgur.com/bXxIgrd.png" />
 
   
 
