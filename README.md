@@ -24,7 +24,8 @@
   <p align="right">
   <td style="border: 0";>
   <img width="300" src="https://i.imgur.com/bXxIgrd.png" />
-  
+
+ <p align="left">
 💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.  </p>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a> </p>
           📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>  </p>
@@ -46,8 +47,9 @@
     </td>
   </tr>
 </table>
-
 </p>
+
+  
 <p align="left">
 <img align="center" alt="Rafa-Js" height="70" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
