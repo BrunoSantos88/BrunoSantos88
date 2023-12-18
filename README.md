@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="28"/>
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="28"/>
 </p>
-</p>
 
 
 # Olà, Sou Bruno Santos </p>
@@ -68,8 +67,6 @@
     </td>
   </tr>
 </table>
-
-</p>
 
 <p align="left">
 <img align="center" alt="Rafa-Js" height="70" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
