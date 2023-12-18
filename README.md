@@ -13,6 +13,10 @@
 </p>
 
 
+ <p align="right">
+  <td style="border: 0";>
+  <img width="1000" src="https://i.imgur.com/bXxIgrd.png" />
+
 # Olà, Sou Bruno Santos </p>
 
 - ✅ Possuo sólidos conhecimentos em Redes e Monitoramento, incluindo atendimento ao cliente, suporte técnico para ambientes críticos, trabalho em equipe e facilidade de adaptação ao ambiente de trabalho.
@@ -44,10 +48,6 @@
     </td>
   </tr>
 </table> 
-
-  <p align="right">
-  <td style="border: 0";>
-  <img width="200" src="https://i.imgur.com/bXxIgrd.png" />
 
 
   
