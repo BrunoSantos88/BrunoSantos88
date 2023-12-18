@@ -47,7 +47,7 @@
     </td>
   </tr>
 </table>
-</p>
+| :-: | :-: |
 
   
 <p align="left">
