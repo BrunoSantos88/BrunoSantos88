@@ -23,9 +23,10 @@
   </p>
   
     <td style="border: 0";>
-      <img width="1000" src="https://i.imgur.com/bXxIgrd.png" />
+      <img width="500" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
+      
     💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
             <h3> Contatos </h3>
@@ -57,10 +58,10 @@
         <h3> Cursando </h3>
           </p>
           <li>
-             📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
+   📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>
           </li>
           <li>
-                📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBERSECURITY </a>
+  📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBERSECURITY </a>
       </p>
         </li>
       </ul>
@@ -100,7 +101,6 @@
 - Ansible para SSM.
 - CI: Jenkins e GitAction e outros serviços em PAAS.
 - CD: Deployment com ArgoCD
-- Teste unitarios em CI: SAST , DAST e IAST.
 - Monitoramento Redes: Zabbix e Nagios.
 - Observability: Prometheus,Grafana,Alertmanager, Elastik Search , Kibana , Logstash.
 - Security: Network ACL , Security Groups, Aplication firewall.
