@@ -27,10 +27,7 @@
   
 
   <p align="left">
-💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
-    </td>
-    <td style="border: 0";>
-     </p>
+💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.  </p>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a> </p>
           📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>  </p>
           📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>  </p>
