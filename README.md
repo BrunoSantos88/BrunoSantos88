@@ -29,7 +29,6 @@
   
 <p align="right">
      <💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
-      </p>
             <h3> Contatos </h3>
             <ul>
             <li>
