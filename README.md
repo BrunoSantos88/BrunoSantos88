@@ -25,8 +25,10 @@
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-      
-    💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
+
+  
+<p align="left">
+     <💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
       </p>
             <h3> Contatos </h3>
             <ul>
@@ -68,6 +70,7 @@
   </tr>
 </table>
 
+</p>
 <p align="left">
 <img align="center" alt="Rafa-Js" height="70" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
