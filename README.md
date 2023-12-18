@@ -24,7 +24,9 @@
   <td style="border: 0";>
   <img width="300" src="https://i.imgur.com/bXxIgrd.png" />
 
-  <p align="right">
+  
+
+  <p align="left">
      <💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.
     </td>
     <td style="border: 0";>
