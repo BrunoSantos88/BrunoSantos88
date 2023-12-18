@@ -21,11 +21,11 @@
 - ✅ Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS.
 - ✅ Devops,habilidade de criar steps, pepelines  com as linguagens Maven,Python,Nodejs e Mysql, usando servicços CI com Jenkins, GitAtion ou serviços de cloud AWS ou Google cloud. Gerencimento Deploy com ArgoCd.
 
-  <p align="right">
+|  <p align="right">
   <td style="border: 0";>
-  <img width="300" src="https://i.imgur.com/bXxIgrd.png" />
+  <img width="300" src="https://i.imgur.com/bXxIgrd.png" />|
 
- <p align="left">
+ |<p align="left">
 💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.  </p>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a> </p>
           📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>  </p>
@@ -46,7 +46,7 @@
       </ul>
     </td>
   </tr>
-</table>
+</table> |
 | :-: | :-: |
 
   
