@@ -15,7 +15,7 @@
 
  <p align="right">
   <td style="border: 0";>
-  <img width="1000" src="https://i.imgur.com/bXxIgrd.png" />
+  <img width="800" src="https://i.imgur.com/bXxIgrd.png" />
 
 # Olà, Sou Bruno Santos </p>
 
