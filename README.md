@@ -21,7 +21,8 @@
       <img width="500" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-    💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps
+    💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps,
+      Atualmente cursando ADS e Maratona cisco, apredizagem em cyberSecurity, muita vontade de apreender e desenvolver estudos sobre Cloud, cyberSecurity e devOps.
       </p>
       <h3> Como entrar em contatoc comigo </h3>
       <ul>
