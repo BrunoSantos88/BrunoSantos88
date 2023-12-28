@@ -22,12 +22,12 @@ Olà, Eu sou Bruno Santos @brunosantosc1
     </td>
     <td style="border: 0";>
       <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
+        💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps />.
       </p>
       <p>
         🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
       </p>
-      <h3>Other places you can find me</h3>
+      <h3> Como entrar em contatoc comigo </h3>
       <ul>
         <li>
           🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
