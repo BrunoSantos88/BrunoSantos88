@@ -28,14 +28,14 @@
           📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>  </p>
           📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>  </p>
           </li>
-          <h3> Certificações </h3>
+          <h3> - Certificações </h3>
          </p>
      ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>  </p>
      ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>  </p>
      ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> My Certification Microsoft </a>  </p>
      ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>  </p>
         </li>
-        <h3> Cursando </h3>
+        <h3> - Estudos </h3>
    📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> Analise e Desenvolvimento Sistema </a>  </p>
   📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  Maratona CISCO CYBERSECURITY </a>  </p>
       </p>
