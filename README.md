@@ -50,14 +50,7 @@ Olà, Eu sou Bruno Santos @brunosantosc1
 - ✅ Devops,habilidade de criar steps, pepelines  com as linguagens Maven,Python,Nodejs e Mysql, usando servicços CI com Jenkins, GitAtion ou serviços de cloud AWS ou Google cloud. Gerencimento Deploy com ArgoCd.
 
 
- <p align="left">
-💻  Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.  </p>
-          📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a> </p>
-          📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>  </p>
-          📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>  </p>
-          </li>
-          <h3>⭐ Certificações </h3>
-         </p>
+  <h3>⭐ Certificações </h3>  </p>
      ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>  </p>
      ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>  </p>
      ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> My Certification Microsoft </a>  </p>
