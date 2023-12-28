@@ -56,6 +56,7 @@
 - ✅ Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS.
 - ✅ Devops,habilidade de criar steps, pepelines  com as linguagens Maven,Python,Nodejs e Mysql, usando servicços CI com Jenkins, GitAtion ou serviços de cloud AWS ou Google cloud. Gerencimento Deploy com ArgoCd.
 
+______________________________________________________________________________________________________
 
   <h3>⭐ Certificações </h3>  </p>
      ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>  </p>
@@ -73,6 +74,7 @@
   </tr>
 </table> 
 
+______________________________________________________________________________________________________
 
   
 <p align="left">
