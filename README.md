@@ -21,7 +21,7 @@
       <img width="700" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-    💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps, estou desenvolvendo esses estudos sobre Cloud, DevOps e Devsecops envolvendo CyberSecurity.
+    🚀 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps, estou desenvolvendo esses estudos sobre Cloud, DevOps e Devsecops envolvendo CyberSecurity.
       </p>
       <h3> Como entrar em contatoc comigo </h3>
       <ul>
@@ -29,7 +29,7 @@
          📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
         </li>
         <li>
-          📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
+          🌐 <a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
         </li>
         <li>
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
@@ -46,7 +46,6 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSantos88&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSantos88&theme=blueberry)| 
 | :-: | :-: |
 
-- ✅ Possuo sólidos conhecimentos em Redes e Monitoramento, incluindo atendimento ao cliente, suporte técnico para ambientes críticos, trabalho em equipe e facilidade de adaptação ao ambiente de trabalho.
 - ✅ Cloud Computing, tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência.
 - ✅ Monitoramento e Observabilidade, utilizo ferramentas como Prometheus, Grafana, Datadog e Elasticsearch para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes.
 - ✅ Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS.
