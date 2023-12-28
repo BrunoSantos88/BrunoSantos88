@@ -46,10 +46,6 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSantos88&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSantos88&theme=blueberry)| 
 | :-: | :-: |
 
-
-
-# Olà, Eu sou Bruno Santos </p>
-
 - ✅ Possuo sólidos conhecimentos em Redes e Monitoramento, incluindo atendimento ao cliente, suporte técnico para ambientes críticos, trabalho em equipe e facilidade de adaptação ao ambiente de trabalho.
 - ✅ Cloud Computing, tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência.
 - ✅ Monitoramento e Observabilidade, utilizo ferramentas como Prometheus, Grafana, Datadog e Elasticsearch para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes.
