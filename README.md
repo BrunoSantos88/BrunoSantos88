@@ -22,24 +22,18 @@ Olà, Eu sou Bruno Santos @brunosantosc1
     </td>
     <td style="border: 0";>
       <p>
-        💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps />.
-      </p>
-      <p>
-        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
+        💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps
       </p>
       <h3> Como entrar em contatoc comigo </h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
+         📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>  </p
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
+          📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/guiadevbrasil/">Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
+          📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
         </li>
       </ul>
     </td>
