@@ -39,6 +39,14 @@
   </tr>
 </table>
 
+## ⭐Git Status
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoSantos88&theme=blueberry) |
+| :-: | :-: | :-: |
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSantos88&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSantos88&theme=blueberry)| 
+| :-: | :-: |
+
+
 
 # Olà, Eu sou Bruno Santos </p>
 
@@ -110,10 +118,3 @@ Meus Projetos
 🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
  ______________________________________________________________________________________________________
-
-## ⭐Git Status
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoSantos88&theme=blueberry) |
-| :-: | :-: | :-: |
-
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSantos88&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSantos88&theme=blueberry)| 
-| :-: | :-: |
