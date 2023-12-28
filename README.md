@@ -21,8 +21,7 @@ Olà, Eu sou Bruno Santos @brunosantosc1
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-      <p>
-        💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps
+    💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps
       </p>
       <h3> Como entrar em contatoc comigo </h3>
       <ul>
