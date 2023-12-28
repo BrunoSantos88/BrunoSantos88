@@ -27,7 +27,7 @@ Olà, Eu sou Bruno Santos @brunosantosc1
       <h3> Como entrar em contatoc comigo </h3>
       <ul>
         <li>
-         📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>  </p
+         📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
         </li>
         <li>
           📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
