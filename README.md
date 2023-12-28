@@ -13,7 +13,7 @@
 </p>
 
 
-# Olà, Sou Bruno Santos </p>
+# Olà, Eu sou Bruno Santos </p>
 
 - ✅ Possuo sólidos conhecimentos em Redes e Monitoramento, incluindo atendimento ao cliente, suporte técnico para ambientes críticos, trabalho em equipe e facilidade de adaptação ao ambiente de trabalho.
 - ✅ Cloud Computing, tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência.
@@ -24,6 +24,7 @@
 
  <p align="left">
 💻 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps <a/>.  </p>
+_____________________________________________________________________________________________________________________________________________________________________________________
           📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a> </p>
           📬<a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>  </p>
           📬 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>  </p>
