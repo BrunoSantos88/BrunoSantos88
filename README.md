@@ -18,7 +18,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="900" src="https://i.imgur.com/bXxIgrd.png" />
+      <img width="1000" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
     🚀 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps, estou desenvolvendo esses estudos envolvendo CyberSecurity.
