@@ -4,48 +4,6 @@
 
 # Olà, Eu sou Bruno Santos
 
-<p align="left">
-  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunosantos88" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://wa.me/+5513991353329" target="_blank">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-   <a href="https://t.me/BrunoSantos88" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"     target="_blank"></a> 
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="28"/>
- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="28"/>
-</p>
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="1000" src="https://i.imgur.com/bXxIgrd.png" />
-    </td>
-    <td style="border: 0";>
-    🚀 Projetos focados em Cloud computing , Devops, Automoção Infra is Code e DevSecOps, estou desenvolvendo esses estudos envolvendo CyberSecurity.
-      </p>
-      <h3> Como entrar em contatoc comigo </h3>
-      <ul>
-        <li>
-          🌐 <a href=https://t.me/BrunoSantos88/>Contact-me on Telegram</a>
-        </li>
-        <li>
-          🌐 <a href=https://www.linkedin.com/in/brunosantos88/>Contact-me on linkdin</a>
-        </li>
-        <li>
-          📬 <a href=mailto:brunosantosc1@gmail.com>Contact-me on email</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## ⭐Git Status
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoSantos88&theme=blueberry) |
-| :-: | :-: | :-: |
-
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSantos88&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSantos88&theme=blueberry)| 
-| :-: | :-: |
-
 - ✅ Cloud Computing, tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência.
 - ✅ Monitoramento e Observabilidade, utilizo ferramentas como Prometheus, Grafana, Datadog e Elasticsearch para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes.
 - ✅ Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS.
@@ -113,3 +71,13 @@ Meus Projetos
 🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
  ______________________________________________________________________________________________________
+
+ 
+
+## ⭐Git Status
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoSantos88&theme=blueberry) |
+| :-: | :-: | :-: |
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSantos88&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSantos88&theme=blueberry)| 
+| :-: | :-: |
+
