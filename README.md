@@ -20,6 +20,7 @@ ________________________________________________________________________________
         <h3> ⭐ Cursos previsão de termino  </h3>
    📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> ANALISE E DESENVOLVIMENTO SISTEMA </a> 🗓️ 2026 </p>
    📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  MARARONA CYBEROPS CISCO </a>  🗓️ 2024 </p>
+   📕 <a href=https://https://desenvolve.grupoboticario.com.br//> Desenvolve(boticario)/trilha Security </a> 🗓️ 2024 </p>
       </p>
         </li>
       </ul>
