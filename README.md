@@ -5,6 +5,8 @@
 
 # Bem-vindo (a), é um prazer recebê-lo (a) aqui. 
 
+✅ Experiência como Analista em NOC, em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows.
+
 ✅ Cloud Computing, tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência. </P>
 ✅ Monitoramento e Observabilidade, utilizo ferramentas como Prometheus, Grafana, Datadog e Elasticsearch para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes. </P>
 ✅ Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS. </P>
