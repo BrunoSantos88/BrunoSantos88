@@ -73,6 +73,14 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 <h3>⭐PROJETOS </h3>  </p>
 
+
+<h3>⭐ PROJETOS e LABS </h3>  </p>
+     🎯 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> O2B ACADAMY </a>  </p>
+     🎯 <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>  </p>
+     🎯 <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> My Certification Microsoft </a>  </p>
+     🎯 <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>  </p>
+        </li>
+
 🎯 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" O2B ACADAMY </a> </p>
 🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" DIO DESAFIO FUNDAMENTOS LINUX </a> </p>
 🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" DIO DESAFIO DEVOPS GOOGLE CLOUD </a>  </p>
