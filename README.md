@@ -71,15 +71,13 @@ ________________________________________________________________________________
 - Security: Network ACL , Security Groups, Aplication firewall.
 
 ______________________________________________________________________________________________________
-<h3>⭐PROJETOS </h3>  </p>
-
 
 <h3>⭐ PROJETOS e LABS </h3>  </p>
      🎯 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> O2B ACADAMY </a>  </p>
      🎯 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> DESAFIO LINUX NA PRATICA DIO </a>  </p>
      🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> DESAFIO DIO DEVOPS GOOGLE CLOUD </a>  </p>
      🎯 <a href=https://github.com/BrunoSantos88/Desenvolve-Security.git/> TRILHA DESENVOLVE CYBERSECUIRTY </a>  </p>
-        </li>
+</li>
  ______________________________________________________________________________________________________
 
  
