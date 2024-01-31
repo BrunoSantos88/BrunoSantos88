@@ -7,6 +7,12 @@
 ✅ Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS. </P>
 ✅ Devops,habilidade de criar steps, pepelines  com as linguagens Maven,Python,Nodejs e Mysql, usando servicços CI com Jenkins, GitAtion ou serviços de cloud AWS ou Google cloud. Gerencimento Deploy com ArgoCd. </P>
 
+✅ Atualmente, estou imerso em uma jornada emocionante de aprendizado e crescimento no campo da tecnologia. Estou cursando faculdade de análise e desenvolvimento de sistemas (ADS). </P>
+
+✅ Estou participando na 7ª Maratona Cisco CyberOps, um curso desafiador que me permite aplicar meus conhecimentos em redes e segurança cibernética em cenários do mundo real. </P>
+
+✅ Estou envolvido no Programa Desenvolve do Grupo Boticário, onde estou focado em aprimorar minhas habilidades na trilha de cibersegurança, disponibilizado pela (Alura). </P>
+
 ______________________________________________________________________________________________________
 
   <h3>⭐ Certificações </h3>  </p>
