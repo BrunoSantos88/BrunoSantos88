@@ -73,10 +73,10 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 Meus Projetos 
 
-🎯 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" </p>
-🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" </p>
-🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" </p>
-🎯 Desenvolve Trilha CyberSecurity "https://github.com/BrunoSantos88/Desenvolve-Security.git"</p>
+🎯 Desafio O2B "https://github.com/BrunoSantos88/desafio_o11y_bruno.git" O2B ACADAMY </a> </p>
+🎯 Desafio Linux Dio "https://github.com/BrunoSantos88/bootcamp-linux-dio" DIO DESAFIO FUNDAMENTOS LINUX </a> </p>
+🎯 Desafio Dio GoogleCloud Experience "https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience" DIO DESAFIO DEVOPS GOOGLE CLOUD </a>  </p>
+🎯 Desenvolve Trilha CyberSecurity "https://github.com/BrunoSantos88/Desenvolve-Security.git" TRILHA DESENVOLVE CYBERSECURITY </a>  </p>
  ______________________________________________________________________________________________________
 
  
