@@ -6,30 +6,26 @@
 # Bem-vindo (a), é um prazer recebê-lo (a) aqui. 
 
 ✅ Experiência como Analista em NOC, em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows.
-
 ✅ Cloud Computing, tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, Identity and Access Management, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência. </P>
 ✅ Monitoramento e Observabilidade, utilizo ferramentas como Prometheus, Grafana, Datadog e Elasticsearch para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes. </P>
 ✅ Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP, VPN L2TP, EOIP, IPIP e PPTP. Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS. </P>
 ✅ Devops,habilidade de criar steps, pepelines  com as linguagens Maven,Python,Nodejs e Mysql, usando servicços CI com Jenkins, GitAtion ou serviços de cloud AWS ou Google cloud. Gerencimento Deploy com ArgoCd. </P>
-
-✅ Atualmente, estou imerso em uma jornada emocionante de aprendizado e crescimento no campo da tecnologia. Estou cursando faculdade de análise e desenvolvimento de sistemas (ADS). </P>
-
-✅ Estou participando na 7ª Maratona Cisco CyberOps, um curso desafiador que me permite aplicar meus conhecimentos em redes e segurança cibernética em cenários do mundo real. </P>
-
-✅ Estou envolvido no Programa Desenvolve do Grupo Boticário, onde estou focado em aprimorar minhas habilidades na trilha de cibersegurança, disponibilizado pela (Alura). </P>
+📕 Atualmente, estou imerso em uma jornada emocionante de aprendizado e crescimento no campo da tecnologia. Estou cursando faculdade de análise e desenvolvimento de sistemas (ADS). </P>
+📕 Estou participando na 7ª Maratona Cisco CyberOps, um curso desafiador que me permite aplicar meus conhecimentos em redes e segurança cibernética em cenários do mundo real. </P>
+📕 Estou envolvido no Programa Desenvolve do Grupo Boticário, onde estou focado em aprimorar minhas habilidades na trilha de cibersegurança, disponibilizado pela (Alura). </P>
 
 ______________________________________________________________________________________________________
 
   <h3>⭐ Certificações </h3>  </p>
-     ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> My Certification Credly: </a>  </p>
-     ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> My Certification Acredible </a>  </p>
-     ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> My Certification Microsoft </a>  </p>
-     ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> My Certification Google Cloud </a>  </p>
+     ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> Minhas Certificações: </a>  </p>
+     ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> Minha Certificação AWS EXPERT (LinuxTips) </a>  </p>
+     ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> Minha TypScript Microsoft </a>  </p>
+     ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> Cursos, Laboratorio e Desafio Google Cloud </a>  </p>
         </li>
         <h3> ⭐ Cursos previsão de termino  </h3>
-   📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> ANALISE E DESENVOLVIMENTO SISTEMA </a> 🗓️ 2026 </p>
-   📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/>  MARARONA CYBEROPS CISCO </a>  🗓️ 2024 </p>
-   📕 <a href=https://https://desenvolve.grupoboticario.com.br//> Desenvolve(boticario)/trilha Security </a> 🗓️ 2024 </p>
+   📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> CURSANDO ANALISE E DESENVOLVIMENTO SISTEMA </a> 🗓️ 2026/03 </p>
+   📕 <a href=https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/maratonacibereducacao.html/> CURSANDO MARARONA CYBEROPS CISCO </a> 🗓️ 2024/03 </p>
+   📕 <a href=https://https://desenvolve.grupoboticario.com.br//> CURSANDO DESENVOLVE(boticario)/Trilha Security </a> 🗓️ 2024/08 </p>
       </p>
         </li>
       </ul>
