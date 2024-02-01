@@ -17,10 +17,10 @@
 ______________________________________________________________________________________________________
 
   <h3>⭐ Certificações </h3>  </p>
-     ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> Minhas Certificações: </a>  </p>
-     ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> Minha Certificação AWS EXPERT (LinuxTips) </a>  </p>
-     ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> Minha TypScript Microsoft </a>  </p>
-     ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> Cursos, Laboratorio e Desafio Google Cloud </a>  </p>
+     ✅ <a href=https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges/> MINHAS CERTIFICAÇÔES PELA PERSONVUE (AWS,MICROSOFT AZURE e CISCO) </a>  </p>
+     ✅ <a href=https://www.credential.net/a6e0663a-9b8a-45b1-9e84-1a435c205576#gs.fmydqq/> MINHA CERTIFICAÇÂO CURSO AWS EXPERT (LINUXTIPS) </a>  </p>
+     ✅ <a href=https://learn.microsoft.com/en-us/users/brunosantos88/transcript/d955xa0l55kpgq5/> MINHA TYPSCRIPT MICROSOFT AZURE CLOUD PROVIDER </a>  </p>
+     ✅ <a href=https://partner.cloudskillsboost.google/public_profiles/84490dee-9957-4b0d-b139-04334b55c1c9/> CERTIFICADOS, LABORATORIOS PRATICOS E DESAFIO GOOGLE CLOUD. </a>  </p>
         </li>
         <h3> ⭐ Cursos previsão de termino  </h3>
    📕 <a href=https://www.faculdadevincit.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/> CURSANDO ANALISE E DESENVOLVIMENTO SISTEMA </a> 🗓️ 2026/03 </p>
