@@ -5,7 +5,7 @@
 
 # Bem-vindo (a), é um prazer recebê-lo.
 
-✅ Experiência; Analista em NOC, em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows. </P>
+✅ Experiência; Analista Informatica (NOC), em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows. </P>
 ✅ Cloud Computing; Tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, IAM, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência. </P>
 ✅ Monitoramento: Tenho experiência em monitorar ambientes críticos utilizando protocolos TCP e UDP. Além disso, realizo a supervisão da saúde do sistema operacional por meio de agentes de logs e métricas. </P>
 ✅ Observabilidade; Conhecimento com as ferramentas Prometheus, Grafana e AlertManager para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes. </P>
