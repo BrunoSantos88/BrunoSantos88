@@ -44,11 +44,11 @@ ________________________________________________________________________________
 
 💻 Technologies & Tools 
 
-- Liguagens:
-- Python,ShellScript,SQL,NodeJs,Maven
+- Liguagens: Python,ShellScript,SQL,NodeJs,Maven
 - Versionamento Git 
 - Operacional: Linux and Windows
-- Container: Docker e Kubernetes
+- Container: Docker, dockerfile , compose e swarm
+- Kubernetes; arquivos yaml, rollback, blue and green e deploy.
 - Infraestrura como codigo (IAC): Terraform e Ansible
 - CI: Jenkins e GitAction e outros serviços em PAAS.
 - CD: Gerencimento deploy com ArgoCD
