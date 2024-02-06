@@ -48,7 +48,7 @@ ________________________________________________________________________________
 - Liguagens: Python,ShellScript,SQL,NodeJs,Maven
 - Versionamento Git 
 - Operacional: Linux and Windows
-- Container: Docker, dockerfile , compose e swarm
+- Container: docker, dockerfile ,docker-compose e docker-swarm
 - Kubernetes; arquivos yaml, rollback, blue and green e deploy.
 - Infraestrura como codigo (IAC): Terraform e Ansible
 - CI: Jenkins e GitAction e outros serviços em PAAS.
