@@ -12,7 +12,7 @@
 ✅ Devops; habilidade de criar steps, pepelines com as linguagens Maven,Python,Nodejs e Mysql, usando servicços CI com Jenkins, GitAtion ou serviços de cloud AWS ou Google cloud. Gerencimento Deploy com ArgoCd. </P>
 📕 Atualmente, estou imerso em uma jornada emocionante de aprendizado e crescimento no campo da tecnologia. Estou cursando faculdade de análise e desenvolvimento de sistemas (ADS)🗓️ 2026/03 </P>
 📕 Estou participando na 7ª Maratona Cisco CyberOps, um curso desafiador que me permite aplicar meus conhecimentos em redes e segurança cibernética em cenários do mundo real. 🗓️ 2024/03 </P>
-📕 Estou envolvido no Programa Desenvolve Trilha SI, onde estou focado em aprimorar minhas habilidades na trilha de cibersegurança, disponibilizado pela (Alura) 🗓️ 2024/08 </P>
+📕 Estou envolvido no Programa Desenvolve Trilha Security(SI), onde estou focado em aprimorar minhas habilidades em cibersegurança. 🗓️ 2024/08 </P>
 
 ______________________________________________________________________________________________________
 
@@ -45,22 +45,15 @@ ________________________________________________________________________________
 💻 Technologies & Tools 
 
 - Liguagens:
-- Python,
-- ShellScript,
-- SQL
-- NodeJs
-- Maven
+- (python,ShellScript,SQL,NodeJs,Maven)
 - Versionamento Git 
 - Operacional: (Linux e Windows)
 - Container: (Docker e Kubernetes)
-- Infraestrura como codigo (IAC):
-- OpenStack Rancher
-- Ansible para SSM.
+- Infraestrura como codigo (IAC): (Terraform e Ansible)
 - CI: Jenkins e GitAction e outros serviços em PAAS.
-- CD: Deployment com ArgoCD
+- CD: Gerencimento deploy com ArgoCD
 - Monitoramento Redes: Zabbix e Nagios.
 - Observability: Prometheus,Grafana,Alertmanager, Elastik Search , Kibana , Logstash.
-- Security: Network ACL , Security Groups, Aplication firewall.
 
 ______________________________________________________________________________________________________
 
