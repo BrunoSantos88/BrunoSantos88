@@ -45,11 +45,11 @@ ________________________________________________________________________________
 💻 Technologies & Tools 
 
 - Liguagens:
-- (python,ShellScript,SQL,NodeJs,Maven)
+- Python,ShellScript,SQL,NodeJs,Maven
 - Versionamento Git 
-- Operacional: (Linux e Windows)
-- Container: (Docker e Kubernetes)
-- Infraestrura como codigo (IAC): (Terraform e Ansible)
+- Operacional: Linux and Windows
+- Container: Docker e Kubernetes
+- Infraestrura como codigo (IAC): Terraform e Ansible
 - CI: Jenkins e GitAction e outros serviços em PAAS.
 - CD: Gerencimento deploy com ArgoCD
 - Monitoramento Redes: Zabbix e Nagios.
