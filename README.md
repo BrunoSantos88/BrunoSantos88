@@ -5,9 +5,7 @@
 
 # Bem-vindo (a), é um prazer recebê-lo.
 
-📘  Experiência; Analista Informatica (NOC), em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows. </P>
-
-🔧  Experiencia e Vivibencia com Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP e VPN . Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS. </P>
+🔧  Experiência; Analista Informatica (NOC), em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows. </P>
 
 🌐  Cloud Computing; Tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, IAM, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência. </P>
 
@@ -17,9 +15,9 @@
 
 ⚙️  DevOps: Possuo habilidade em criar eteps em pipelines utilizando as linguagens Maven, Python e Node.js. Além disso, tenho experiência na automação por meio de scripts em Python, integrando com a linguagem MySQL. Minhas competências abrangem a configuração de serviços de Integração Contínua (CI) utilizando ferramentas como Jenkins e GitLab, assim como serviços em nuvem, incluindo AWS e Google Cloud. Também tenho conhecimento no gerenciamento de deploys através do ArgoCD. Essas habilidades combinadas garantem eficiência e confiabilidade no ciclo de vida de desenvolvimento e operações. </P>
 
-📕 Atualmente, estou imerso em uma jornada emocionante de aprendizado e crescimento no campo da tecnologia. Estou cursando faculdade de análise e desenvolvimento de sistemas (ADS)🗓️ 2026/03 </P>
-📕 Estou participando na 7ª Maratona Cisco CyberOps, um curso desafiador que me permite aplicar meus conhecimentos em redes e segurança cibernética em cenários do mundo real. 🗓️ 2024/03 </P>
-📕 Estou envolvido no Programa Desenvolve Trilha Security(SI), onde estou focado em aprimorar minhas habilidades em cibersegurança. 🗓️ 2024/08 </P>
+📕  Atualmente, estou imerso em uma jornada emocionante de aprendizado e crescimento no campo da tecnologia. Estou cursando faculdade de análise e desenvolvimento de sistemas (ADS)🗓️ 2026/03 </P>
+📕  Estou participando na 7ª Maratona Cisco CyberOps, um curso desafiador que me permite aplicar meus conhecimentos em redes e segurança cibernética em cenários do mundo real. 🗓️ 2024/03 </P>
+📕  Estou envolvido no Programa Desenvolve Trilha Security(SI), onde estou focado em aprimorar minhas habilidades em cibersegurança. 🗓️ 2024/08 </P>
 
 ______________________________________________________________________________________________________
 
