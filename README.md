@@ -9,7 +9,7 @@
 
 🌐  Cloud Computing; Tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, IAM, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência. </P>
 
-💻  Monitoramento: Tenho experiência em monitorar ambientes críticos utilizando protocolos TCP e UDP. Além disso, realizo a supervisão da saúde do sistema operacional por meio de agentes de logs e métricas. </P
+🚨  Monitoramento: Tenho experiência em monitorar ambientes críticos utilizando protocolos TCP e UDP. Além disso, realizo a supervisão da saúde do sistema operacional por meio de agentes de logs e métricas. </P
                                                                                                                                                                                                                
 🔍  Observabilidade; Conhecimento com as ferramentas Prometheus, Grafana e AlertManager para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes. </P>
 
