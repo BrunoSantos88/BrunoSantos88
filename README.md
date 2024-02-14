@@ -5,17 +5,17 @@
 
 # Bem-vindo (a), é um prazer recebê-lo.
 
-📘Experiência; Analista Informatica (NOC), em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows. </P>
+📘 - Experiência; Analista Informatica (NOC), em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows. </P>
 
-🔧Experiencia e Vivibencia com Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP e VPN . Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS. </P>
+🔧 - Experiencia e Vivibencia com Redes,habilidade em ambientes de telecom com TCP/IP IPv4, Roteamento estático, VoIP, Protocolos SIP e VPN . Além disso, possuo experiência em Protocolos de Redes, Segmentação, Escalonamento e DNS. </P>
 
-🌐Cloud Computing; Tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, IAM, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência. </P>
+🌐 - Cloud Computing; Tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, IAM, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência. </P>
 
-💻Monitoramento: Tenho experiência em monitorar ambientes críticos utilizando protocolos TCP e UDP. Além disso, realizo a supervisão da saúde do sistema operacional por meio de agentes de logs e métricas. </P
+💻 - Monitoramento: Tenho experiência em monitorar ambientes críticos utilizando protocolos TCP e UDP. Além disso, realizo a supervisão da saúde do sistema operacional por meio de agentes de logs e métricas. </P
                                                                                                                                                                                                                
-🔍Observabilidade; Conhecimento com as ferramentas Prometheus, Grafana e AlertManager para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes. </P>
+🔍 - Observabilidade; Conhecimento com as ferramentas Prometheus, Grafana e AlertManager para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes. </P>
 
-⚙️ DevOps: Possuo habilidade em criar eteps em pipelines utilizando as linguagens Maven, Python e Node.js. Além disso, tenho experiência na automação por meio de scripts em Python, integrando com a linguagem MySQL. Minhas competências abrangem a configuração de serviços de Integração Contínua (CI) utilizando ferramentas como Jenkins e GitLab, assim como serviços em nuvem, incluindo AWS e Google Cloud. Também tenho conhecimento no gerenciamento de deploys através do ArgoCD. Essas habilidades combinadas garantem eficiência e confiabilidade no ciclo de vida de desenvolvimento e operações. </P>
+⚙️ - DevOps: Possuo habilidade em criar eteps em pipelines utilizando as linguagens Maven, Python e Node.js. Além disso, tenho experiência na automação por meio de scripts em Python, integrando com a linguagem MySQL. Minhas competências abrangem a configuração de serviços de Integração Contínua (CI) utilizando ferramentas como Jenkins e GitLab, assim como serviços em nuvem, incluindo AWS e Google Cloud. Também tenho conhecimento no gerenciamento de deploys através do ArgoCD. Essas habilidades combinadas garantem eficiência e confiabilidade no ciclo de vida de desenvolvimento e operações. </P>
 
 📕 Atualmente, estou imerso em uma jornada emocionante de aprendizado e crescimento no campo da tecnologia. Estou cursando faculdade de análise e desenvolvimento de sistemas (ADS)🗓️ 2026/03 </P>
 📕 Estou participando na 7ª Maratona Cisco CyberOps, um curso desafiador que me permite aplicar meus conhecimentos em redes e segurança cibernética em cenários do mundo real. 🗓️ 2024/03 </P>
