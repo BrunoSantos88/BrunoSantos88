@@ -43,8 +43,6 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png" />
-<img align="center" alt="Rafa-Js" height="60" width="55" src="https://user-images.githubusercontent.com/91704169/211872753-090358ca-a34f-4eac-8d0a-149699d4a41e.png" />
-<img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/211873981-07625883-ca60-4d6d-9a1b-4c9a4d97059c.png"/>
 </p>
 
 💻 Technologies & Tools 
