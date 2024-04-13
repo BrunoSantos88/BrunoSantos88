@@ -3,7 +3,9 @@
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 
 
-#  È um prazer recebê-lo.
+#  Olá!
+
+Seja bem vindo ao meu perfil aqui no Github
 
 🔧  Experiência; Analista Informatica (NOC), em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows. 
 
