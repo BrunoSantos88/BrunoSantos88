@@ -18,9 +18,9 @@ Systema Operacional: Linux e Windows
 Shellscript e PowerShell
 
 # Microsoft
-Active directory
-Microsoft 365
-Conhecimentos: IAM e Rback
+Active directory </p> 
+Microsoft 365 </p>
+Conhecimentos: IAM e Rback </p>
 
 # Conhecimentos em DevOps.
 Container: Docker e Kubernetes </p>
