@@ -6,25 +6,31 @@
 #  Olá! Seja bem vindo!
 
 # Conhecimentos:
-- Cloud Computing: AWS, Azure e Google Cloud. </p> 
-- Monitoramento: Zabbix e Nagios.
-- Observabilidade: Elastic, Datadog e Prometheus,Grafana e AlertManager. </p>
-- Linguagem : javascript,python,nodejs e mavem. </p>
-- Banco de dados: Linguagem SQL </p>
-- Versionamento: Git
-- Repositorio: GitHub e GitLab.
-- Systema Operacional: Linux e Windows
-- Shellscript e PowerShell
+Redes Conputadores: Protocolos IPV4, Configuração Lan , Wan e VPN. 
+Cloud Computing: AWS, Azure e Google Cloud. </p> 
+Monitoramento: Zabbix e Nagios.
+Observabilidade: Elastic, Datadog e Prometheus,Grafana e AlertManager. </p>
+Linguagem : javascript,python,nodejs e mavem. </p>
+Banco de dados: Linguagem SQL </p>
+Versionamento: Git
+Repositorio: GitHub e GitLab.
+Systema Operacional: Linux e Windows
+Shellscript e PowerShell
+
+# Microsoft
+Active directory
+Microsoft 365
+Conhecimentos: IAM e Rback
 
 # Conhecimentos em DevOps.
-- Container: Docker e Kubernetes </p>
-- Automação: Terraform, Ansible e Vagrant. </p>
-- Continuous Integration: GitActions e Jenkins. </p>
-- Continuous Delivery: Argocd </p>
+Container: Docker e Kubernetes </p>
+Automação: Terraform, Ansible e Vagrant. </p>
+Continuous Integration: GitActions e Jenkins. </p>
+Continuous Delivery: Argocd </p>
 
 # Cursando bootcamps, mentorias e graduação. 
-- Programa Desenvolve trilha (Cyber Security) </p>
-- Cursando ADS Analise e Desenvolvimento Sistema.  </p>
+Programa Desenvolve trilha (Cyber Security) </p>
+Cursando ADS Analise e Desenvolvimento Sistema.  </p>
 
 ______________________________________________________________________________________________________
 
