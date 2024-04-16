@@ -24,7 +24,7 @@ Automação: Terraform, Ansible e Vagrant. </p>
 Continuous Integration: GitActions e Jenkins. </p>
 Continuous Delivery: Argocd </p>
 
-# Cursando bootcamps, mentorias e graduação. 
+# Atuamento estou cursando.
 Programa Desenvolve trilha (Cyber Security) </p>
 Cursando ADS Analise e Desenvolvimento Sistema.  </p>
 
