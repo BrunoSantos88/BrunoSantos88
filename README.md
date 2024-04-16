@@ -5,19 +5,19 @@
 
 #  Olá! Seja bem vindo!
 
-🔧  Experiência; Analista Informatica (NOC), em um ambiente de telecomunicações. Durante esse período, adquiri um amplo conhecimento em redes, monitoramento, trabalho em equipe e sistemas operacionais, incluindo Linux e Windows. 
 
-🌐  Cloud Computing; Tenho expertise nas plataformas AWS, Azure e GCP. Minhas habilidades abrangem serviços de Computação, Firewall, Arquitetura de Rede, IAM, Políticas de Privilégio, e Arquitetura de Ambiente com Escalabilidade e Resiliência. 
+- Experiências
+Analista Informatica (NOC), em um ambiente de telecomunicações. 
 
-🚨  Monitoramento: Tenho experiência em monitorar ambientes críticos utilizando protocolos TCP e UDP. Além disso, realizo a supervisão da saúde do sistema operacional por meio de agentes de logs e métricas. 
-                                                                                                                                                                                                               
-🔍  Observabilidade; Conhecimento com as ferramentas Prometheus, Grafana e AlertManager para monitorar e analisar o desempenho de sistemas e aplicativos, garantindo operações confiáveis e eficientes. 
+- Conhecimentos
+Cloud Computing
+Monitoramento
+Observabilidade
+Container
+Linguagem : javascript,python,nodejs e mavem.
+banco de dados: SQL e Postgress
 
-⚙️  DevOps: Possuo habilidade em criar steps em pipelines utilizando as linguagens Maven, Python e Node.js. Além disso, tenho experiência na automação por meio de scripts em Python, integrando com a linguagem MySQL. Minhas competências abrangem a configuração de serviços de Integração Contínua (CI) utilizando ferramentas como Jenkins e GitLab, assim como serviços em nuvem, incluindo AWS e Google Cloud. Também tenho conhecimento no gerenciamento de deploys através do ArgoCD. Essas habilidades combinadas garantem eficiência e confiabilidade no ciclo de vida de desenvolvimento e operações. 
 
-📕  Atualmente, estou imerso em uma jornada emocionante de aprendizado e crescimento no campo da tecnologia. Estou cursando faculdade de análise e desenvolvimento de sistemas (ADS)🗓️ 2026/03 
-
-📕  Estou envolvido no Programa Desenvolve Trilha Security(SI), onde estou focado em aprimorar minhas habilidades em cibersegurança. 🗓️ 2024/08
 
 ______________________________________________________________________________________________________
 
