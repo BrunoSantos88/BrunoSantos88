@@ -10,16 +10,18 @@
 - Monitoramento: Zabbix e Nagios.
 - Observabilidade: Elastic, datadog e Prometheus,grafana e alartmanager. </p>
 - Linguagem : javascript,python,nodejs e mavem. </p>
-- banco de dados: SQL e Postgress </p>
-- Versionamento: Git 
+- Banco de dados: SQL e Postgress </p>
+- Versionamento: Git
+- Linux e Windows
+- Shellscript e PowerShell
 
-- DevOps; </p>
+# DevOps
 - Container: Docker e Kubernetes </p>
-- IAC: Terraform, Ansible e Vagrant. </p>
+- Automação: Terraform, Ansible e Vagrant. </p>
 - CI: gitaction e jenkins. </p>
 - CD: Argocd </p>
 
-# Cursando cursos,bootcamps e mentorias. 
+# Cursando bootcamps, mentorias e Graduação. 
 - Programa Desenvolve trilha (Cyber Security) </p>
 - Participando Programa Hacker Do Bem </p>
 - Cursando ADS (ANALISE E DESENVOLVIMENTO SISTEMA)
