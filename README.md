@@ -3,7 +3,7 @@
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 
 
-#  Olá! Seja bem vindo! Sou Bruno Santos.
+#  Olá! Sou Bruno Santos.
 
 ⭐Conceito e Conhcimentos.
 Redes: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN.  </p> 
