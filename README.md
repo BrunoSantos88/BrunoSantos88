@@ -5,10 +5,6 @@
 
 #  Olá! Seja bem vindo!
 
-
-# Experiências: </p>
-Analista Informatica (NOC), em um ambiente de telecomunicações. </p>
-
 # Conhecimentos:
 - Cloud Computing: AWS, Azure e Google Cloud. </p> 
 - Monitoramento: Zabbix e Nagios.
@@ -21,6 +17,11 @@ Analista Informatica (NOC), em um ambiente de telecomunicações. </p>
 - IAC: Terraform, Ansible e Vagrant. </p>
 - CI: gitaction e jenkins. </p>
 - CD: Argocd </p>
+
+# Estou estudando Cyber Security 
+- Programa Desenvolve trilha (Cyber Security) </p>
+- Participando Programa Hacker Do Bem </p>
+- Cursando ADS (ANALISE E DESENVOLVIMENTO SISTEMA)
 
 ______________________________________________________________________________________________________
 
