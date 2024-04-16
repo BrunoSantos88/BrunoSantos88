@@ -24,8 +24,7 @@
 
 # Cursando bootcamps, mentorias e graduação. 
 - Programa Desenvolve trilha (Cyber Security) </p>
-- Participando Programa Hacker Do Bem </p>
-- Cursando ADS (ANALISE E DESENVOLVIMENTO SISTEMA)
+- Cursando ADS Analise e Desenvolvimento Sistema.  </p>
 
 ______________________________________________________________________________________________________
 
