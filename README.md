@@ -7,7 +7,7 @@
 
 # Conceito e Conhcimentos.
 
-Redes: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN. 
+Redes: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN.  </p> 
 Cloud Computing: AWS, Azure e Google Cloud. </p> 
 Monitoramento: Zabbix e Nagios.
 Observabilidade: Elastic, Datadog e Prometheus,Grafana e AlertManager. </p>
