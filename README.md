@@ -14,6 +14,10 @@
 </p>
 
 
+<img align="center" alt="Rafa-Js" height="60" width="55" src="https://br.pinterest.com/pin/777504323162275413" />
+
+
+
 ⭐Conceito e Conhcimentos. </p>
 Redes: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN.  </p> 
 Cloud Computing: AWS, Azure e Google Cloud. </p> 
