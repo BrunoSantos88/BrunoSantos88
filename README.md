@@ -5,7 +5,8 @@
 
 #  Olá! Seja bem vindo!
 
-# Conhecimento;
+# Conceito e Conhcimentos.
+
 Redes: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN. 
 Cloud Computing: AWS, Azure e Google Cloud. </p> 
 Monitoramento: Zabbix e Nagios.
