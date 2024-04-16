@@ -8,11 +8,12 @@
 # Conhecimentos:
 - Cloud Computing: AWS, Azure e Google Cloud. </p> 
 - Monitoramento: Zabbix e Nagios.
-- Observabilidade: Elastic, datadog e Prometheus,grafana e alartmanager. </p>
+- Observabilidade: Elastic, Datadog e Prometheus,Grafana e AlertManager. </p>
 - Linguagem : javascript,python,nodejs e mavem. </p>
-- Banco de dados: SQL e Postgress </p>
+- Banco de dados: Linguagem SQL </p>
 - Versionamento: Git
-- Linux e Windows
+- Repositorio: GitHub e GitLab.
+- Systema Operacional: Linux e Windows
 - Shellscript e PowerShell
 
 # Conhecimentos em DevOps.
