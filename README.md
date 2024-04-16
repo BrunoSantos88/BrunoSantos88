@@ -12,10 +12,10 @@ Monitoramento: Zabbix e Nagios.
 Observabilidade: Elastic, Datadog e Prometheus,Grafana e AlertManager. </p>
 Linguagem : javascript,python,nodejs e mavem. </p>
 Banco de dados: Linguagem SQL </p>
-Versionamento: Git
-Repositorio: GitHub e GitLab.
-Systema Operacional: Linux e Windows
-Shellscript e PowerShell
+Versionamento: Git </p> 
+Repositorio: GitHub e GitLab.</p>
+Systema Operacional: Linux e Windows </p>
+Shellscript e PowerShell </p>
 
 # Conhecimentos em DevOps.
 Container: Docker e Kubernetes </p>
