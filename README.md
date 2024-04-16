@@ -53,19 +53,6 @@ ________________________________________________________________________________
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png" />
 </p>
 
-💻 Technologies & Tools 
-
-- Liguagens: Python,ShellScript,SQL,NodeJs,Maven
-- Versionamento Git 
-- Operacional: Linux and Windows
-- Container: docker, dockerfile ,docker-compose e docker-swarm
-- Kubernetes; arquivos yaml, rollback, blue and green e deploy.
-- Infraestrura como codigo (IAC): Terraform e Ansible
-- CI: Jenkins e GitAction e outros serviços em PAAS.
-- CD: Gerencimento deploy com ArgoCD
-- Monitoramento Redes: Zabbix e Nagios.
-- Observability: Prometheus,Grafana,Alertmanager, Elastik Search , Kibana , Logstash.
-
 ______________________________________________________________________________________________________
 
 <h3>⭐ PROJETOS, LABS E PRATICANDO.</h3>  </p>
