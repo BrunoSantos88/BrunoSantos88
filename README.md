@@ -17,18 +17,6 @@ Repositorio: GitHub e GitLab.
 Systema Operacional: Linux e Windows
 Shellscript e PowerShell
 
-# Microsoft azure 
-Active directory </p> 
-Microsoft 365 </p>
-Conhecimentos: IAM, user,Rback e Licença. </p>
-
-# Cloud Aws
-Conceitos: Redes, Compute , escalonamento, armazenamento. </p>
-Conceitos de Cloud e Finops </p> 
-Serviços PAAS: Banco de Dados e DevOps </p>
-Conhecimentos: IAM: User; Grupos e Permições </p>
-Organização Billing: AWS organization billing accont </p>
-
 # Conhecimentos em DevOps.
 Container: Docker e Kubernetes </p>
 Automação: Terraform, Ansible e Vagrant. </p>
