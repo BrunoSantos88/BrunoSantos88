@@ -6,20 +6,21 @@
 #  Olá! Seja bem vindo!
 
 
-- Experiências </p>
-Analista Informatica (NOC), em um ambiente de telecomunicações. 
+# Experiências: </p>
+Analista Informatica (NOC), em um ambiente de telecomunicações. </p>
 
-Cloud Computing: AWS, Azure e Google Cloud. </p> 
-Monitoramento: Zabbix e Nagios.
-Observabilidade: Elastic, datadog e Prometheus,grafana e alartmanager. </p>
-Linguagem : javascript,python,nodejs e mavem. </p>
-banco de dados: SQL e Postgress </p>
+# Conhecimentos:
+- Cloud Computing: AWS, Azure e Google Cloud. </p> 
+- Monitoramento: Zabbix e Nagios.
+- Observabilidade: Elastic, datadog e Prometheus,grafana e alartmanager. </p>
+- Linguagem : javascript,python,nodejs e mavem. </p>
+- banco de dados: SQL e Postgress </p>
 
-DevOps; </p>
-Container: Docker e Kubernetes </p>
-IAC: Terraform, Ansible e Vagrant. </p>
-CI: gitaction e jenkins. </p>
-CD: Argocd </p>
+- DevOps; </p>
+- Container: Docker e Kubernetes </p>
+- IAC: Terraform, Ansible e Vagrant. </p>
+- CI: gitaction e jenkins. </p>
+- CD: Argocd </p>
 
 ______________________________________________________________________________________________________
 
