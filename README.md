@@ -16,10 +16,10 @@ Linguagem : javascript,python,nodejs e mavem. </p>
 banco de dados: SQL e Postgress </p>
 
 DevOps; </p>
-Container: Docker e Kubernetes
-IAC: Terraform, Ansible e Vagrant.
-CI: gitaction e jenkins.
-CD: Argocd 
+Container: Docker e Kubernetes </p>
+IAC: Terraform, Ansible e Vagrant. </p>
+CI: gitaction e jenkins. </p>
+CD: Argocd </p>
 
 ______________________________________________________________________________________________________
 
