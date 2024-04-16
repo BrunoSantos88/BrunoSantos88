@@ -5,8 +5,8 @@
 
 #  Olá! Seja bem vindo!
 
-# Conhecimentos:
-Redes Conputadores: Protocolos IPV4, Configuração Lan , Wan e VPN. 
+# Possuou Conhecimento com;
+Redes: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN. 
 Cloud Computing: AWS, Azure e Google Cloud. </p> 
 Monitoramento: Zabbix e Nagios.
 Observabilidade: Elastic, Datadog e Prometheus,Grafana e AlertManager. </p>
