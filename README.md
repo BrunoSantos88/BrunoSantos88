@@ -5,7 +5,7 @@
 
 #  Olá! Seja bem vindo!
 
-# Conhecimentos:
+# Conhecimentos e Estudos:
 - Cloud Computing: AWS, Azure e Google Cloud. </p> 
 - Monitoramento: Zabbix e Nagios.
 - Observabilidade: Elastic, datadog e Prometheus,grafana e alartmanager. </p>
@@ -18,7 +18,7 @@
 - CI: gitaction e jenkins. </p>
 - CD: Argocd </p>
 
-# Estou estudando Cyber Security 
+# Estundo e Participando.
 - Programa Desenvolve trilha (Cyber Security) </p>
 - Participando Programa Hacker Do Bem </p>
 - Cursando ADS (ANALISE E DESENVOLVIMENTO SISTEMA)
