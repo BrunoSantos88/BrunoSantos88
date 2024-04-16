@@ -9,16 +9,15 @@
 - Experiências </p>
 Analista Informatica (NOC), em um ambiente de telecomunicações. 
 
-- Conhecimentos Ferramentas; </p>
-Cloud Computing </p>
-Monitoramento </p> 
-Observabilidade </p>
+Cloud Computing: AWS, Azure e Google Cloud. </p> 
+Monitoramento: Zabbix e Nagios.
+Observabilidade: Elastic, datadog e Prometheus,grafana e alartmanager. </p>
 Linguagem : javascript,python,nodejs e mavem. </p>
 banco de dados: SQL e Postgress </p>
 
-Conhecimentos DevOps; </p>
+DevOps; </p>
 Container: Docker e Kubernetes
-IAC: Terraform 
+IAC: Terraform, Ansible e Vagrant.
 CI: gitaction e jenkins.
 CD: Argocd 
 
