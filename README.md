@@ -5,7 +5,7 @@
 
 #  Olá! Seja bem vindo!
 
-# Conceito e Conhcimentos.
+💻 # Conceito e Conhcimentos.
 
 Redes: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN.  </p> 
 Cloud Computing: AWS, Azure e Google Cloud. </p> 
@@ -18,13 +18,13 @@ Repositorio: GitHub e GitLab.</p>
 Systema Operacional: Linux e Windows </p>
 Shellscript e PowerShell </p>
 
-# Conhecimentos em DevOps.
+💻 # Conhecimentos em DevOps.
 Container: Docker e Kubernetes </p>
 Automação: Terraform, Ansible e Vagrant. </p>
 Continuous Integration: GitActions e Jenkins. </p>
 Continuous Delivery: Argocd </p>
 
-# Atuamente estou Cursando.
+💻 # Atuamente estou Cursando.
 Programa Desenvolve trilha (Cyber Security) </p>
 Cursando ADS Analise e Desenvolvimento Sistema.  </p>
 
