@@ -6,18 +6,21 @@
 #  Olá! Seja bem vindo!
 
 
-- Experiências
+- Experiências </p>
 Analista Informatica (NOC), em um ambiente de telecomunicações. 
 
-- Conhecimentos
-Cloud Computing
-Monitoramento
-Observabilidade
-Container
-Linguagem : javascript,python,nodejs e mavem.
-banco de dados: SQL e Postgress
+- Conhecimentos Ferramentas; </p>
+Cloud Computing </p>
+Monitoramento </p> 
+Observabilidade </p>
+Linguagem : javascript,python,nodejs e mavem. </p>
+banco de dados: SQL e Postgress </p>
 
-
+Conhecimentos DevOps; </p>
+Container: Docker e Kubernetes
+IAC: Terraform 
+CI: gitaction e jenkins.
+CD: Argocd 
 
 ______________________________________________________________________________________________________
 
