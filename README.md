@@ -75,6 +75,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Graylog" src="https://img.shields.io/badge/Graylog-3E3E3E?style=flat&logo=graylog&logoColor=white"></a>
 <a href="https://www.elastic.co" alt="Elasticsearch" target="_blank">
     <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elastic&logoColor=white"></a>
+<a href="https://traefik.io/" alt="Traefik" target="_blank">
+    <img alt="Traefik" src="https://img.shields.io/badge/Traefik-FF6F00?style=flat&logo=traefik&logoColor=white"></a>
     
 </p>
 <b> Database: </b> </p>
