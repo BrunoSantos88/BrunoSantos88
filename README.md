@@ -47,6 +47,14 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="HTTP" src="https://img.shields.io/badge/HTTP-FF5722?style=flat&logo=http&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/HTTPS" alt="HTTPS" target="_blank">
     <img alt="HTTPS" src="https://img.shields.io/badge/HTTPS-00C853?style=flat&logo=https&logoColor=white"></a>
+    <a href="https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol" alt="SMTP" target="_blank">
+    <img alt="SMTP" src="https://img.shields.io/badge/SMTP-2196F3?style=flat&logo=mail.ru&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/Server_Message_Block" alt="SMB" target="_blank">
+    <img alt="SMB" src="https://img.shields.io/badge/SMB-4CAF50?style=flat&logo=smb&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol" alt="FTP" target="_blank">
+    <img alt="FTP" src="https://img.shields.io/badge/FTP-03A9F4?style=flat&logo=ftp&logoColor=white"></a>
+
+
 </p>
 <b> Cloud Computing </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
