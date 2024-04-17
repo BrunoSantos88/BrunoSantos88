@@ -21,45 +21,28 @@
     </sup>
 --->
 
-<h3>About me</h3>
+<h3>Sobre Min </h3>
 
 <ul>
-    <li><b>Working:</b> Co-Owner & Backend developer at <a href="https://www.actionlabs.com.br">Action Labs</a></li>
-    <li><b>Learning:</b> Deep Learning </li>
-    <li><b>Education:</b> B.S in Information Systems (2019)</li>
-    <li><b>Hobbies:</b> Reading | Play guitar | Watch TV Shows and Movies </li>
-    <li><b>Fun fact:</b> Obsessed with instrumental soundtracks</li>
+    <li><b>estudando:</b> CyberSecurity </a></li>
+    <li><b>Education:</b> Cursando ADS (Analise e Desenvolvimento Sistema) </li>
+    <li><b>Hobbies:</b> Games | Praia | Surf | skate | </li>
 </ul>
 
 </p>
 
 <p align="left">
-<h3>Technologies</h3>
+<h3>Tecnologias</h3>
 
 <b>Frameworks</b>
 <br>
-<a href="https://spring.io" alt="Spring">
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></a>
-<a href="https://hibernate.org" alt="Hibernate">
-    <img alt="Hibernate"
-        src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"></a>
-<a href="https://cordova.apache.org" alt="Apache Cordova">
-    <img alt="Apache Cordova"
-        src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat&logo=apache-cordova&logoColor=black"></a>
-<a href="https://www.langchain.com" alt="Langchain">
-    <img alt="🦜Langchain"
-        src="https://img.shields.io/badge/🦜 LangChain-000000?style=flat&logo=langchain&logoColor=white"></a>
 
 <b>Databases</b>
 <br>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
-<a href="https://www.mongodb.com" alt="MongoDB" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"></a>
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></a>
-<a href="https://neo4j.com" alt="Neo4j" target="_blank">
-    <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white"></a>
 <br>
 
 <b>Cloud & DevOps</b>
