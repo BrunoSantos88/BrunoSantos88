@@ -96,6 +96,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white"></a>
 <a href="https://argoproj.github.io/argo-cd/" alt="ArgoCD" target="_blank">
     <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argo-cd&logoColor=white"></a>
+<a href="https://aws.amazon.com/s3/" alt="Amazon S3" target="_blank">
+    <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white"></a>
     </p>
 
 <b> Observabilidade </b> </p>
