@@ -77,6 +77,10 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a> 
+<a href="https://docs.microsoft.com/en-us/powershell/" alt="PowerShell" target="_blank">
+    <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/Shell_script" alt="Shell Script" target="_blank">
+    <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
 </p>
 <br>
 ______________________________________________________________________________________________________
