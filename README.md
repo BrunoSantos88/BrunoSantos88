@@ -21,7 +21,7 @@ Meu nome é Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando C
 <h3>Tecnologias</h3>
 
 
-<b>Cloud Computing / Container / Database </b>
+<b> Cloud Computing / Automação /Container / Database </b>
 <br>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></a>
@@ -33,8 +33,6 @@ Meu nome é Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando C
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"></a>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
-<a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></a>
 <br>
 ______________________________________________________________________________________________________
 
