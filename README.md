@@ -64,6 +64,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <b> Database: </b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
+<a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a>
 
 <b> Linguagem Programação:</b> </p>
 <a href="https://nodejs.org" alt="Node.js" target="_blank">
