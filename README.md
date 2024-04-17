@@ -109,6 +109,11 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Amazon ECS" src="https://img.shields.io/badge/Amazon_ECS-232F3E?style=flat&logo=amazon-ecs&logoColor=white"></a>
 <a href="https://aws.amazon.com/ecr/" alt="Amazon ECR" target="_blank">
     <img alt="Amazon ECR" src="https://img.shields.io/badge/Amazon_ECR-232F3E?style=flat&logo=amazon-ecr&logoColor=white"></a>
+<a href="https://cloud.google.com/kubernetes-engine/" alt="GKE" target="_blank">
+    <img alt="GKE" src="https://img.shields.io/badge/GKE-4285F4?style=flat&logo=google-cloud&logoColor=white"></a>
+<a href="https://azure.microsoft.com/en-us/services/kubernetes-service/" alt="AKS" target="_blank">
+    <img alt="AKS" src="https://img.shields.io/badge/AKS-0078D4?style=flat&logo=microsoft-azure&logoColor=white"></a>
+
     </p>
 
 <b> Observabilidade </b> </p>
