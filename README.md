@@ -62,6 +62,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.graylog.org/" alt="Graylog" target="_blank">
     <img alt="Graylog" src="https://img.shields.io/badge/Graylog-3E3E3E?style=flat&logo=graylog&logoColor=white"></a>
 <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elastic&logoColor=white"></a>
+
+<b> Monitoramento: </b> </p>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
@@ -69,7 +71,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
 <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a> 
 <a href="https://www.zabbix.com/" alt="Zabbix" target="_blank">
-    <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"></a>
+<img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"></a>
+    
 </p>
 <b> Database: </b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
