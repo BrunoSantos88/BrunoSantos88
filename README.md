@@ -36,15 +36,6 @@ Meu nome é Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando C
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></a>
 <br>
-
-<b>Observability</b>
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=amycardoso&hide=PLpgSQL,TSQL,html,css,scss,ruby,php&langs_count=5&layout=compact&hide_title=true&count_private=true&theme=radical" />
-</a>
-
 ______________________________________________________________________________________________________
 
   <h3>⭐ Certificações </h3>  </p>
