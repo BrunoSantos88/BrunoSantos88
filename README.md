@@ -41,12 +41,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"></a>
 <a href="https://httpd.apache.org/" alt="Apache HTTP Server" target="_blank">
     <img alt="Apache HTTP Server" src="https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat&logo=apache&logoColor=white"></a>
-<a href="https://grafana.com" alt="Grafana" target="_blank">
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
-<a href="https://prometheus.io" alt="Prometheus" target="_blank">
-    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
-<a href="https://prometheus.io" alt="Alertmanager" target="_blank">
-    <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://kubernetes.io" alt="Kubernetes" target="_blank">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"></a>  
 <a href="https://www.jenkins.io" alt="Jenkins" target="_blank">
@@ -54,18 +48,25 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://github.com/features/actions" alt="GitHub Actions" target="_blank">
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></a>
 <a href="https://www.ansible.com" alt="Ansible" target="_blank">
+    </p>
+
+<b> Observabilidade:</b> </p>
     <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"></a>
 <a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
     <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
 <a href="https://www.elastic.co" alt="Elasticsearch" target="_blank">
     <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elastic&logoColor=white"></a>
-    </p>
-    
+<a href="https://grafana.com" alt="Grafana" target="_blank">
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
+<a href="https://prometheus.io" alt="Prometheus" target="_blank">
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
+<a href="https://prometheus.io" alt="Alertmanager" target="_blank">
+    <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a> </p>
 <b> Database: </b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a> 
 
 <b> Linguagem Programação:</b> </p>
 <a href="https://nodejs.org" alt="Node.js" target="_blank">
