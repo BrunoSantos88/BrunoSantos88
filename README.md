@@ -39,6 +39,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
 <a href="https://www.nginx.com" alt="Nginx" target="_blank">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"></a>
+<a href="https://httpd.apache.org/" alt="Apache HTTP Server" target="_blank">
+    <img alt="Apache HTTP Server" src="https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat&logo=apache&logoColor=white"></a>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
     <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
