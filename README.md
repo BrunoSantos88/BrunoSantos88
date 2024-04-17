@@ -53,6 +53,14 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <b> Observabilidade: </b> </p>
 <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
 <a href="https://www.elastic.co" alt="Elasticsearch" target="_blank">
+<a href="https://www.elastic.co/kibana" alt="Kibana" target="_blank">
+    <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"></a>
+<a href="https://www.elastic.co/beats/metricbeat" alt="Metricbeat" target="_blank">
+    <img alt="Metricbeat" src="https://img.shields.io/badge/Metricbeat-005571?style=flat&logo=elastic-stack&logoColor=white"></a>
+<a href="https://www.elastic.co/logstash" alt="Logstash" target="_blank">
+    <img alt="Logstash" src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=elastic-stack&logoColor=white"></a>
+<a href="https://www.graylog.org/" alt="Graylog" target="_blank">
+    <img alt="Graylog" src="https://img.shields.io/badge/Graylog-3E3E3E?style=flat&logo=graylog&logoColor=white"></a>
 <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elastic&logoColor=white"></a>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
