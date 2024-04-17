@@ -113,8 +113,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="GKE" src="https://img.shields.io/badge/GKE-4285F4?style=flat&logo=google-cloud&logoColor=white"></a>
 <a href="https://azure.microsoft.com/en-us/services/kubernetes-service/" alt="AKS" target="_blank">
     <img alt="AKS" src="https://img.shields.io/badge/AKS-0078D4?style=flat&logo=microsoft-azure&logoColor=white"></a>
-
-    </p>
+ </p>
 
 <b> Observabilidade </b> </p>
 <a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
