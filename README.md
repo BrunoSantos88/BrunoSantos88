@@ -51,6 +51,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     </p>
 
 <b> Observabilidade: </b> </p>
+<a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
+    <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
 <a href="https://www.elastic.co/kibana" alt="Kibana" target="_blank">
     <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"></a>
 <a href="https://www.elastic.co/beats/metricbeat" alt="Metricbeat" target="_blank">
@@ -70,7 +72,10 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
- <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a> </p>
+ <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a> 
+ <a href="https://www.zabbix.com/" alt="Zabbix" target="_blank">
+    <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"></a>
+ </p>
 
 <b> Linguagem Programação:</b> </p>
 <a href="https://nodejs.org" alt="Node.js" target="_blank">
