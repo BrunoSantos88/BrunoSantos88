@@ -48,11 +48,11 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://github.com/features/actions" alt="GitHub Actions" target="_blank">
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></a>
 <a href="https://www.ansible.com" alt="Ansible" target="_blank">
+   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"></a>
+<a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
     </p>
 
 <b> Observabilidade: </b> </p>
-    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"></a>
-<a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
     <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
 <a href="https://www.elastic.co" alt="Elasticsearch" target="_blank">
     <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elastic&logoColor=white"></a>
