@@ -6,7 +6,7 @@
 #  Olá! Sou Bruno Santos.
 
 ⭐Conceito e Conhcimentos. </p>
-Redes: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN.  </p> 
+Network Conceitos: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN.  </p> 
 Cloud Computing: AWS, Azure e Google Cloud. </p> 
 Monitoramento: Zabbix e Nagios.
 Observabilidade: Elastic, Datadog e Prometheus,Grafana e AlertManager. </p>
@@ -18,6 +18,7 @@ Systema Operacional: Linux e Windows </p>
 Shellscript e PowerShell </p>
 
 ⭐ Conhecimentos em DevOps. </p>
+Conceitos em DevOps:
 Container: Docker e Kubernetes </p>
 Automação: Terraform, Ansible e Vagrant. </p>
 Continuous Integration: GitActions e Jenkins. </p>
