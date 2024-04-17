@@ -53,6 +53,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="SMB" src="https://img.shields.io/badge/SMB-4CAF50?style=flat&logo=smb&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol" alt="FTP" target="_blank">
     <img alt="FTP" src="https://img.shields.io/badge/FTP-03A9F4?style=flat&logo=ftp&logoColor=white"></a>
+    <a href="https://en.wikipedia.org/wiki/Domain_Name_System" alt="DNS" target="_blank">
+    <img alt="DNS" src="https://img.shields.io/badge/DNS-7952B3?style=flat&logo=dns&logoColor=white"></a>
 
 
 </p>
