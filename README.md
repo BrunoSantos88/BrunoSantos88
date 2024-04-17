@@ -50,6 +50,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.ansible.com" alt="Ansible" target="_blank">
    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"></a>
 <a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
+<a href="https://www.vagrantup.com/" alt="Vagrant" target="_blank">
+    <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white"></a>
     </p>
 
 <b> Observabilidade: </b> </p>
