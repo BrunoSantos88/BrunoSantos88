@@ -52,7 +52,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 
 <b> Observabilidade: </b> </p>
 <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
-<a href="https://www.elastic.co" alt="Elasticsearch" target="_blank">
 <a href="https://www.elastic.co/kibana" alt="Kibana" target="_blank">
     <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"></a>
 <a href="https://www.elastic.co/beats/metricbeat" alt="Metricbeat" target="_blank">
