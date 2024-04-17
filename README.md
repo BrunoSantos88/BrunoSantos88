@@ -6,8 +6,8 @@
     max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     
 
-<h3>Sobre Min </h3>]
-Meu nome é Bruno Santos, sou da cidade de santos, Estudando e cursandos Cyber Security  e automação de aplicação e Cloud.
+<h3>Sobre Min </h3>
+Meu nome é Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber Security, automação de aplicativos e Cloud. Tenho experiência em redes e ambientes de telecomunicações e estou em transição de carreira.
 
 <ul>
     <li><b>Estudando:</b> Cyber Security/DevOps/AppSec e DevSecOps </a></li>
