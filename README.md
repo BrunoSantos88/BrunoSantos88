@@ -13,6 +13,10 @@
 
 #  Olá! Sou Bruno Santos.
 
+
+<img src="https://raw.githubusercontent.com/amycardoso/amycardoso/master/computer-illustration.png" min-width="400px"
+    max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+    
 ⭐Conceito e Conhcimentos. </p>
 Network Conceitos: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN.  </p> 
 Cloud Computing: AWS, Azure e Google Cloud. </p> 
