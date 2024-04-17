@@ -53,7 +53,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol" alt="FTP" target="_blank">
     <img alt="FTP" src="https://img.shields.io/badge/FTP-03A9F4?style=flat&logo=ftp&logoColor=white"></a>
 <a href="https://aws.amazon.com/route53/" alt="Amazon Route 53" target="_blank">
-    <img alt="Amazon Route 53" src="https://img.shields.io/badge/Amazon_Route_53-FF9900?style=flat&logo=amazon-aws&logoColor=white"></a>
+    <img alt="DNS 53" src="https://img.shields.io/badge/Amazon_Route_53-FF9900?style=flat&logo=amazon-aws&logoColor=white"></a>
 
 
 </p>
