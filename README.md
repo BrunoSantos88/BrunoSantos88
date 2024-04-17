@@ -34,8 +34,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white"></a> </p>
 <b> Automação Script </b>  </p>
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a>
-<b> Container </b>  </p>
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a>  </p>
+<b> Container </b> 
 <a href="https://www.docker.com" alt="Docker" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>  </p>
 <b> ServidorWeb </b>    
