@@ -5,16 +5,9 @@
 <img src="https://raw.githubusercontent.com/amycardoso/amycardoso/master/computer-illustration.png" min-width="400px"
     max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     
-<!--- 
-<p align="left">
-    <sup>
-        <a href="https://github.com/antonkomarev/github-profile-views-counter">
-            <img src="https://komarev.com/ghpvc/?username=amycardoso&color=380e82">
-        </a>
-    </sup>
---->
 
-<h3>Sobre Min </h3>
+<h3>Sobre Min </h3>]
+Meu nome é Bruno Santos, sou da cidade de santos, Estudando e cursandos Cyber Security  e automação de aplicação e Cloud.
 
 <ul>
     <li><b>Estudando:</b> Cyber Security/DevOps/AppSec e DevSecOps </a></li>
