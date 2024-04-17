@@ -20,7 +20,14 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <p align="left">
 <h3>Tecnologias</h3>
 
-
+<b> Sistem Operational: </b> <br> </p>
+<a href="https://www.microsoft.com/en-us/windows/" alt="Windows" target="_blank">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
+<a href="https://www.linux.org/" alt="Linux" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+<a href="https://en.wikipedia.org/wiki/Unix-like" alt="Unix" target="_blank">
+    <img alt="Unix" src="https://img.shields.io/badge/Unix-000000?style=flat&logo=unix&logoColor=white"></a>
+  </p>   
 <b> Cloud Computing: </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFD700?style=flat&logo=amazon-aws&logoColor=white"></a>
