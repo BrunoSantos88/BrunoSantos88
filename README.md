@@ -43,6 +43,10 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="LAN" src="https://img.shields.io/badge/LAN-4CAF50?style=flat&logo=internet-explorer&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/Network_address_translation" alt="NAT" target="_blank">
     <img alt="NAT" src="https://img.shields.io/badge/NAT-FF5722?style=flat&logo=internet-explorer&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol" alt="HTTP" target="_blank">
+    <img alt="HTTP" src="https://img.shields.io/badge/HTTP-FF5722?style=flat&logo=http&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/HTTPS" alt="HTTPS" target="_blank">
+    <img alt="HTTPS" src="https://img.shields.io/badge/HTTPS-00C853?style=flat&logo=https&logoColor=white"></a>
 </p>
 <b> Cloud Computing </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
