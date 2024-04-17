@@ -51,17 +51,6 @@
 <br>
 
 <b>Observability</b>
-<br>
-<a href="https://newrelic.com" alt="New Relic" target="_blank">
-    <img alt="New Relic" src="https://img.shields.io/badge/New Relic-1CE783?style=flat&logo=newrelic&logoColor=white"></a>
-<a href="https://sentry.io" alt="Sentry" target="_blank">
-    <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white"></a>
-</p>
-
-<b>Blockchain</b>
-<br>
-<a href="https://algorandtechnologies.com" alt="Algorand" target="_blank">
-    <img alt="Algorand" src="https://img.shields.io/badge/Algorand-000000?style=flat&logo=algorand&logoColor=white"></a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
