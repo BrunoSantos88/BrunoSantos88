@@ -40,7 +40,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.oracle.com/cloud/" alt="Oracle Cloud" target="_blank">
     <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white"></a>
 </p>
-<b> Framework DevOps </b>  </p>
+<b> DevOps </b>  </p>
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a> 
 <a href="https://www.docker.com" alt="Docker" target="_blank">
