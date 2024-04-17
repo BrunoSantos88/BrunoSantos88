@@ -32,23 +32,17 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"></a> 
 <a href="https://cloud.google.com" alt="Google Cloud Platform" target="_blank">
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white"></a> </p>
-<b> Automação Script </b>  </p>
+<b> DevOps tools </b>  </p>
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a>  </p>
-<b> Container </b> 
 <a href="https://www.docker.com" alt="Docker" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
-<b> ServidorWeb </b>    
 <a href="https://www.nginx.com" alt="Nginx" target="_blank">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"></a>
-<b> Database </b> </p>
+<b> Database </b>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
-<a href="https://azure.microsoft.com" alt="Azure" target="_blank">
-    <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"></a>
-<a href="https://cloud.google.com" alt="Google Cloud Platform" target="_blank">
-    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white"></a>
-<b> Observabilidade</b> </p>
+<b> Observabilidade</b>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
     <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
