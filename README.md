@@ -2,6 +2,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social) 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 <img src="https://raw.githubusercontent.com/amycardoso/amycardoso/master/computer-illustration.png" min-width="400px"
     max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     
