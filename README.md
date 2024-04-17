@@ -53,14 +53,12 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <b> Linguagem Programação:</b> </p>
 <a href="https://nodejs.org" alt="Node.js" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></a>
-
 <a href="https://maven.apache.org" alt="Maven" target="_blank">
     <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white"></a>
-
 <a href="https://www.python.org" alt="Python" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a> </p>
 <br>
 ______________________________________________________________________________________________________
 
