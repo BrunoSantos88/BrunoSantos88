@@ -41,6 +41,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white"></a>
 </p>
 <b> DevOps </b>  </p>
+<a href="https://rancher.com/" alt="Rancher" target="_blank">
+    <img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white"></a>
+<a href="https://rancher.com/docs/rke/latest/en/" alt="RKE" target="_blank">
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a> 
 <a href="https://www.docker.com" alt="Docker" target="_blank">
@@ -96,6 +99,10 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a> 
+<a href="https://aws.amazon.com/rds/" alt="Amazon RDS" target="_blank">
+    <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon_RDS-FF9900?style=flat&logo=amazon-aws&logoColor=white"></a>
+<a href="https://aws.amazon.com/dynamodb/" alt="Amazon DynamoDB" target="_blank">
+    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white"></a>
  </p>
 
 <b> Linguagem Programação</b> </p>
@@ -113,14 +120,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
 </p>
 
-<b> OpenStack</b> </p>
-<a href="https://rancher.com/" alt="Rancher" target="_blank">
-    <img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white"></a>
-<a href="https://rancher.com/docs/rke/latest/en/" alt="RKE" target="_blank">
-    <img alt="RKE" src="https://img.shields.io/badge/RKE-0075A8?style=flat&logo=rancher&logoColor=white"></a>
-<a href="https://longhorn.io/" alt="Longhorn" target="_blank">
-    <img alt="Longhorn" src="https://img.shields.io/badge/Longhorn-0075A8?style=flat&logo=longhorn&logoColor=white"></a>
-</p>
 <br>
 ______________________________________________________________________________________________________
 
