@@ -5,6 +5,11 @@
 <img src="https://raw.githubusercontent.com/amycardoso/amycardoso/master/computer-illustration.png" min-width="400px"
     max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 <h3>Sobre Min </h3>
 Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber Security, automação de aplicativos e Cloudsec. Tenho experiência em redes e ambientes de telecomunicações e estou em transição de carreira. </p>
