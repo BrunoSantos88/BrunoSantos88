@@ -100,6 +100,10 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <b> OpenStack :</b> </p>
 <a href="https://rancher.com/" alt="Rancher" target="_blank">
     <img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white"></a>
+<a href="https://rancher.com/docs/rke/latest/en/" alt="RKE" target="_blank">
+    <img alt="RKE" src="https://img.shields.io/badge/RKE-0075A8?style=flat&logo=rancher&logoColor=white"></a>
+<a href="https://longhorn.io/" alt="Longhorn" target="_blank">
+    <img alt="Longhorn" src="https://img.shields.io/badge/Longhorn-0075A8?style=flat&logo=longhorn&logoColor=white"></a>
 </p>
 <br>
 ______________________________________________________________________________________________________
