@@ -25,7 +25,7 @@ Continuous Delivery: Argocd </p>
 
 🎯 Atuamente estou Cursando. </p>
 Programa Desenvolve trilha (Cyber Security) </p>
-Cursando ADS Analise e Desenvolvimento Sistema.  </p>
+Cursando ADS (Analise e Desenvolvimento Sistema)  </p>
 
 ______________________________________________________________________________________________________
 
