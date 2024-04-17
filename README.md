@@ -50,7 +50,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.ansible.com" alt="Ansible" target="_blank">
     </p>
 
-<b> Observabilidade:</b> </p>
+<b> Observabilidade: </b> </p>
     <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"></a>
 <a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
     <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
