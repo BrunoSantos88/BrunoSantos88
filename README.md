@@ -132,6 +132,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon_RDS-FF9900?style=flat&logo=amazon-aws&logoColor=white"></a>
 <a href="https://aws.amazon.com/dynamodb/" alt="Amazon DynamoDB" target="_blank">
     <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white"></a>
+<a href="#" alt="Heave" target="_blank">
+    <img alt="Heave" src="https://img.shields.io/badge/Heave-FF0000?style=flat&logo=heave&logoColor=white"></a>
  </p>
 
 <b> Linguagem Programação</b> </p>
