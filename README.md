@@ -27,6 +27,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 <a href="https://en.wikipedia.org/wiki/Unix-like" alt="Unix" target="_blank">
     <img alt="Unix" src="https://img.shields.io/badge/Unix-000000?style=flat&logo=unix&logoColor=white"></a>
+<a href="https://code.visualstudio.com/" alt="VSCode" target="_blank">
+    <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></a>
   </p>   
 <b> Cloud Computing: </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
