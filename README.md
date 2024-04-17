@@ -41,6 +41,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"></a>  
 <a href="https://www.jenkins.io" alt="Jenkins" target="_blank">
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
+<a href="https://git-scm.com/" alt="Git" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"></a>
 <a href="https://github.com/features/actions" alt="GitHub Actions" target="_blank">
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></a>
 <a href="https://www.ansible.com" alt="Ansible" target="_blank">
