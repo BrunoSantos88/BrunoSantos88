@@ -51,7 +51,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.vagrantup.com/" alt="Vagrant" target="_blank">
     <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white"></a>
 <a href="https://argoproj.github.io/argo-cd/" alt="ArgoCD" target="_blank">
-    <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argocd&logoColor=white"></a>
+    <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argo-cd&logoColor=white"></a>
     </p>
 
 <b> Observabilidade: </b> </p>
