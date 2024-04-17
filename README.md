@@ -148,7 +148,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/Shell_script" alt="Shell Script" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
-</p>
+<a href="https://www.gnu.org/software/bash/" alt="Bash" target="_blank">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
+    </p>
 
 <br>
 ______________________________________________________________________________________________________
