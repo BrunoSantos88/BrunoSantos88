@@ -30,6 +30,20 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://code.visualstudio.com/" alt="VSCode" target="_blank">
     <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></a>
   </p>   
+<b> Networking & Protocolos </b> <br> </p>
+  <a href="https://www.ssh.com/" alt="SSH" target="_blank">
+    <img alt="SSH" src="https://img.shields.io/badge/SSH-000000?style=flat&logo=ssh&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/IPv4" alt="IPv4" target="_blank">
+    <img alt="IPv4" src="https://img.shields.io/badge/IPv4-0080FF?style=flat&logo=internet-explorer&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/Virtual_private_network" alt="VPN" target="_blank">
+    <img alt="VPN" src="https://img.shields.io/badge/VPN-009688?style=flat&logo=vpn&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/Wide_area_network" alt="WAN" target="_blank">
+    <img alt="WAN" src="https://img.shields.io/badge/WAN-FFA000?style=flat&logo=internet-explorer&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/Local_area_network" alt="LAN" target="_blank">
+    <img alt="LAN" src="https://img.shields.io/badge/LAN-4CAF50?style=flat&logo=internet-explorer&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/Network_address_translation" alt="NAT" target="_blank">
+    <img alt="NAT" src="https://img.shields.io/badge/NAT-FF5722?style=flat&logo=internet-explorer&logoColor=white"></a>
+</p>
 <b> Cloud Computing </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFD700?style=flat&logo=amazon-aws&logoColor=white"></a>
