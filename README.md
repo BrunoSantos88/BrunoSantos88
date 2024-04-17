@@ -25,8 +25,7 @@
 
 <ul>
     <li><b>estudando:</b> CyberSecurity </a></li>
-    <li><b>Education:</b> Cursando ADS (Analise e Desenvolvimento Sistema) </li>
-    <li><b>Hobbies:</b> Games | Praia | Surf | skate | </li>
+    <li><b>Formação:</b> Cursando ADS (Analise e Desenvolvimento Sistema) </li>
 </ul>
 
 </p>
