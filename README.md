@@ -59,7 +59,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Metricbeat" src="https://img.shields.io/badge/Metricbeat-005571?style=flat&logo=elastic-stack&logoColor=white"></a>
 <a href="https://www.elastic.co/logstash" alt="Logstash" target="_blank">
     <img alt="Logstash" src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=elastic-stack&logoColor=white"></a>
-<img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elastic&logoColor=white"></a>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
