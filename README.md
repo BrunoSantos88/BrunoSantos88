@@ -28,8 +28,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 <a href="https://en.wikipedia.org/wiki/Unix-like" alt="Unix" target="_blank">
     <img alt="Unix" src="https://img.shields.io/badge/Unix-000000?style=flat&logo=unix&logoColor=white"></a>
-<a href="https://code.visualstudio.com/" alt="VSCode" target="_blank">
-    <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></a>
   </p>   
 <b> Networking & Protocolos </b> <br> </p>
   <a href="https://www.ssh.com/" alt="SSH" target="_blank">
@@ -97,22 +95,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white"></a>
 <a href="https://argoproj.github.io/argo-cd/" alt="ArgoCD" target="_blank">
     <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argo-cd&logoColor=white"></a>
-<a href="https://aws.amazon.com/s3/" alt="Amazon S3" target="_blank">
-    <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white"></a>
-<a href="https://aws.amazon.com/sns/" alt="Amazon SNS" target="_blank">
-    <img alt="Amazon SNS" src="https://img.shields.io/badge/Amazon_SNS-FF9900?style=flat&logo=amazon-sns&logoColor=white"></a>
-<a href="https://aws.amazon.com/ec2/" alt="Amazon EC2" target="_blank">
-    <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon_EC2-232F3E?style=flat&logo=amazon-ec2&logoColor=white"></a>
-<a href="https://aws.amazon.com/eks/" alt="Amazon EKS" target="_blank">
-    <img alt="Amazon EKS" src="https://img.shields.io/badge/Amazon_EKS-232F3E?style=flat&logo=amazon-eks&logoColor=white"></a>
-<a href="https://aws.amazon.com/ecs/" alt="Amazon ECS" target="_blank">
-    <img alt="Amazon ECS" src="https://img.shields.io/badge/Amazon_ECS-232F3E?style=flat&logo=amazon-ecs&logoColor=white"></a>
-<a href="https://aws.amazon.com/ecr/" alt="Amazon ECR" target="_blank">
-    <img alt="Amazon ECR" src="https://img.shields.io/badge/Amazon_ECR-232F3E?style=flat&logo=amazon-ecr&logoColor=white"></a>
-<a href="https://cloud.google.com/kubernetes-engine/" alt="GKE" target="_blank">
-    <img alt="GKE" src="https://img.shields.io/badge/GKE-4285F4?style=flat&logo=google-cloud&logoColor=white"></a>
-<a href="https://azure.microsoft.com/en-us/services/kubernetes-service/" alt="AKS" target="_blank">
-    <img alt="AKS" src="https://img.shields.io/badge/AKS-0078D4?style=flat&logo=microsoft-azure&logoColor=white"></a>
  </p>
 
 <b> Observabilidade </b> </p>
