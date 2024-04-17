@@ -12,7 +12,7 @@ Meu nome é Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando C
 <ul>
     <li><b>Estudando:</b> Cyber Security/DevOps/AppSec e DevSecOps </a></li>
     <li><b>Formação:</b> Cursando ADS (Analise e Desenvolvimento Sistema) </li>
-    <li><b>Cursos em Andamentos:</b> Desenvolver Trilha Security e Hacker do Bem </li> 
+    <li><b>Cursos em Andamentos:</b> Desenvolve (Trilha Security) e Hacker do Bem (modulo basico) </li> 
 </ul>
 
 </p>
