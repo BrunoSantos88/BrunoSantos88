@@ -10,10 +10,9 @@ Network Conceitos: Protocolos IPV4 IPV6, Configuração Lan , Wan e VPN.  </p>
 Cloud Computing: AWS, Azure e Google Cloud. </p> 
 Monitoramento: Zabbix e Nagios.
 Observabilidade: Elastic, Datadog e Prometheus,Grafana e AlertManager. </p>
-Linguagem : javascript,python,nodejs e mavem. </p>
+Linguagem : JavaScript , Python , Maven e NodeJs </p>
 Banco de dados: Linguagem SQL </p>
 Versionamento: Git </p> 
-Repositorio: GitHub e GitLab.</p>
 Systema Operacional: Linux e Windows </p>
 Shellscript e PowerShell </p>
 
