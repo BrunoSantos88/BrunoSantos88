@@ -21,7 +21,7 @@ Meu nome é Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando C
 <h3>Tecnologias</h3>
 
 
-<b> Cloud Computing / Automação /Container / Database </b>
+<b> Cloud Computing / Automação / Container / ServidorWeb / Database </b>
 <br>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></a>
