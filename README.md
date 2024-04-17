@@ -51,18 +51,10 @@
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></a>
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a>
-<a href="https://www.heroku.com" alt="Heroku" target="_blank">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"></a>
-<a href="https://vercel.com" alt="Vercel" target="_blank">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"></a>
-<a href="https://railway.app" alt="Railway" target="_blank">
-    <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=Railway&logoColor=white"></a>
 <a href="https://www.docker.com" alt="Docker" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
 <a href="https://www.nginx.com" alt="Nginx" target="_blank">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"></a>
-<a href="https://www.cloudflare.com" alt="Cloudflare" target="_blank">
-    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"></a>
 <br>
 
 <b>Observability</b>
