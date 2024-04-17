@@ -44,7 +44,14 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
     <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
-    <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a> </p>
+    <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a>
+<a href="https://kubernetes.io" alt="Kubernetes" target="_blank">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"></a>  
+<a href="https://www.jenkins.io" alt="Jenkins" target="_blank">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
+<a href="https://github.com/features/actions" alt="GitHub Actions" target="_blank">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></a>
+    </p>
     
 <b> Database: </b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
@@ -58,7 +65,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.python.org" alt="Python" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a> </p>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a> 
+</p>
 <br>
 ______________________________________________________________________________________________________
 
