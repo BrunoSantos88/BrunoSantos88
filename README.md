@@ -96,6 +96,11 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://en.wikipedia.org/wiki/Shell_script" alt="Shell Script" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
 </p>
+
+<b> OpenStack :</b> </p>
+<a href="https://rancher.com/" alt="Rancher" target="_blank">
+    <img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white"></a>
+</p>
 <br>
 ______________________________________________________________________________________________________
 
