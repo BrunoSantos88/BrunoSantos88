@@ -32,7 +32,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"></a> 
 <a href="https://cloud.google.com" alt="Google Cloud Platform" target="_blank">
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white"></a> </p>
-<b> DevOps tools </b>  </p>
+<b> Framework DevOps </b>  </p>
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a> 
 <a href="https://www.docker.com" alt="Docker" target="_blank">
@@ -45,7 +45,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
     <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a>
-
 <b> Database </b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
