@@ -58,6 +58,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="DNS" src="https://img.shields.io/badge/DNS-7952B3?style=flat&logo=dns&logoColor=white"></a>
 
 
+
 </p>
 <b> Cloud Computing </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
@@ -98,6 +99,16 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argo-cd&logoColor=white"></a>
 <a href="https://aws.amazon.com/s3/" alt="Amazon S3" target="_blank">
     <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white"></a>
+<a href="https://aws.amazon.com/sns/" alt="Amazon SNS" target="_blank">
+    <img alt="Amazon SNS" src="https://img.shields.io/badge/Amazon_SNS-FF9900?style=flat&logo=amazon-sns&logoColor=white"></a>
+<a href="https://aws.amazon.com/ec2/" alt="Amazon EC2" target="_blank">
+    <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon_EC2-232F3E?style=flat&logo=amazon-ec2&logoColor=white"></a>
+<a href="https://aws.amazon.com/eks/" alt="Amazon EKS" target="_blank">
+    <img alt="Amazon EKS" src="https://img.shields.io/badge/Amazon_EKS-232F3E?style=flat&logo=amazon-eks&logoColor=white"></a>
+<a href="https://aws.amazon.com/ecs/" alt="Amazon ECS" target="_blank">
+    <img alt="Amazon ECS" src="https://img.shields.io/badge/Amazon_ECS-232F3E?style=flat&logo=amazon-ecs&logoColor=white"></a>
+<a href="https://aws.amazon.com/ecr/" alt="Amazon ECR" target="_blank">
+    <img alt="Amazon ECR" src="https://img.shields.io/badge/Amazon_ECR-232F3E?style=flat&logo=amazon-ecr&logoColor=white"></a>
     </p>
 
 <b> Observabilidade </b> </p>
