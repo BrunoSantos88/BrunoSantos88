@@ -39,17 +39,12 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
 <a href="https://www.nginx.com" alt="Nginx" target="_blank">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"></a>
-<b> Database </b>
-<a href="https://www.mysql.com" alt="MySQL" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
-<b> Observabilidade</b>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
     <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
     <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
     <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a>
-<b> liguagem </b> </p>
 <br>
 ______________________________________________________________________________________________________
 
