@@ -17,8 +17,9 @@
 <h3>Sobre Min </h3>
 
 <ul>
-    <li><b>estudando:</b> CyberSecurity </a></li>
+    <li><b>Estudando:</b> Cyber Security/DevOps/AppSec e DevSecOps </a></li>
     <li><b>Formação:</b> Cursando ADS (Analise e Desenvolvimento Sistema) </li>
+    <li><b>Cursos em Andamentos:</b> Desenvolver Trilha Security e Hacker do Bem </li> 
 </ul>
 
 </p>
@@ -27,7 +28,7 @@
 <h3>Tecnologias</h3>
 
 
-<b>Cloud & DevOps e Dadabase</b>
+<b>Cloud Computing / Container / Database </b>
 <br>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></a>
