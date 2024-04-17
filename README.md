@@ -25,7 +25,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <h3>Tecnologias</h3>
 
 
-<b> Cloud Computing: </b> <br>
+<b> Cloud Computing: </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></a>
 <a href="https://azure.microsoft.com" alt="Azure" target="_blank">
