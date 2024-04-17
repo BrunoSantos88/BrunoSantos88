@@ -20,7 +20,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <p align="left">
 <h3>Tecnologias</h3>
 
-<b> Sistem Operational: </b> <br> </p>
+<b> System Operational </b> <br> </p>
 <a href="https://www.microsoft.com/en-us/windows/" alt="Windows" target="_blank">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
 <a href="https://www.linux.org/" alt="Linux" target="_blank">
