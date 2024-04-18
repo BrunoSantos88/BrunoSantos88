@@ -68,9 +68,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white"></a>
 </p>
 <b> DevOps </b>  </p>
-<a href="https://rancher.com/" alt="Rancher" target="_blank">
-    <img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white"></a>
-<a href="https://rancher.com/docs/rke/latest/en/" alt="RKE" target="_blank">
+
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a> 
 <a href="https://www.docker.com" alt="Docker" target="_blank">
@@ -89,7 +87,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></a>
 <a href="https://www.ansible.com" alt="Ansible" target="_blank">
    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"></a>
-<a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
 <a href="https://www.vagrantup.com/" alt="Vagrant" target="_blank">
     <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white"></a>
 <a href="https://argoproj.github.io/argo-cd/" alt="ArgoCD" target="_blank">
