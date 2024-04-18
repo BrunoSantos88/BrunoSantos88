@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Alura-52B6FF?style=flat-square&logo=alura&logoColor=white" alt="Alura">
 </a>
 
-<h3>Olá</h3>
+<h3></h3>
 Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber Security, automação de aplicativos e Cloudsec. Tenho experiência em redes e ambientes de telecomunicações e estou em transição de carreira. </p>
 
 <ul>
