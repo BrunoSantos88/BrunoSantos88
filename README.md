@@ -1,6 +1,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/BrunoSantos88?style=social) 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
+<a href="https://www.linkedin.com/in/brunosantos88/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 
 <img src="https://raw.githubusercontent.com/amycardoso/amycardoso/master/computer-illustration.png" min-width="400px"
