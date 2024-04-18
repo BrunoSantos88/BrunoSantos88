@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://cursos.alura.com.br/user/ilovegamesrpg" target="_blank">
-    <img src="https://cursos.alura.com.br/assets/api/badges/certificados/brunosantos88" alt="Badge Alura" style="max-width: 100px;">
+    <img src="https://cursos.alura.com.br/assets/api/badges/certificados/brunosantos88" alt="Alura" >
 </a>
 
 <h3>Sobre Min </h3>
