@@ -64,8 +64,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"></a> 
 <a href="https://cloud.google.com" alt="Google Cloud Platform" target="_blank">
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white"></a> 
-<a href="https://www.oracle.com/cloud/" alt="Oracle Cloud" target="_blank">
-    <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white"></a>
 </p>
 <b> DevOps </b>  </p>
 
@@ -83,29 +81,17 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
 <a href="https://git-scm.com/" alt="Git" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"></a>
-<a href="https://github.com/features/actions" alt="GitHub Actions" target="_blank">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></a>
 <a href="https://www.ansible.com" alt="Ansible" target="_blank">
    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"></a>
 <a href="https://www.vagrantup.com/" alt="Vagrant" target="_blank">
     <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white"></a>
 <a href="https://argoproj.github.io/argo-cd/" alt="ArgoCD" target="_blank">
     <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argo-cd&logoColor=white"></a>
-<a href="https://github.com/" alt="GitHub" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
-<a href="https://about.gitlab.com/" alt="GitLab" target="_blank">
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white"></a>
  </p>
 
 <b> Observabilidade </b> </p>
 <a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
     <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
-<a href="https://www.elastic.co/kibana" alt="Kibana" target="_blank">
-    <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"></a>
-<a href="https://www.elastic.co/beats/metricbeat" alt="Metricbeat" target="_blank">
-    <img alt="Metricbeat" src="https://img.shields.io/badge/Metricbeat-005571?style=flat&logo=elastic-stack&logoColor=white"></a>
-<a href="https://www.elastic.co/logstash" alt="Logstash" target="_blank">
-    <img alt="Logstash" src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=elastic-stack&logoColor=white"></a>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
@@ -116,24 +102,14 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"></a>
 <a href="https://www.graylog.org/" alt="Graylog" target="_blank">
     <img alt="Graylog" src="https://img.shields.io/badge/Graylog-3E3E3E?style=flat&logo=graylog&logoColor=white"></a>
-<a href="https://www.elastic.co" alt="Elasticsearch" target="_blank">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elastic&logoColor=white"></a>
-<a href="https://traefik.io/" alt="Traefik" target="_blank">
-    <img alt="Traefik" src="https://img.shields.io/badge/Traefik-FF6F00?style=flat&logo=traefik&logoColor=white"></a>
-    
 </p>
 <b> Database</b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a> 
-<a href="https://aws.amazon.com/rds/" alt="Amazon RDS" target="_blank">
-    <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon_RDS-FF9900?style=flat&logo=amazon-aws&logoColor=white"></a>
-<a href="https://aws.amazon.com/dynamodb/" alt="Amazon DynamoDB" target="_blank">
-    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white"></a>
-<a href="https://www.mysql.com/products/mysqlheatwave/" alt="MySQL HeatWave" target="_blank">
-    <img alt="MySQL HeatWave" src="https://img.shields.io/badge/MySQL_HeatWave-4479A1?style=flat&logo=mysql&logoColor=white"></a>
- </p>
+ 
+</p>
 
 <b> Linguagem Programação</b> </p>
 <a href="https://nodejs.org" alt="Node.js" target="_blank">
@@ -148,8 +124,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/Shell_script" alt="Shell Script" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
-<a href="https://www.gnu.org/software/bash/" alt="Bash" target="_blank">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
     </p>
 <br>
 ______________________________________________________________________________________________________
