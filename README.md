@@ -4,8 +4,8 @@
 <a href="https://www.linkedin.com/in/brunosantos88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://www.linkedin.com/in/brunosantos88/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.credly.com/users/bruno-santos-ferreira-da-silva/badges" target="_blank">
+    <img src="URL_DO_SEU_BADGE" alt="Badge Credly" style="max-width: 100px;">
 </a>
 
 <img src="https://raw.githubusercontent.com/amycardoso/amycardoso/master/computer-illustration.png" min-width="400px"
