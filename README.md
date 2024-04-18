@@ -3,7 +3,6 @@
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88&countColor=%2337d67a&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrunoSantos88)
 <a href="https://www.linkedin.com/in/brunosantos88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 <a href="https://cursos.alura.com.br/user/ilovegamesrpg" target="_blank">
     <img src="https://img.shields.io/badge/Alura-52B6FF?style=flat-square&logo=alura&logoColor=white" alt="Alura">
 </a>
