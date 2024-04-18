@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="3a12671db468caf7376e42f70be840d5ca815b070877f0a682e52332b3e5f53e" target="_blank">
-    Meu Perfil na Alura
+<a href="https://cursos.alura.com.br/user/ilovegamesrpg" target="_blank">
+    <img src="https://cursos.alura.com.br/assets/api/badges/certificados/brunosantos88" alt="Badge Alura" style="max-width: 100px;">
 </a>
 
 <h3>Sobre Min </h3>
