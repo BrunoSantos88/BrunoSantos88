@@ -4,7 +4,9 @@
 <a href="https://www.linkedin.com/in/brunosantos88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
+<a href="https://www.linkedin.com/in/brunosantos88/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 <img src="https://raw.githubusercontent.com/amycardoso/amycardoso/master/computer-illustration.png" min-width="400px"
     max-width="400px" width="400px" align="right" alt="Computador iuriCode">
