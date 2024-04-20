@@ -96,6 +96,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
 <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a> 
+<a href="https://prometheus.io/docs/guides/node-exporter/" alt="Node Exporter" target="_blank">
+    <img alt="Node Exporter" src="https://img.shields.io/badge/Node_Exporter-3284BC?style=flat&logo=prometheus&logoColor=white">
 </a>
 </p>
 <b> 🗃️ Database</b> </p>
