@@ -11,8 +11,8 @@
 Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber Security, automação de aplicativos e Cloudsec. Tenho experiência em redes e ambientes de telecomunicações e estou em transição de carreira. </p>
 
 <ul>
-    <b> 🖥️ Estudando:</b> Cyber Security/DevOps/AppSec e DevSecOps </a></li> </ul> </p>
-    <b> 👨‍🎓 Formação:</b> Cursando ADS (Analise e Desenvolvimento Sistema) </li> </p>
+    <b> 🖥️ Estudando:</b> Cyber Security/DevOps/AppSec e DevSecOps </li> </p>
+    <b> 👨‍🎓 Formação:</b> Cursando ADS (Analise e Desenvolvimento Sistema </li> </p>
     <b> 👨🏻‍💻 Cursando Programa Desenvolve :</b> Trilha Cyber Security </li>  </p>
 </ul>
 
