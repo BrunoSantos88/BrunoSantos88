@@ -128,11 +128,11 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <br>
 ______________________________________________________________________________________________________
 
-<h3>⭐ PROJETOS, LABS E PRATICANDO.</h3>  </p>
-     🎯 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> O2B ACADAMY </a>  </p>
-     🎯 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> DESAFIO LINUX NA PRATICA DIO </a>  </p>
-     🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> DESAFIO DIO DEVOPS GOOGLE CLOUD </a>  </p>
-     🎯 <a href=https://github.com/BrunoSantos88/Desenvolve-Security.git/> TRILHA DESENVOLVE CYBERSECUIRTY </a>  </p>
+<h3> 🔗 PROJETOS, LABS E PRATICANDO.</h3>  </p>
+     📓 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> O2B ACADAMY </a>  </p>
+     📓 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> DESAFIO LINUX NA PRATICA DIO </a>  </p>
+     📓 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> DESAFIO DIO DEVOPS GOOGLE CLOUD </a>  </p>
+     📓 <a href=https://github.com/BrunoSantos88/Desenvolve-Security.git/> TRILHA DESENVOLVE CYBERSECUIRTY </a>  </p>
 </li>
  ______________________________________________________________________________________________________
 
