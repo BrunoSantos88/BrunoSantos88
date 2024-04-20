@@ -19,7 +19,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 </p>
 
 <p align="left">
-<h3>Tecnologias</h3>
+<h3> 🔗 Tecnologias</h3>
 
 <b> 💻 Systema Operacional </b> <br> </p>
 <a href="https://www.microsoft.com/en-us/windows/" alt="Windows" target="_blank">
