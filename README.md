@@ -65,7 +65,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://cloud.google.com" alt="Google Cloud Platform" target="_blank">
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white"></a> 
 </p>
-<b> ♾️ DevOps </b>  </p>
+<b> ⚙️ DevOps </b>  </p>
 
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a> 
