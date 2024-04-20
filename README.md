@@ -90,8 +90,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  </p>
 
 <b> 📈 Observabilidade </b> </p>
-<a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
-    <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
@@ -100,8 +98,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a> 
 <a href="https://www.zabbix.com/" alt="Zabbix" target="_blank">
 <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"></a>
-<a href="https://www.graylog.org/" alt="Graylog" target="_blank">
-    <img alt="Graylog" src="https://img.shields.io/badge/Graylog-3E3E3E?style=flat&logo=graylog&logoColor=white"></a>
+<a href="https://www.nagios.org/" alt="Nagios" target="_blank">
+    <img alt="Nagios" src="URL_DO_SEU_BADGE">
+</a>
 </p>
 <b> 🗃️ Database</b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
