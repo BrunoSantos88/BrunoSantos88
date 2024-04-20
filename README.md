@@ -92,6 +92,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <b> 📈 Observabilidade </b> </p>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
+<a href="https://grafana.com/oss/loki/" alt="Loki" target="_blank">
+    <img alt="Loki" src="https://img.shields.io/badge/Loki-339933?style=flat&logo=grafana&logoColor=white">
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
@@ -102,9 +104,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="cAdvisor" src="https://img.shields.io/badge/cAdvisor-6096BA?style=flat&logo=docker&logoColor=white">
 <a href="https://github.com/prometheus/mysqld_exporter" alt="MySQL Exporter" target="_blank">
     <img alt="MySQL Exporter" src="https://img.shields.io/badge/MySQL_Exporter-005C84?style=flat&logo=mysql&logoColor=white">
-<a href="https://grafana.com/oss/loki/" alt="Loki" target="_blank">
-    <img alt="Loki" src="https://img.shields.io/badge/Loki-339933?style=flat&logo=grafana&logoColor=white">
-</a>
 <a href="https://traefik.io/" alt="Traefik" target="_blank">
     <img alt="Traefik" src="https://img.shields.io/badge/Traefik-FF6F00?style=flat&logo=traefik&logoColor=white">
 </a>
