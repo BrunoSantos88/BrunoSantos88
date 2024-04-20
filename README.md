@@ -100,6 +100,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Node Exporter" src="https://img.shields.io/badge/Node_Exporter-3284BC?style=flat&logo=prometheus&logoColor=white">
 <a href="https://github.com/google/cadvisor" alt="cAdvisor" target="_blank">
     <img alt="cAdvisor" src="https://img.shields.io/badge/cAdvisor-6096BA?style=flat&logo=docker&logoColor=white">
+<a href="https://github.com/prometheus/mysqld_exporter" alt="MySQL Exporter" target="_blank">
+    <img alt="MySQL Exporter" src="https://img.shields.io/badge/MySQL_Exporter-005C84?style=flat&logo=mysql&logoColor=white">
+</a>
 </p>
 <b> 🗃️ Database</b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
