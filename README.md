@@ -21,7 +21,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <p align="left">
 <h3>Tecnologias</h3>
 
-<b> Systema Operacional </b> <br> </p>
+<b> 💻 Systema Operacional </b> <br> </p>
 <a href="https://www.microsoft.com/en-us/windows/" alt="Windows" target="_blank">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
 <a href="https://www.linux.org/" alt="Linux" target="_blank">
@@ -29,7 +29,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://en.wikipedia.org/wiki/Unix-like" alt="Unix" target="_blank">
     <img alt="Unix" src="https://img.shields.io/badge/Unix-000000?style=flat&logo=unix&logoColor=white"></a>
   </p>   
-<b> Networking & Protocolos </b> <br> </p>
+<b> 🌐 Networking & Protocolos </b> <br> </p>
   <a href="https://www.ssh.com/" alt="SSH" target="_blank">
     <img alt="SSH" src="https://img.shields.io/badge/SSH-000000?style=flat&logo=ssh&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/IPv4" alt="IPv4" target="_blank">
@@ -57,7 +57,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 
 
 </p>
-<b> Cloud Computing </b> <br> </p>
+<b> ☁️ Cloud Computing </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFD700?style=flat&logo=amazon-aws&logoColor=white"></a>
 <a href="https://azure.microsoft.com" alt="Azure" target="_blank">
@@ -65,7 +65,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://cloud.google.com" alt="Google Cloud Platform" target="_blank">
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white"></a> 
 </p>
-<b> DevOps </b>  </p>
+<b> ♾️ DevOps </b>  </p>
 
 <a href="https://www.terraform.io" alt="Terraform" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a> 
@@ -89,7 +89,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argo-cd&logoColor=white"></a>
  </p>
 
-<b> Observabilidade </b> </p>
+<b> 📈 Observabilidade </b> </p>
 <a href="https://www.datadoghq.com" alt="Datadog" target="_blank">
     <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"></a>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
@@ -103,7 +103,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.graylog.org/" alt="Graylog" target="_blank">
     <img alt="Graylog" src="https://img.shields.io/badge/Graylog-3E3E3E?style=flat&logo=graylog&logoColor=white"></a>
 </p>
-<b> Database</b> </p>
+<b> 🗃️ Database</b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
@@ -111,7 +111,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  
 </p>
 
-<b> Linguagem Programação</b> </p>
+<b> 👨🏻‍💻 Linguagem Programação</b> </p>
 <a href="https://nodejs.org" alt="Node.js" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></a>
 <a href="https://maven.apache.org" alt="Maven" target="_blank">
