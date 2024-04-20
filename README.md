@@ -138,7 +138,7 @@ ________________________________________________________________________________
 
  
 
-## ⭐Git Status
+## 📊 Github Status
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoSantos88&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoSantos88&theme=blueberry) |
 | :-: | :-: | :-: |
 
