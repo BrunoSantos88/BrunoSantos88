@@ -87,9 +87,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white"></a>
 <a href="https://argoproj.github.io/argo-cd/" alt="ArgoCD" target="_blank">
     <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argo-cd&logoColor=white"></a>
-<a href="https://github.com/google/cadvisor" alt="cAdvisor" target="_blank">
-    <img alt="cAdvisor" src="https://img.shields.io/badge/cAdvisor-6096BA?style=flat&logo=docker&logoColor=white">
-</a>
  </p>
 
 <b> 📈 Observabilidade </b> </p>
@@ -101,7 +98,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a> 
 <a href="https://prometheus.io/docs/guides/node-exporter/" alt="Node Exporter" target="_blank">
     <img alt="Node Exporter" src="https://img.shields.io/badge/Node_Exporter-3284BC?style=flat&logo=prometheus&logoColor=white">
-</a>
+<a href="https://github.com/google/cadvisor" alt="cAdvisor" target="_blank">
+    <img alt="cAdvisor" src="https://img.shields.io/badge/cAdvisor-6096BA?style=flat&logo=docker&logoColor=white">
 </p>
 <b> 🗃️ Database</b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
