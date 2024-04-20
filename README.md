@@ -99,7 +99,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.zabbix.com/" alt="Zabbix" target="_blank">
 <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white"></a>
 <a href="https://www.nagios.org/" alt="Nagios" target="_blank">
-    <img alt="Nagios" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Nagios_logo.svg/1200px-Nagios_logo.svg.png">
+    <img alt="Nagios" src="https://img.shields.io/badge/Nagios-0078FF?style=flat&logo=nagios&logoColor=white">
 </a>
 </p>
 <b> 🗃️ Database</b> </p>
