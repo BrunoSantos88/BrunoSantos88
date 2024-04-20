@@ -102,6 +102,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="cAdvisor" src="https://img.shields.io/badge/cAdvisor-6096BA?style=flat&logo=docker&logoColor=white">
 <a href="https://github.com/prometheus/mysqld_exporter" alt="MySQL Exporter" target="_blank">
     <img alt="MySQL Exporter" src="https://img.shields.io/badge/MySQL_Exporter-005C84?style=flat&logo=mysql&logoColor=white">
+<a href="https://traefik.io/" alt="Traefik" target="_blank">
+    <img alt="Traefik" src="https://img.shields.io/badge/Traefik-FF6F00?style=flat&logo=traefik&logoColor=white">
 </a>
 </p>
 <b> 🗃️ Database</b> </p>
