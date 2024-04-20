@@ -89,7 +89,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-5898F1?style=flat&logo=argo-cd&logoColor=white"></a>
  </p>
 
-<b> 📈 Observabilidade </b> </p>
+<b> Observabilidade </b> </p>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
 <a href="https://grafana.com/oss/loki/" alt="Loki" target="_blank">
@@ -109,15 +109,18 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://www.jaegertracing.io/" alt="Jaeger" target="_blank">
     <img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-FF6F00?style=flat&logo=jaeger&logoColor=white">
 </p>
-<b> 🗃️ Database</b> </p>
+<b> Database</b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a> 
+<a href="https://www.mongodb.com/" alt="MongoDB" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+</a>
  
 </p>
 
-<b> 👨🏻‍💻 Linguagem Programação</b> </p>
+<b> Linguagem Programação</b> </p>
 <a href="https://nodejs.org" alt="Node.js" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></a>
 <a href="https://maven.apache.org" alt="Maven" target="_blank">
