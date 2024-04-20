@@ -98,13 +98,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
 <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a> 
-<a href="https://prometheus.io/docs/guides/node-exporter/" alt="Node Exporter" target="_blank">
-    <img alt="Node Exporter" src="https://img.shields.io/badge/Node_Exporter-3284BC?style=flat&logo=prometheus&logoColor=white">
 <a href="https://github.com/google/cadvisor" alt="cAdvisor" target="_blank">
     <img alt="cAdvisor" src="https://img.shields.io/badge/cAdvisor-6096BA?style=flat&logo=docker&logoColor=white">
 <a href="https://github.com/prometheus/mysqld_exporter" alt="MySQL Exporter" target="_blank">
-    <img alt="MySQL Exporter" src="https://img.shields.io/badge/MySQL_Exporter-005C84?style=flat&logo=mysql&logoColor=white">
-<a href="https://traefik.io/" alt="Traefik" target="_blank">
     <img alt="Traefik" src="https://img.shields.io/badge/Traefik-FF6F00?style=flat&logo=traefik&logoColor=white">
 <a href="https://www.jaegertracing.io/" alt="Jaeger" target="_blank">
     <img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-FF6F00?style=flat&logo=jaeger&logoColor=white">
