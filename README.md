@@ -64,8 +64,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <b> Observabilidade </b> </p>
 <a href="https://grafana.com" alt="Grafana" target="_blank">
  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></a>
-<a href="https://grafana.com/oss/loki/" alt="Loki" target="_blank">
-    <img alt="Loki" src="https://img.shields.io/badge/Loki-339933?style=flat&logo=grafana&logoColor=white">
 <a href="https://prometheus.io" alt="Prometheus" target="_blank">
  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
@@ -78,7 +76,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a> 
 </a>
 </p>
-
 <b> Linguagem Programação</b> </p>
 <a href="https://www.python.org" alt="Python" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
