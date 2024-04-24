@@ -43,10 +43,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7647a7?style=flat&logo=terraform&logoColor=white"></a> 
 <a href="https://www.docker.com" alt="Docker" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
-<a href="https://www.nginx.com" alt="Nginx" target="_blank">
-    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"></a>
-<a href="https://httpd.apache.org/" alt="Apache HTTP Server" target="_blank">
-    <img alt="Apache HTTP Server" src="https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat&logo=apache&logoColor=white"></a>
 <a href="https://kubernetes.io" alt="Kubernetes" target="_blank">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"></a>  
 <a href="https://www.jenkins.io" alt="Jenkins" target="_blank">
