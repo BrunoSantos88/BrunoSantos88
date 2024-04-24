@@ -12,7 +12,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 
 <ul>
     <b> 🎯 Estudando:</b> Cyber Security/DevOps/AppSec e DevSecOps </li> </p>
-    <b> 🎯 Formação:</b> Cursando ADS (Analise e Desenvolvimento Sistema)</li> </p>
+    <b> 🎯 Formação:</b> Cursando Analise e Desenvolvimento Sistema </li> </p>
     <b> 🎯 Cursando Programa Desenvolve :</b> Trilha Cyber Security </li>  </p>
     <b> 🎯 Cursando Programa HackerDoBem (RNP) :</b> Modulo Fundamentos </li>  </p>
 </ul>
