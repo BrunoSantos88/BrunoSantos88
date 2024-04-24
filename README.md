@@ -27,37 +27,8 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
 <a href="https://www.linux.org/" alt="Linux" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-<a href="https://en.wikipedia.org/wiki/Unix-like" alt="Unix" target="_blank">
-    <img alt="Unix" src="https://img.shields.io/badge/Unix-000000?style=flat&logo=unix&logoColor=white"></a>
   </p>   
-<b> 🌐 Networking & Protocolos </b> <br> </p>
-  <a href="https://www.ssh.com/" alt="SSH" target="_blank">
-    <img alt="SSH" src="https://img.shields.io/badge/SSH-000000?style=flat&logo=ssh&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/IPv4" alt="IPv4" target="_blank">
-    <img alt="IPv4" src="https://img.shields.io/badge/IPv4-0080FF?style=flat&logo=internet-explorer&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Virtual_private_network" alt="VPN" target="_blank">
-    <img alt="VPN" src="https://img.shields.io/badge/VPN-009688?style=flat&logo=vpn&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Wide_area_network" alt="WAN" target="_blank">
-    <img alt="WAN" src="https://img.shields.io/badge/WAN-FFA000?style=flat&logo=internet-explorer&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Local_area_network" alt="LAN" target="_blank">
-    <img alt="LAN" src="https://img.shields.io/badge/LAN-4CAF50?style=flat&logo=internet-explorer&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Network_address_translation" alt="NAT" target="_blank">
-    <img alt="NAT" src="https://img.shields.io/badge/NAT-FF5722?style=flat&logo=internet-explorer&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol" alt="HTTP" target="_blank">
-    <img alt="HTTP" src="https://img.shields.io/badge/HTTP-FF5722?style=flat&logo=http&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/HTTPS" alt="HTTPS" target="_blank">
-    <img alt="HTTPS" src="https://img.shields.io/badge/HTTPS-00C853?style=flat&logo=https&logoColor=white"></a>
-    <a href="https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol" alt="SMTP" target="_blank">
-    <img alt="SMTP" src="https://img.shields.io/badge/SMTP-2196F3?style=flat&logo=mail.ru&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Server_Message_Block" alt="SMB" target="_blank">
-    <img alt="SMB" src="https://img.shields.io/badge/SMB-4CAF50?style=flat&logo=smb&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol" alt="FTP" target="_blank">
-    <img alt="FTP" src="https://img.shields.io/badge/FTP-03A9F4?style=flat&logo=ftp&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Domain_Name_System" alt="DNS" target="_blank">
-    <img alt="DNS" src="https://img.shields.io/badge/DNS-7952B3?style=flat&logo=dns&logoColor=white"></a>
 
-
-</p>
 <b> ☁️ Cloud Computing </b> <br> </p>
 <a href="https://aws.amazon.com" alt="AWS" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFD700?style=flat&logo=amazon-aws&logoColor=white"></a>
@@ -99,29 +70,16 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"></a>
 <a href="https://prometheus.io" alt="Alertmanager" target="_blank">
 <img alt="Alertmanager" src="https://img.shields.io/badge/Alertmanager-FFA500?style=flat&logo=prometheus&logoColor=white"></a> 
-<a href="https://github.com/google/cadvisor" alt="cAdvisor" target="_blank">
-    <img alt="cAdvisor" src="https://img.shields.io/badge/cAdvisor-6096BA?style=flat&logo=docker&logoColor=white">
-<a href="https://github.com/prometheus/mysqld_exporter" alt="MySQL Exporter" target="_blank">
-    <img alt="Traefik" src="https://img.shields.io/badge/Traefik-FF6F00?style=flat&logo=traefik&logoColor=white">
-<a href="https://www.jaegertracing.io/" alt="Jaeger" target="_blank">
-    <img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-FF6F00?style=flat&logo=jaeger&logoColor=white">
 </p>
 <b> Database</b> </p>
 <a href="https://www.mysql.com" alt="MySQL" target="_blank">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org" alt="PostgreSQL" target="_blank">
  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a> 
-<a href="https://www.mongodb.com/" alt="MongoDB" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 </a>
- 
 </p>
 
 <b> Linguagem Programação</b> </p>
-<a href="https://nodejs.org" alt="Node.js" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"></a>
-<a href="https://maven.apache.org" alt="Maven" target="_blank">
-    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white"></a>
 <a href="https://www.python.org" alt="Python" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript" target="_blank">
@@ -130,9 +88,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/Shell_script" alt="Shell Script" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
-    </p>
 <br>
-
 <b> CyberSecurity </b> </p>
 <a href="https://owasp.org/" alt="OWASP" target="_blank">
     <img alt="OWASP" src="https://img.shields.io/badge/OWASP-0052CC?style=flat&logo=owasp&logoColor=white">
