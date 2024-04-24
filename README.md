@@ -93,6 +93,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <a href="https://owasp.org/" alt="OWASP" target="_blank">
     <img alt="OWASP" src="https://img.shields.io/badge/OWASP-0052CC?style=flat&logo=owasp&logoColor=white">
 </a>
+ </p>
 ______________________________________________________________________________________________________
 
 <h3> 🔗 PROJETOS, LABS E PRATICANDO.</h3>  </p>
