@@ -15,7 +15,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <b> 🎯 Formação:</b> Cursando ADS (Analise e Desenvolvimento Sistema)</li> </p>
     <b> 🎯 Cursando Programa Desenvolve :</b> Trilha Cyber Security </li>  </p>
     <b> 🎯 Cursando Programa HackerDoBem (RNP) :</b> Modulo Fundamentos </li>  </p>
-    [![CyberOps](https://img.shields.io/badge/CyberOps-8B0000?style=flat&logo=cisco&logoColor=white)](URL_DO_SEU_LINK)
+    [![CyberOps](https://img.shields.io/badge/CyberOps-8B0000?style=flat&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/badge/5e9d3eb4-f909-4068-a6ae-18adcc4c4b71)
 </ul>
 
 </p>
