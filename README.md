@@ -94,6 +94,7 @@ ________________________________________________________________________________
      📕 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> DESAFIO LINUX NA PRATICA DIO </a>  </p>
      📕 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> DESAFIO DIO DEVOPS GOOGLE CLOUD </a>  </p>
      📕 <a href=https://github.com/BrunoSantos88/Desenvolve-Security.git/> TRILHA DESENVOLVE CYBERSECURITY </a>  </p>
+     📕 <a href=https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/> MODULO FUNDAMENTOS RNP (HACKERDOBEM) </a>  </p>
 </li>
  ______________________________________________________________________________________________________
 
