@@ -96,9 +96,9 @@ ________________________________________________________________________________
 <h3>  🔗 Desafio e Projetos. <h3>  </p>
 🎯 <a href= https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/> Criando uma Gameficação simples com HTML > CSS > Javascript </a>  </p> 
 🎯 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> Criando monitoramento com grafana, alertmanager e prometheus. </a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> Criando infraestrura na aws com microserviço, banco de dados e resiliente </a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/tree/main/desafio-kubernetes/> Criando uma infraestrutura em microserviço em kubernetes em uma aplicação escalavel </a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> Criando pipeline na google cloud de uma aplicação,segura e resiliente </a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> Criando infraestrura na aws com microsserviços, banco de dados, resiliente para uma aplicaçã. </a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/tree/main/desafio-kubernetes/> Criando microserviço em kubernetes para uma aplicação escalavel </a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> Criando pipeline na google cloud para deixar aplicação,segura,resiliente e automatizada no processo.  </a>  </p>
 
 
 
