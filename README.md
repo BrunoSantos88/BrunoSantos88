@@ -89,7 +89,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  </p>
 ______________________________________________________________________________________________________
 
-<h3> 🔗 PROJETOS E DOCUMENTAÇÂO </h3>  </p>
+<h3> 🔗 Projetos e Documentação. </h3>  </p>
 📕 <a href=https://github.com/BrunoSantos88/Desenvolve-Security.git/> TRILHA DESENVOLVE CYBERSECURITY </a>  </p>
 📕 <a href=https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/> MODULO-FUNDAMENTOS-RNP (HACKERDOBEM) </a>  </p>
 
