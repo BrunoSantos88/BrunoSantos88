@@ -89,12 +89,15 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  </p>
 ______________________________________________________________________________________________________
 
-<h3> 🔗 PROJETOS, LABS E PRATICANDO.</h3>  </p>
-     📕 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> O2B ACADAMY </a>  </p>
-     📕 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> DESAFIO LINUX NA PRATICA DIO </a>  </p>
-     📕 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> DESAFIO DIO DEVOPS GOOGLE CLOUD </a>  </p>
+<h3> 🔗 PROJETOS DOCUMENTAÇÂO </h3>  </p>
      📕 <a href=https://github.com/BrunoSantos88/Desenvolve-Security.git/> TRILHA DESENVOLVE CYBERSECURITY </a>  </p>
      📕 <a href=https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/> MODULO-FUNDAMENTOS-RNP (HACKERDOBEM) </a>  </p>
+
+<h3>  🔗  Desafio 1 - Criando um Quiz <h3>  </p>
+🎯 <a href= https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/> Criando uma Gameficação simples em HTML > CSS > Javascript </a>  </p> 
+🎯 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> O2B ACADAMY </a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> DESAFIO LINUX NA PRATICA DIO </a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> DESAFIO DIO DEVOPS GOOGLE CLOUD </a>  </p>
 </li>
  ______________________________________________________________________________________________________
 
