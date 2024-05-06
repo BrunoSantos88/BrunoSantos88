@@ -93,12 +93,12 @@ ________________________________________________________________________________
 📕 <a href=https://github.com/BrunoSantos88/Desenvolve-Security.git/> TRILHA DESENVOLVE CYBERSECURITY </a>  </p>
 📕 <a href=https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/> MODULO-FUNDAMENTOS-RNP (HACKERDOBEM) </a>  </p>
 
-<h3>  🔗 Desafio e Projetos. <h3>  </p>
-🎯 <a href= https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/> Criando uma Gameficação simples com HTML > CSS > Javascript.</a>  </p> 
-🎯 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> Monitoramento de aplicação usando dashbord grafana, usando prometheus e criando alertas com Alertmanager.</a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> Desenvolvendo uma infraestrutura na aws,usando serviços container,servidor e banco de dados.</a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/tree/main/desafio-kubernetes/> usando arquitetura micrososerviço com container para uma aplicação escalavel.</a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> usando automação devops:pipelines na google cloud para deixar aplicação,resiliente e automatizada.</a>  </p>
+<h3 style="font-size: 8px;">🔗 Desafios e Projetos</h3>
+🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;">Criando uma Gameficação simples com HTML > CSS > Javascript</a><br>
+🎯 <a href="https://github.com/BrunoSantos88/desafio_o11y_bruno.git/" style="font-size: 8px;">Monitoramento de aplicação usando dashboard Grafana, Prometheus e Alertmanager</a><br>
+🎯 <a href="https://github.com/BrunoSantos88/bootcamp-linux-dio/" style="font-size: 8px;">Desenvolvendo uma infraestrutura na AWS, utilizando serviços container, servidor e banco de dados</a><br>
+🎯 <a href="https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/tree/main/desafio-kubernetes/" style="font-size: 8px;">Usando arquitetura micrososerviço com container para uma aplicação escalável</a><br>
+🎯 <a href="https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/" style="font-size: 8px;">Usando automação DevOps: pipelines na Google Cloud para deixar aplicação resiliente e automatizada</a>
 
 
 
