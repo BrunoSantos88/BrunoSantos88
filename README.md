@@ -89,8 +89,10 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img src="https://img.shields.io/badge/Active%20Directory-0052CC?style=flat&logo=microsoft-active-directory&logoColor=white" alt="Active Directory">
 <a href="https://attack.mitre.org">
     <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-001122?style=flat&logo=mitre-attack&logoColor=white" alt="MITRE ATT&CK">
+<a href="https://aws.amazon.com/iam/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-IAM-yellow?style=flat&logo=amazon-aws&logoColor=white" alt="AWS IAM">
 </a>
-</a>
+
  </p>
 ______________________________________________________________________________________________________
 
