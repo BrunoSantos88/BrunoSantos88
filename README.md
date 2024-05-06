@@ -105,7 +105,7 @@ ________________________________________________________________________________
 
 <h3 style="font-size: 10px;"> 🔗 Desafios e Projetos Desenvolve </h3>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;"> Construindo um Site Responsivo com HTML e CSS </a><br>
-🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio2/" style="font-size: 8px;"> Construindo automação em Cloud, utilizando shellscript,container para uma aplicação em Node.js.</a><br>
+🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio2/" style="font-size: 8px;"> Construindo automação em Cloud, utilizando shellscript,container para uma aplicação Nodejs (Exporess). Ultilizando porta 3000.</a><br>
 
 
 <h3 style="font-size: 10px;"> 🔗 Desafios e Projetos Dio </h3>
@@ -128,3 +128,4 @@ ________________________________________________________________________________
 |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoSantos88&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoSantos88&theme=blueberry)| 
 | :-: | :-: |
 
+30
