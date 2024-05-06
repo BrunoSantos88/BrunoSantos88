@@ -95,10 +95,10 @@ ________________________________________________________________________________
 
 <h3>  🔗 Desafio e Projetos. <h3>  </p>
 🎯 <a href= https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/> Criando uma Gameficação simples com HTML > CSS > Javascript.</a>  </p> 
-🎯 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> Criando monitoramento com grafana, alertmanager e prometheus.</a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> Criando infraestrutura na aws,usando serviços container,servidor e banco de dados.</a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/tree/main/desafio-kubernetes/> Criando serviços em kubernetes para uma aplicação escalavel.</a>  </p>
-🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> Criando pipelines na google cloud para deixar aplicação,resiliente e automatizada.</a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/desafio_o11y_bruno.git/> Monitoramento de aplicação usando dashbord grafana, usando prometheus e criando alertas com Alertmanager.</a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/bootcamp-linux-dio/> Desenvolvendo uma infraestrutura na aws,usando serviços container,servidor e banco de dados.</a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/tree/main/desafio-kubernetes/> usando arquitetura micrososerviço com container para uma aplicação escalavel.</a>  </p>
+🎯 <a href=https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/> usando automação devops:pipelines na google cloud para deixar aplicação,resiliente e automatizada.</a>  </p>
 
 
 
