@@ -89,9 +89,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  </p>
 ______________________________________________________________________________________________________
 
-<<h3 style="font-size: 8px;"> 🔗 Projetos e Documentação. </h3>
-📕 <a href=https://github.com/BrunoSantos88/Desenvolve-Security.git/> TRILHA DESENVOLVE CYBERSECURITY </a>  </p>
-📕 <a href=https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/> MODULO-FUNDAMENTOS-RNP (HACKERDOBEM) </a>  </p>
+<h3 style="font-size: 10px;"> 🔗 Projetos e Documentação. </h3>
+📕 <a href="https://github.com/BrunoSantos88/Desenvolve-Security.git/" style="font-size: 10px;">TRILHA DESENVOLVE CYBERSECURITY</a><br>
+📕 <a href="https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/" style="font-size: 10px;">MODULO-FUNDAMENTOS-RNP (HACKERDOBEM)</a><br>
 
 <h3 style="font-size: 8px;">🔗 Desafios e Projetos</h3>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;">Criando uma Gameficação simples com HTML > CSS > Javascript</a><br>
