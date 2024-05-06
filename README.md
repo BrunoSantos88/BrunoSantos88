@@ -103,17 +103,17 @@ ________________________________________________________________________________
 📕 <a href="https://github.com/BrunoSantos88/Desenvolve-Security.git/" style="font-size: 10px;">TRILHA DESENVOLVE CYBERSECURITY</a><br> </p>
 📕 <a href="https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/" style="font-size: 10px;">MODULO-FUNDAMENTOS-RNP (HACKERDOBEM)</a><br>
 
-<h3 style="font-size: 10px;"> 🔗 Desafios e Projetos Desenvolve </h3>
+<h3 style="font-size: 10px;"> 🔗 Desafios Desenvolve </h3>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;"> Construindo um Site Responsivo com HTML e CSS </a><br>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio2/" style="font-size: 8px;"> Construindo automação em Cloud, utilizando shellscript,container para uma aplicação Nodejs (Express).</a><br>
 
-
-<h3 style="font-size: 10px;"> 🔗 Desafios e Projetos Dio </h3>
-🎯 <a href="https://github.com/BrunoSantos88/desafio_o11y_bruno.git/" style="font-size: 8px;">Monitoramento de aplicação usando dashboard Grafana, Prometheus e Alertmanager</a><br>
+<h3 style="font-size: 10px;"> 🔗 Desafios Dio </h3>
 🎯 <a href="https://github.com/BrunoSantos88/bootcamp-linux-dio/" style="font-size: 8px;">Desenvolvendo uma infraestrutura na AWS, utilizando serviços container, servidor e banco de dados</a><br>
 🎯 <a href="https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/tree/main/desafio-kubernetes/" style="font-size: 8px;">Usando arquitetura micrososerviço com container para uma aplicação escalável</a><br>
 🎯 <a href="https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/" style="font-size: 8px;">Usando automação DevOps: pipelines na Google Cloud para deixar aplicação resiliente e automatizada</a>
 
+<h3 style="font-size: 10px;"> 🔗 Desafios O2B </h3>
+🎯 <a href="https://github.com/BrunoSantos88/desafio_o11y_bruno.git/" style="font-size: 8px;">Monitoramento de aplicação usando dashboard Grafana, Prometheus e Alertmanager</a><br>
 
 
 </li>
