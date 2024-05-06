@@ -85,7 +85,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <b> CyberSecurity </b> </p>
 <a href="https://owasp.org/" alt="OWASP" target="_blank">
     <img alt="OWASP" src="https://img.shields.io/badge/OWASP-0052CC?style=flat&logo=owasp&logoColor=white">
-![AWS IAM](https://img.shields.io/badge/AWS-IAM-yellow?logo=amazon-aws&style=flat-square)
+<a href="https://aws.amazon.com/iam/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-IAM-yellow?logo=amazon-aws&style=for-the-badge" alt="AWS IAM">
+</a>
 </a>
  </p>
 ______________________________________________________________________________________________________
