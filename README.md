@@ -106,7 +106,6 @@ ________________________________________________________________________________
 <h3 style="font-size: 10px;"> 🔗 Desafios e Projetos Desenvolve </h3>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;"> Construindo um Site Responsivo com HTML e CSS </a><br>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio2/" style="font-size: 8px;"> Construindo automação para cloud, usando container e uma aplicação em Nodejs. </a><br>
-https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio2
 
 
 <h3 style="font-size: 10px;"> 🔗 Desafios e Projetos Dio </h3>
