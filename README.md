@@ -104,7 +104,7 @@ ________________________________________________________________________________
 📕 <a href="https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/" style="font-size: 10px;">MODULO-FUNDAMENTOS-RNP (HACKERDOBEM)</a><br>
 
 <h3 style="font-size: 10px;"> 🔗 Desafios e Projetos</h3>
-🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;">Criando uma Gameficação simples com HTML > CSS > Javascript</a><br>
+🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;">Construindo um Site Responsivo com HTML e CSS </a><br>
 🎯 <a href="https://github.com/BrunoSantos88/desafio_o11y_bruno.git/" style="font-size: 8px;">Monitoramento de aplicação usando dashboard Grafana, Prometheus e Alertmanager</a><br>
 🎯 <a href="https://github.com/BrunoSantos88/bootcamp-linux-dio/" style="font-size: 8px;">Desenvolvendo uma infraestrutura na AWS, utilizando serviços container, servidor e banco de dados</a><br>
 🎯 <a href="https://github.com/BrunoSantos88/GoogleCloud-Desafio-Dio-Experience/tree/main/desafio-kubernetes/" style="font-size: 8px;">Usando arquitetura micrososerviço com container para uma aplicação escalável</a><br>
