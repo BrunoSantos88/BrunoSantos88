@@ -100,6 +100,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 ______________________________________________________________________________________________________
 [![dockeri.co](https://dockerico.blankenship.io/image/node)](https://hub.docker.com/_/node)
 
+[![GitHub issues](https://img.shields.io/github/issues/nodejs/docker-node.svg "GitHub issues")](https://github.com/nodejs/docker-node)
+[![GitHub stars](https://img.shields.io/github/stars/nodejs/docker-node.svg "GitHub stars")](https://github.com/nodejs/docker-node)
+
 <h3 style="font-size: 10px;"> 🔗 Documentação. </h3>
 📕 <a href="https://github.com/BrunoSantos88/Desenvolve-Security.git/" style="font-size: 10px;">TRILHA DESENVOLVE CYBERSECURITY</a><br>
 📕 <a href="https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/" style="font-size: 10px;">HackerDoBem(Modulo-Fundamentos)</a><br>
