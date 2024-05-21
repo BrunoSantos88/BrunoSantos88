@@ -103,7 +103,7 @@ ________________________________________________________________________________
 
 <h3 style="font-size: 10px;"> 🔗Desafio e Projetos Desenvolve </h3>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;"> Construindo um Site Responsivo com HTML e CSS </a><br>
-🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio2/" style="font-size: 8px;"> Construindo automação em Cloud, utilizando shellscript,container para uma aplicação Nodejs (Express).</a><br>
+🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio2/" style="font-size: 8px;"> Construindo automação, utilizando shellscript,container para uma aplicação Nodejs (Express).</a><br>
 
 <h3 style="font-size: 10px;"> 🔗 Desafios Dio </h3>
 🎯 <a href="https://github.com/BrunoSantos88/bootcamp-linux-dio/" style="font-size: 8px;">Desenvolvendo uma infraestrutura na AWS, utilizando serviços container, servidor e banco de dados</a><br>
