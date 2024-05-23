@@ -99,7 +99,7 @@ ________________________________________________________________________________
 
 <h3 style="font-size: 10px;"> 🔗 Documentação. </h3>
 📕 <a href="https://github.com/BrunoSantos88/Desenvolve-Security.git/" style="font-size: 10px;">Trilha CyberSecurity(Desenvolve)</a><br>
-📕 <a href="https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/" style="font-size: 10px;">HackerDoBem(Modulo-Fundamentos)</a><br>
+📕 <a href="https://github.com/BrunoSantos88/Hacker_do_bem/tree/fundamentos/" style="font-size: 10px;">HackerDoBem(Fundamentos)</a><br>
 
 <h3 style="font-size: 10px;"> 🔗Desafio e Projetos Desenvolve </h3>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;"> Construindo um Site Responsivo com HTML e CSS </a><br>
