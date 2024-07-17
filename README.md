@@ -12,7 +12,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <b> 🎯 Estudando:</b> Cyber Security e Cloud Security </li> </p>
     <b> 🎯 Formação:</b> Cursando Analise e Desenvolvimento Sistema (Vincit)</li> </p>
     <b> 🎯 Cursando Programa Desenvolve :</b> Trilha Cyber Security </li>  </p>
-    <b> 🎯 Cursando Programa HackerDoBem (RNP) :</b> Modulo Fundamentos </li>  </p>
+    <b> 🎯 Cursando Programa HackerDoBem (RNP) :</b> Modulo Especialização. </li>  </p>
 </ul>
 
 </p>
