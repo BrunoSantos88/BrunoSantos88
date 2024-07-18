@@ -6,7 +6,7 @@
 </a>
 
 <h3></h3>
-Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber Security, automação de aplicativos e Cloud Security. Tenho experiência em redes e ambientes de telecomunicações e estou em transição de carreira. </p>
+Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber Security, automação de aplicativos e Cloud Security. Tenho experiência em redes e ambientes de telecomunicações. </p>
 
 <ul>
     <b> 🎯 Estudando:</b> Cyber Security e Cloud Security </li> </p>
