@@ -4,9 +4,7 @@
 <a href="https://cursos.alura.com.br/user/ilovegamesrpg" target="_blank">
     <img src="https://img.shields.io/badge/Alura-52B6FF?style=flat-square&logo=alura&logoColor=white" alt="Alura">
 <a href="https://www.credly.com/users/bruno-santos-ferreira-da-silva" target="_blank">
-  <img src="https://img.shields.io/badge/certification-cinza" alt="Credly Badge">
-</a>
-</a>
+  <img src="https://img.shields.io/badge/Certificações" alt="Credly Badge">
 </a>
 
 
