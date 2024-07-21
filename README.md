@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Alura-52B6FF?style=flat-square&logo=alura&logoColor=white" alt="Alura">
 </a>
 <a href="https://www.credly.com/users/bruno-santos-ferreira-da-silva" target="_blank">
-    <img src="https://img.shields.io/badge/certificações-4285F4?style=flat-square" alt="Credly Badge">
+    <img src="https://img.shields.io/badge/Certificações-4285F4?style=flat-square" alt="Credly Badge">
 </a>
 
     
