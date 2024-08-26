@@ -100,7 +100,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
  </p>
 ______________________________________________________________________________________________________
 
-<h3 style="font-size: 10px;"> 🔗 Documentação. </h3>
+<h3 style="font-size: 10px;"> 🔗 Laboratorios Praticos </h3>
 📕 <a href="https://github.com/BrunoSantos88/Desenvolve-Security.git/" style="font-size: 10px;">Trilha CyberSecurity(Desenvolve)</a><br>
 📕 <a href="https://github.com/BrunoSantos88/Hacker_do_bem/tree/especializado/" style="font-size: 10px;">HackerDoBem(DevSecOps)</a><br>
 
