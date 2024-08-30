@@ -82,6 +82,9 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
     <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/Shell_script" alt="Shell Script" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white"></a>
+<a href="https://golang.org" target="_blank">
+    <img alt="Go Language" src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat&logo=go&logoColor=white">
+</a>
  </p>
 <b> CyberSecurity </b> </p>
 <a href="https://owasp.org/" alt="OWASP" target="_blank">
