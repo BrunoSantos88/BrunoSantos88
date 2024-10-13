@@ -16,7 +16,6 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 
 <p align="left">
 <h3> 🔗 Tecnologias</h3>
-
 <b> 💻 Systema Operacional: Windows e Linux </b> <br> </p>  
 <b> ☁️ Cloud Computing: AWS, Azure e Google cloud </b> <br> </p>
 <b> ⚙️ DevOps: Jenkins, Gitaction e Gitlab </b>  </p>
