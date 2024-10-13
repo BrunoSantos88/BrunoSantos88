@@ -17,12 +17,12 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <p align="left">
 <h3> 🔗 Tecnologias</h3>
 
-<b> 💻 Systema Operacional </b> <br> </p>
-<b> ☁️ Cloud Computing </b> <br> </p>
-<b> ⚙️ DevOps </b>  </p>
-<b> ⚙️ Observabilidade </b> </p>
-<b> 💻 Linguagem Programação</b> </p>
-<b> ☁️ CyberSecurity </b> </p>
+<b> 💻 Systema Operacional: Windows e Linux </b> <br> </p>  
+<b> ☁️ Cloud Computing: AWS, Azure e Google cloud </b> <br> </p>
+<b> ⚙️ DevOps: Jenkins, Gitaction e Gitlab </b>  </p>
+<b> ⚙️ Observabilidade: Prometheus, grafana e alertmanager </b> </p>
+<b> 💻 Linguagem Programação: Python,javascript e golang </b> </p>
+<b> ☁️ CyberSecurity: OwaspToTem, MitreAttack e Nist </b> </p>
  </p>
 ______________________________________________________________________________________________________
 
