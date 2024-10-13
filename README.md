@@ -22,10 +22,7 @@ Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber S
 <b> ⚙️ DevOps </b>  </p>
 <b> ⚙️ Observabilidade </b> </p>
 <b> 💻 Linguagem Programação</b> </p>
-<b> CyberSecurity </b> </p>
-</a>
-</a>
-
+<b> ☁️ CyberSecurity </b> </p>
  </p>
 ______________________________________________________________________________________________________
 
