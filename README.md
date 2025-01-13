@@ -8,12 +8,6 @@
     <img src="https://img.shields.io/badge/Certificações-4285F4?style=flat-square" alt="Credly Badge">
 </a>
 
-    
-<h3></h3>
-Sou o Bruno Santos, sou da cidade de Santos. Atualmente, estou estudando Cyber Security, automação de aplicativos e Cloud Security. Tenho experiência em redes e ambientes de telecomunicações. </p>
-
-</p>
-
 <p align="left">
 <h3> 🔗 Tecnologias</h3>
 <b> 💻 Systema Operacional: Windows e Linux </b> <br> </p>  
