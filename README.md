@@ -13,6 +13,7 @@
 <b> 💻 Systema Operacional: Windows e Linux </b> <br> </p>  
 <b> ☁️ Cloud Computing: AWS, Azure e Google cloud </b> <br> </p>
 <b> ⚙️ DevOps: Jenkins, Gitaction e Gitlab </b>  </p>
+<b> ⚙️ Siem: WAZUH e Sentinel.
 <b> ⚙️ Observabilidade: Prometheus, grafana e alertmanager </b> </p>
 <b> 💻 Linguagem Programação: Python,javascript e golang </b> </p>
 <b> ☁️ CyberSecurity: OwaspToTem, MitreAttack e Nist </b> </p>
