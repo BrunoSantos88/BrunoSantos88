@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 <h3 style="font-size: 10px;"> 🔗 Mentoria ElvenWorks Kubernetes </h3>
 🎯 <a href="https://github.com/BrunoSantos88/kubernetes-ansible/" style="font-size: 8px;">Emerson Mentor Kubenetes ElvenWorks</a><br>
-🎯 <a href="https://github.com/BrunoSantos88/kubernets/" style="font-size: 8px;"></a>Estudos-Udemyk8s <br>
+🎯 <a href="https://github.com/BrunoSantos88/kubernets/" style="font-size: 8px;">Estudos-Udemyk8s</a><br>
 
 </li>
  ____________________________________________________________________________________________________
