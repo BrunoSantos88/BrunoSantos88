@@ -14,6 +14,7 @@
 <b> ☁️ Cloud Computing: AWS, Azure e Google cloud </b> <br> </p>
 <b> ⚙️ DevOps: Jenkins, Gitaction, Gitlab  e AWS CodePipeline</b>  </p>
 <b> ⚙️ Siem: WAZUH</p>
+<b> ⚙️ Container: Kubernets e Docker</p>
 <b> ⚙️ Observabilidade: Prometheus, grafana e alertmanager </b> </p>
 <b> 💻 Linguagem Programação: Python,javascript e golang </b> </p>
 <b> ☁️ CyberSecurity: OwaspToTem, MitreAttack e Nist </b> </p>
