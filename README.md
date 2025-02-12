@@ -38,6 +38,9 @@ ________________________________________________________________________________
 <h3 style="font-size: 10px;"> 🔗 Desafios O2B </h3>
 🎯 <a href="https://github.com/BrunoSantos88/desafio_o11y_bruno.git/" style="font-size: 8px;">Monitoramento de aplicação usando dashboard Grafana, Prometheus e Alertmanager</a><br>
 
+<h3 style="font-size: 10px;"> 🔗 Mentoria ElvenWorks Kubernetes </h3>
+🎯 <a href="https://github.com/BrunoSantos88/kubernetes-ansible/" style="font-size: 8px;">Emerson Mentor Kubenetes ElvenWorks</a><br>
+🎯 <a href="https://github.com/BrunoSantos88/kubernets/" style="font-size: 8px;"></a>Estudos-Udemyk8s <br>
 
 </li>
  ____________________________________________________________________________________________________
