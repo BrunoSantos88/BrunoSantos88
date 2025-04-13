@@ -25,6 +25,7 @@ ________________________________________________________________________________
 📕 <a href="https://github.com/BrunoSantos88/Desenvolve-Security.git/" style="font-size: 10px;">Trilha CyberSecurity(Desenvolve)</a><br>
 📕 <a href="https://github.com/BrunoSantos88/Hacker_do_bem/tree/especializado/" style="font-size: 10px;">HackerDoBem(DevSecOps)</a><br>
 📕 <a href="https://github.com/BrunoSantos88/elven-bootcamp-sre.git/" style="font-size: 10px;">BootcampSRE-(ElvenWorks)</a><br>
+📕 <a href="" style="font-size: 10px;">Siem-wazuh-Desafios</a><br>
 
 <h3 style="font-size: 10px;"> 🔗 Desafio Desenvolve </h3>
 🎯 <a href="https://github.com/BrunoSantos88/Desenvolve-Trilha-SI/tree/desafio/" style="font-size: 8px;"> Construindo um Site Responsivo com HTML e CSS </a><br>
