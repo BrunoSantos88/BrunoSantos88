@@ -9,15 +9,41 @@
 </a>
 
 <p align="left">
-<h3> 🔗 Tecnologias</h3>
-<b> 💻 Systema Operacional: Windows e Linux </b> <br> </p>  
-<b> ☁️ Cloud Computing: AWS, Azure e Google cloud </b> <br> </p>
-<b> ⚙️ DevOps: Jenkins, Gitaction, Gitlab  e AWS CodePipeline</b>  </p>
-<b> ⚙️ Siem: WAZUH,Sentinel e Splunk </p>
-<b> ⚙️ Container: Kubernets e Docker</p>
-<b> ⚙️ Observabilidade: Prometheus, grafana e alertmanager </b> </p>
-<b> 💻 Linguagem Programação: Python,javascript e golang </b> </p>
-<b> ☁️ CyberSecurity: OwaspToTem, MitreAttack e Nist </b> </p>
+    
+<p> Olá, sou Bruno Santos e seja muito bem-vindo(a) ao meu perfil! </p>
+
+<p> Sou profissional com mais de 4 anos de experiência na área de tecnologia, com foco em TI, infraestrutura, redes e monitoramento, além de sistemas operacionais como Windows e Linux.  </p>
+
+<p> 🔐 Conhecimento em Segurança da Informação  </p>
+<p>Explorando boas práticas, padrões e tendências na proteção de dados e sistemas.  </p>
+
+<p>☁️ Cloud Security  </p>
+<p>Conhecimento em proteger ambientes em nuvem com foco em identidade, rede, compliance e princípio do menor privilégio de acesso aos serviços.  </p>
+
+<p>☁️ Cloud Computing  </p>
+<p> Conhecimento avançado em serviços de nuvem, incluindo: criação de serviços, gerenciamento de IAM, definição de políticas, gestão de acesso, criação de serviços em contêineres com Kubernetes, containers, banco de dados, redes e configuração de DNS.  </p>
+
+<p>🛡️ DevSecOps  </p>
+<p>- Segurança integrada ao ciclo de vida DevOps, com conhecimentos em Git, Docker, CI/CD pipelines, Kubernetes, e IAC: utilizando Ansible e Terraform.  </p>
+<p>- DAST: uso do Trivy e Snyk para identificação de vulnerabilidades em tempo de execução e em imagens de containers.  </p>
+<p>- SAST: utilização do SonarQube para análise estática de código-fonte.  </p>
+
+<p> 🛡️ Conhecimento ferramentas de SIEM: Wazuh, Sentinel e Splunk para monitoramento de eventos, resposta a incidentes de segurança. Conheciimento com Ferramentas de XDR e EDR, ampliando a visibilidade e reduzindo o tempo de resposta frente a ameaças. Capacidade de coletar e analisar dados de segurança usando IPS/IDS, detecção de atividades maliciosas em tempo real.  </p>
+
+<p>🧪 Capacidade de analisar vulnerabilidades, identificando brechas antes que sejam exploradas, utilizando ferramentas de testes automatizados.(OpenVas e Nessus).  </p>
+
+<p> 📊 Avaliação de impacto e criticidade em vulnerabilidades, com base em CVE e CVSS.  </p>
+
+<p> 🔟 Conceito e entendimento do OWASP Top 10, compreendendo os principais riscos de segurança em aplicações web.  </p>
+
+<p>🧠 Conhecimento no framework MITRE ATT&CK – Compreensão das táticas e técnicas utilizadas por atacantes.  </p>
+
+<p> 🏛️ NIST e CIS Controls – Aplicação de boas práticas e controles para o fortalecimento da postura de segurança.  </p>
+
+<p> 🔐 ISO/IEC 27001 – Familiaridade com os requisitos de gestão da segurança da informação.  </p>
+
+<p> 📜 LGPD – Conhecimento da Lei Geral de Proteção de Dados e sua aplicabilidade em ambientes corporativos. </p>
+ 
  </p>
 ______________________________________________________________________________________________________
 
