@@ -13,7 +13,7 @@
 <b> 💻 Systema Operacional: Windows e Linux </b> <br> </p>  
 <b> ☁️ Cloud Computing: AWS, Azure e Google cloud </b> <br> </p>
 <b> ⚙️ DevOps: Jenkins, Gitaction, Gitlab  e AWS CodePipeline</b>  </p>
-<b> ⚙️ Siem: WAZUH</p>
+<b> ⚙️ Siem: WAZUH,Sentinel e Splunk </p>
 <b> ⚙️ Container: Kubernets e Docker</p>
 <b> ⚙️ Observabilidade: Prometheus, grafana e alertmanager </b> </p>
 <b> 💻 Linguagem Programação: Python,javascript e golang </b> </p>
